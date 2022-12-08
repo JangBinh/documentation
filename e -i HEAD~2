@@ -1,0 +1,2866 @@
+[33m4d03cea99[m[33m ([m[1;36mHEAD -> [m[1;32m14.0-Maintain-rewrite-keycdn-doc-tiku[m[33m)[m change out png file
+[33m5d23272ca[m[33m ([m[1;31morigin/14.0-Maintain-rewrite-keycdn-doc-tiku[m[33m)[m edits to keyCDN doc
+[33mec1ddb34b[m[33m ([m[1;31morigin/tmp.14.0[m[33m, [m[1;31morigin/14.0[m[33m, [m[1;32m14.0[m[33m)[m [ADD] Quality: configure quality control checks
+[33mb5febf229[m [MOV] purchase: moving doc page from accounting to purchase
+[33mf469e4ef8[m [IMP] install/maintain: clarification in the upgrade SLA
+[33m2fb777e3e[m [IMP] sales: fix returns and refunds
+[33m8eea9e694[m [I18N] Update translation terms from Transifex
+[33m957a9f9fb[m [IMP] dev/api: add ref custom anchor to external api keys
+[33m92de7ccb2[m [IMP] install/maintain: update content of upgrade SLA
+[33m3cf6e25f0[m [IMP] surveys:update get started docs
+[33mc59663f25[m [IMP] toctrees: redesign and new card component
+[33m78d3cf489[m [IMP] : accounting : manage a financial budget documentation
+[33m8396c2a4a[m [IMP] helpdesk: close_ticket.rst cleanup
+[33md9f81c771[m [I18N] Update translation terms from Transifex
+[33mf7b1f66b8[m [FIX] developer/guidelines: odoo addons import order
+[33mebce333c7[m [IMP] supported_versions: add end of support dates for SaaS versions
+[33m8138b95b0[m [IMP] POS: improve and update the barcode page (text & screenshots)
+[33m4d3a10e8c[m [IMP] sales: update portal.rst
+[33me3dc5095c[m [I18N] Update translation terms from Transifex
+[33me0e8ff6a9[m [IMP] conf: prepare for building documentation in Romanian
+[33m8aebb7923[m [IMP] odoo_theme: Fix alerts and accordions colors
+[33mee2390fda[m [IMP] odoo_theme: Fix text-dark on homepage
+[33m32c9e59ae[m [IMP] odoo-theme: Revert $dark color variable to initial $gray-900
+[33m39ce411f7[m [CHG] legal: partnership contract v10 (update SH commission)
+[33mdc2c01a87[m [I18N] Update translation terms from Transifex
+[33m981ee350b[m [FIX] odoo_theme: re-enable redirect fallback logic
+[33m96cbb2375[m[33m ([m[1;31morigin/14.0-scss-cleanup-part-1-edi[m[33m)[m [FIX] maintain: correct cname definition
+[33mcfaf4386c[m [IMP] project: adding description to app page
+[33md6b930b7b[m [MERGE] odoo_theme: SCSS code clean up
+[33m8515e7605[m [I18N] *: update source terms
+[33m29748e888[m [IMP][CSS] Replace text-decoration on link with BS override
+[33mf5c479264[m [IMP][CSS] Reorder styles according to styles guidelines
+[33mdd96923f5[m [IMP] fix typo
+[33mfc7b595e2[m [IMP] icon fixes
+[33mec54e4e26[m [IMP][CSS] Fix unresponsive font-size on alert text
+[33ma2744f4ee[m [IMP][CSS] Remove browser prefixes and unnecessary mixins
+[33m92112c2ac[m [IMP][CSS] Fix literals in alerts containing tabs
+[33m006ee6d4b[m [IMP][CSS] Fix data indentation
+[33m11414bc28[m [IMP][CSS] Fix alignment on modal btn-close
+[33m9613b7a40[m [IMP] Indentation fix
+[33md04496ade[m [REM] Removal of changelog
+[33m830b1a00a[m [IMP][CSS] Use BS font-weight variables and fix
+[33mde13db24a[m [IMP][CSS] Fix color variable issue
+[33m4bbf0d542[m [IMP][CSS] Revamp of the .o_spoiler element to use same code as alerts
+[33m64787fce6[m [IMP][CSS]Change order of imported scss files
+[33mc24402385[m [IMP][CSS] Use CSS variables to style different alert types
+[33m443ad1c6c[m [IMP][CSS] Place overrides in bootstrap_overridden file
+[33m39d5c9048[m [IMP][CSS] Clean up the file according to conventions
+[33m29d043102[m [IMP][CSS] Set gray background to it's original darker color
+[33mddc201472[m [IMP][CSS] Improve literals styling (o_code, .sig-*)
+[33m586437619[m [IMP][CSS] Update _sphinx_basic.css after update of Sphinx Note: Some code is commented instead of being deleted. This allows us to keep track of what should be commented out in future versions of Sphinx' basic CSS.
+[33mb6e6f7441[m [IMP][CSS] Remove repetitive or unnused CSS
+[33m29c115155[m [IMP][CSS] Improve margins on headings and sections
+[33m069bd62fd[m [IMP][CSS] Replace margin and padding values with variables
+[33m28d19ede8[m [IMP][CSS] Revamp modal to use all BS classes and variables
+[33m2c250f605[m [IMP][CSS] Rescale heading fonts
+[33m0ff455dbd[m [IMP][CSS] Cleanup font variables
+[33me4bb7e34d[m [IMP][CSS] Cleanup admonitions (alerts)
+[33m2d977b2c4[m [IMP][CSS] Cleanup color variables
+[33m1fa11060a[m [IMP][CSS] update literals styles (.o_code, .sig-*)
+[33m2073beb1c[m [IMP] odoo_theme: add the class `o_code` on literals
+[33mcc98a064c[m [FIX] odoo_theme: handle non-TOC pages when expanding top menu entries
+[33mbcd752f01[m [IMP] odoo_theme: scroll the active menu entry into view
+[33mad91dd67c[m [FIX] rdtraining: fix writing errors
+[33ma71f202ea[m [IMP] README: remove version from links and rephrase explanations
+[33mf58bfc49b[m [IMP] contributing/documentation: rewrite the contribution guide
+[33m09c062f57[m [ADD] contributing/development: add a guide to contribute to the codebase
+[33m73b5851d2[m [IMP] Calendar: Outlook sync warning
+[33m538ea65cc[m [I18N] Update translation terms from Transifex
+[33mf068065d3[m [FIX] odoo_theme: update the aria attributes when scrolling the page TOC
+[33m5526f1ea0[m [IMP] odoo_theme: expand top level menu items on the homepage
+[33mcd735539f[m [I18N] Update translation terms from Transifex
+[33m66bd6296c[m [I18N] Update translation terms from Transifex
+[33m816f43706[m [FIX] core: latex build
+[33mdbf7a090d[m [ADD] misc: connect office365 with azure oauth
+[33m73021c3a4[m [FIX] legal: fix path to PDF version of legal agreements
+[33md25e094f4[m [IMP] payment acquirers: multi-company use
+[33mb1f92ba87[m [IMP] odoo.sh: Python libraries and packages
+[33m67a75a3e1[m [FIX] rdtraining: remove outdated line about `journal_id` in chapter 14
+[33m5053879ec[m [I18N] Update translation terms from Transifex
+[33m4f6b03dc5[m [ADD] marketing automation: added 'getting started' section and docs to round out documentation
+[33ma309372d8[m [IMP] contributing: list the ways to contribute to Odoo
+[33mdc3d43c14[m [IMP] general: add notes about dev mode toggle
+[33m0b9279d52[m [IMP] conf.py, *: interpolate the version and releases in the content
+[33m54d661039[m [IMP] conf.py: allow interpolating arbitrary strings
+[33mbfa99eb51[m [IMP] accounting: different ways to record a payment
+[33mb7bc34a19[m [IMP] documentation: legal page design
+[33m939d40c16[m [ACC] accounting: Forecasting bills
+[33m02ef871fa[m [IMP] CRM: updating flow and screenshots about lead mining
+[33m1db9968fa[m [IMP] accounting: tax return
+[33me1d0efb66[m [IMP] paypal: typo update
+[33mc9a001d22[m [FIX] documentation: tabs responsiveness
+[33m1ee45c661[m [IMP] pos: update and improve the page and screenshots
+[33mf0fa7a2e2[m [IMP] contribution: typo in documentation.rst
+[33mb1d9a48e9[m [I18N] Update translation terms from Transifex
+[33mdfb780148[m [IMP] contributing/documentation: suggest to clone with ssh
+[33mfe2d694af[m [IMP] accounting: batch payments sdd
+[33maa9126b03[m [IMP] point_of_sale: Adyen Event URLs configuration
+[33mf0f6083ee[m [IMP] upgrade: updating screenshots and process steps
+[33m9cc60baf4[m [IMP] developer/howtos: deprecate themes tutorial
+[33mfa33a4de0[m [I18N] Update translation terms from Transifex
+[33mc1914e16f[m [FIX] developer/mobile: use spaces and not tabs for indentation
+[33m06f328a39[m [FIX] *: unbalanced literal markups
+[33mefb6c47e9[m [FIX] *: remove trailing whitespaces
+[33m4af760080[m [FIX] *: enforce 1 newline on files end
+[33mbe0a995e2[m [ADD] Sales: new doc about returns and refunds
+[33mbca1d9c24[m [IMP] Legal: Update Dutch translation
+[33m8a5aa384d[m [CLN] core: upgrade to python 3.6
+[33m0d2dd5934[m [ADD] accounting: manage cash transactions
+[33mb085e0630[m [IMP] legal/fr: fix typos, spellcheck French translation
+[33m9e764f3da[m [IMP] iot: Add part regarding screen
+[33mf0037e07c[m [I18N] Update translation terms from Transifex
+[33m60ad93ea3[m [IMP] accounting: updated chart of accounts v15
+[33me4839ea7e[m [IMP] accounting: updated multiple payments page
+[33md4f156110[m [I18N] Update translation terms from Transifex
+[33m7cf109db1[m [IMP] TaxCloud: updated doc
+[33m7fb5a21d6[m [IMP] accounting: Bank Synchronization: automatic import
+[33me05c19737[m [I18N] Update translation terms from Transifex
+[33m4d7a88639[m [IMP] extensions/spoilers: add an extension for spoilers
+[33m1691e8970[m [IMP] odoo_theme: add default BS functions
+[33mf908b92e2[m [IMP] accounting: reconciliation models
+[33me2d69f718[m [IMP] legal: OE v10a - clarified wording for Section 5.1
+[33m758463edd[m [FIX] developer/guidelines: do not mention deprecated xml tags
+[33ma8ca40023[m [I18N] Update translation terms from Transifex
+[33m8bf148a44[m [IMP] *: Remove "SaaS" to keep only the "Odoo Online" appellation
+[33m2be57d669[m [IMP] *: consistency for the use of "Odoo Online" (and SaaS)
+[33m34101de7e[m [IMP] legal: make PDF links relative
+[33m0e213299f[m [FIX] legal: enterprise terms FR fall 2022 pricing typo
+[33mcea72d693[m [FIX] legal: enterprise terms DE translation update (v9c)
+[33ma39873262[m [I18N] Update translation terms from Transifex
+[33mefad62d88[m [CHG] legal: enterprise terms for fall 2022 pricing
+[33mf04b76cb0[m [IMP] supported_version: release 16.0 and deprecate 13.0
+[33m6252732b2[m [I18N] Update translation terms from Transifex
+[33mbbfa14d59[m [I18N] Update translation terms from Transifex
+[33m440cdeb9f[m [I18N] Update translation terms from Transifex
+[33ma0ae8f8b5[m [FIX] accounting: grammar fix in ponto
+[33m2b94ed136[m [IMP] email_communication: can't use Odoo STMP with another mail server
+[33m05d10ab35[m [ADD] Sales: adding doc about variants in orders
+[33m5e3bc80f6[m [I18N] Update translation terms from Transifex
+[33m338fe297b[m [IMP] developer/howtos/rdtraining: Add missing information about module category.
+[33md5db3e739[m [ADD] accounting: data inalterability check report
+[33m01878ac96[m [IMP] Sales: updating product variants overview and config
+[33me5246e385[m [I18N] Update translation terms from Transifex
+[33m49d32adac[m [FIX] coding_guidelines: fix typos and add sql contraints
+[33m8d482c831[m [IMP] acc/l10n: minor change in mexico/pre-requirements
+[33m3fb1e9f9f[m [IMP] accounting: update the information on recording payments
+[33m04c969223[m [IMP] install/maintain: add note about mailboxes in domain_names
+[33m80dea0f20[m [I18N] Update translation terms from Transifex
+[33m858ddb530[m [IMP] crm: grammar on google_spreadsheets
+[33m11b935278[m [I18N] *: export 14.0 source terms
+[33m3db9ebf74[m [FIX] inventory: fix typo
+[33ma6f2c5589[m [IMP] finance/accounting: add Delivery Guide to CL localization
+[33md78eefdd0[m [IMP] accounting: stripe page update
+[33m0ba09280a[m [IMP] accounting: updated foreign currency page
+[33m99519c93c[m [FIX] accounting: new tutorial link in payment_terms
+[33mc9ab4bfac[m [IMP] accounting: fixed one-word mistake on B2B/B2C page
+[33m4c71c9011[m [I18N] Update translation terms from Transifex
+[33ma6a55f2b4[m [FIX] odoo_sh: change img who explain storage space
+[33ma434db86f[m [IMP] maintain : process for odoo.sh to odoo online
+[33m318561b1b[m [FIX] iot: typo in devices/scale
+[33m165ebaa80[m [IMP] stripe: clarify the conditions for the support of a payment method
+[33mbfb9ce947[m [I18N] Update translation terms from Transifex
+[33m2d7b589da[m [IMP] inventory and mrp: capitalized "MRP" in toctree
+[33m73204e678[m [ADD] accounting: creation of electronic invoicing documentation
+[33m518e75249[m [I18N] Update translation terms from Transifex
+[33m4558be3a5[m [IMP] install: guide the user through the login page
+[33m9279fb80a[m [IMP] rdtraining: mention that the second part needs to be completed too
+[33mb8e73f34c[m [I18N] Update translation terms from Transifex
+[33m1c4abe4e0[m [CLN] rdtraining: remove reference to unexisting file
+[33m148de7d66[m [I18N] Update translation terms from Transifex
+[33mb8ee134a2[m [IMP] rdtraining: update float utils information
+[33m77f4b4b30[m [IMP] install: troubleshoot typical problems for Mac users
+[33m4c5951953[m [IMP] install/maintain: update info about upgrade process on Odoo.sh
+[33m8026a2b6f[m [I18N] Update translation terms from Transifex
+[33me13d2517b[m [FIX] website: warn about google api deprecation
+[33ma0e608bfc[m [IMP] conf.py, requirements.txt, *: allow building with Python 3.10
+[33ma408ea554[m [ADD] maintain: google oauth doc
+[33m521cee8aa[m [IMP] helpdesk: clarify postpaid support and delete mentions of tasks
+[33m81bf067ba[m [REF] legal: convert the table from a grid to a list table
+[33mf648960c7[m [FIX] odoo_theme: show a cursor when hovering on an image without modal
+[33m7cbbb7774[m [FIX] odoo_theme: only open images that have no target in modal
+[33m029ef0ae3[m [FIX] odoo_theme: fix the display of modal images in mobile
+[33m11460f4c9[m [IMP] developer/rdtraining: simplify the development environment setup
+[33m95eb8ec5e[m [CLN] conf.py: stop labelling saas-15.1 in version switcher
+[33m952fbd4ca[m [I18N] Update translation terms from Transifex
+[33m1b4c24277[m [IMP] ecommerce: remove one sub-menu to add it as a see also
+[33mceec1b043[m [IMP] pos: add a warning about Six unusability in July
+[33m7f458e8a0[m [FIX] sale_amazon: fix information displayed
+[33m4e67b8986[m [MOV] developer/misc: move all pages to a more logical location
+[33meeb6ed53a[m [IMP] website: broken link removal
+[33m7f95e9e2e[m [IMP] developer/views: apply the new API references style
+[33m85b537499[m [ADD] pos: adyen payment terminal
+[33m5618e5ad9[m [IMP] pos: change titles
+[33m9729971ee[m [FW][MERGE] odoo_theme: styling fixes, tweaks, and general cleanup
+[33m538a5def8[m [REF] odoo_theme: replace values with variables in SCSS files
+[33m0163224b3[m [REF] odoo_theme: move stray mixins into the `_mixins.scss` file
+[33m92a62d60b[m [CLN] odoo_theme: remove unnecessary css
+[33m1e420852c[m [CLN] odoo_theme: remove old doc's unused variables
+[33m959f512d1[m [REF] odoo_theme: move scrollbar styling to `.o_side_nav-inner`
+[33m8dee0e366[m [CLN] odoo_theme: remove old doc's utility mixins
+[33mce0f306c1[m [IMP] odoo_theme: replace "hide search matches" by a close button
+[33md2c7b0732[m [IMP] odoo_theme: improve spacing around code blocks on reference pages
+[33m6f909baa0[m [FIX] odoo_theme: fix scrollTo margin/padding with new headers height
+[33m74d26fe16[m [FIX] odoo_theme: remove the horizontal scroll bar
+[33mec08821dc[m [IMP] odoo_theme: improve URL stylings
+[33m4e75d5803[m [IMP] odoo_theme: improve general spacings and paddings
+[33m8a8531270[m [IMP] odoo_theme: improve special terms styling
+[33m203a74811[m [IMP] contributing: update the rst cheat sheet
+[33m733c534cc[m [ADD] payment_acquirers/adyen: add doc configuration of Adyen
+[33m96d822bf8[m [IMP] developer/howtos: Add missing information about debug mode
+[33m270a2db34[m [IMP] accounting: added specification about payment flow for payment acquirer
+[33m8ad119d47[m [IMP] odoo_theme: open images in a modal
+[33m9dcc8bb07[m [IMP] redirects: split redirects.txt into multiple, per-version, files
+[33mb5d789725[m [FIX] odoo_theme: correctly test for fallback URLs when using switchers
+[33m060e8f234[m [FIX] redirects: add missing redirect rule for external_api.rst
+[33m8fe7d4251[m [FW][IMP] accounting: remove the odoo tutorials invoices link
+[33m2878f305d[m [FIX] odoo_theme: fix highlight blocks in field-list items
+[33m4c4b81b12[m Update epos_ssc.rst
+[33m6a455057b[m [FW][MERGE] odoo_theme: revamp header and menu for better mobile support
+[33m4ff1094cd[m [FIX] odoo_theme: stop testing for valid URLs if in localhost
+[33m8ac6cea21[m [FIX] odoo_theme: fix searchbox's highlight-link
+[33m20f6574bc[m [IMP] odoo_theme: revamp side menu to add overlay
+[33mc06a15ab3[m [FIX] odoo_theme: fix menu scrolling
+[33m7876d37f5[m [IMP] odoo_theme: add side menu collapse icon
+[33m20d8779ce[m [IMP] odoo_theme: change collapsing menu orientation
+[33m2d5a99630[m [IMP] odoo_theme: add subheader and adapt switchers and searchbar
+[33mf4d7e4550[m [IMP] odoo_theme: stop translating language names in the switcher
+[33m233f28994[m [IMP] design: add an icon behind external links
+[33m79f70d615[m [IMP] odoo_theme: show the "On this page" section in mobile
+[33m9f1a7df19[m [I18N] Update translation terms from Transifex
+[33m3d2f067e6[m [IMP] rdtraining: tip about -i/-u for odoo-bin
+[33m15273a0d4[m [FIX] requirements: pin docutils to 0.16.0
+[33mceff73653[m [FIX] odoo.sh: remove hidden folder from documentation
+[33m32ac30fb6[m [I18N] Update translation terms from Transifex
+[33m39ec4b520[m [IMP] maintain: process for odoo.sh to odoo online
+[33mc3a382bb8[m [IMP] accounting: add note about bank sync not available for trial db
+[33mf6cd947d6[m [FIX] homepage: fix the link to the external API page
+[33m8f80b265f[m [IMP] maintain: add note in hosting changes (on-premise to online)
+[33ma7ba60ed3[m [FIX] conf: dynamic LaTeX releasename
+[33m2dd3a4ae7[m [IMP] amazon: migrate to SPAPI
+[33mc73c89380[m [I18N] Update translation terms from Transifex
+[33m00ec789d9[m [IMP] helpdesk: update flow and images for reinvoicing time
+[33mf6b22996b[m [IMP] payment: update SIX screenshots
+[33mb6aee793a[m [IMP] calendar: update Google Calendar sync screenshots
+[33mb33d6529a[m [IMP] accounting: update the follow-up information
+[33mfca443cd6[m [I18N] Update translation terms from Transifex
+[33md73c052ee[m [IMP] accounting : update the list of fiscal localization packages
+[33m0fc521886[m [MOV] developer/api/odoo: rename odoo.rst into external_api.rst
+[33m91c20a2c0[m [MOV] content/*: move resource files into their related page's directory
+[33ma658e160a[m [FIX] odoo_theme: correctly consider baseurl
+[33m64d2ac15c[m [IMP] odoo_theme: introduce fallback URLs for the page switchers
+[33mb883c3c99[m [FW][FIX] developer/howtos: Fixed typo from field to fields
+[33mfca684e80[m [IMP] CRM: updated lead scoring with note about deprecation
+[33m44129be22[m [IMP] CRM: updating flow and screenshots of generating leads
+[33m6f89b9f22[m [FIX] maintain: typo in domain names doc
+[33m2fda2efa4[m [I18N] Update translation terms from Transifex
+[33mc835b0faf[m [FIX] requirements.txt: pin Jinja2 < 3.1
+[33mde9342b70[m [IMP] payment acquirers: a note in Authorize.net
+[33mf6bf1183d[m [IMP] sale_management: remove price_unit from quotation template
+[33mdf486c780[m [IMP] amazon: explain how to use a carrier
+[33mc534967f7[m [IMP] odoo_theme: allow to add plausible script
+[33m98f306eca[m [IMP] CRM: update multiple sales teams doc
+[33m29e22a878[m [I18N] Update translation terms from Transifex
+[33m468f2f2a2[m [IMP] install/maintain: add seealso links in domain names doc
+[33m093aea15e[m [ADD] accounting: avatax integration
+[33mda0a76e8c[m [FW][FIX] developer/howtos: missing parentheses in print statement
+[33mcaefd3ae7[m [IMP] contributing: modify titles and headings guidelines
+[33m631dad26a[m [IMP] accounting: add a warning about invoices in USD in Mexico
+[33m2bb5a2e45[m [I18N] Update translation terms from Transifex
+[33ma554b93be[m [ADD] .gitattributes: include RST files in language statistic on GitHub
+[33mc192864ce[m [ADD] multi_website: add info to configure multiple domains
+[33mf8f5ed93e[m [FIX] developer/rdtraining: fix typos
+[33m19eddfdd3[m [FIX] developer: fix duplicate action availability
+[33m5c6f45c4f[m [I18N] Update translation terms from Transifex
+[33me487e94ee[m [FIX] developer: fix duplicate availability
+[33m19b701625[m [I18N] Update translation terms from Transifex
+[33m5a39ba7d2[m [IMP] rdtraining: clarify transition sentence to view inheritance
+[33m2ebb7fe80[m [IMP] rdtraining: add note about Settings requiring at least one app
+[33md78e1ecb5[m [FIX] developer/rdtraining: fix typo
+[33m7fc2eec72[m [I18N] Update translation terms from Transifex
+[33m5e2cf40df[m [IMP] odoo_theme: hide the "Edit on GitHub" button for pages in legal/
+[33m260c39d61[m [I18N] &: export 14.0 source terms
+[33mf235eb94b[m [FIX] supported_versions: correct naming of recent saas~x versions
+[33m5144eeff4[m [ADD] last_build: add an orphan page informing on the last build date
+[33mdb7022244[m [IMP] pos: add tip usable decimal separator
+[33m5059a6be3[m [IMP] inventory: add note about detailed operations in one_step.rst
+[33m0a6a247d2[m [REF] general: move images in their respective page's folder
+[33me73e422ce[m [FIX] upgrade: small fixes
+[33m9cd3d96f3[m [FIX] redirects: add missing redirection for maintain/online.rst
+[33m419170689[m [FIX] install/maintain: typo in deploy.rst
+[33m11551c42f[m [I18N] Update translation terms from Transifex
+[33m825e0ede2[m [IMP] upgrade: update and improve the upgrade processes and information
+[33m928e7ed3a[m [IMP] supported_versions: flag saas-15.2 as supported
+[33m72eef0055[m [I18N] Update translation terms from Transifex
+[33me91949e89[m [ADD] accounting/l10n: new localization for luxembourg
+[33maee39ed51[m [FIX] odoo_theme: fix CSS issues and warnings
+[33m112b6c126[m [IMP] developer: extend internationalization guide
+[33ma02e84cae[m [I18N] *: export 14.0 source terms
+[33mc90d97765[m [FIX] dev/misc/cmdline: update url werkzeug
+[33mc123d0b97[m [IMP] developer/cli: mention the different ways of calling the CLI
+[33mcabc254ce[m [I18N] Update translation terms from Transifex
+[33m85b720094[m [IMP] developer/api/extract_api: rework page to get rid of switchers
+[33m1afdec378[m [IMP] developer/api/odoo: rework page to use examples and content tabs
+[33m269173caa[m [REM] extensions: remove the 'switcher' extension
+[33m1e24b482b[m [IMP] contributing/documentation: document usage of code tabs
+[33mdf527a256[m [IMP] install/maintain: add use of :guilabel: in domain_names
+[33mbeda3f95f[m [FIX] developer/mixins: mail.thread method names
+[33me532e213f[m [IMP] scss: content tabs refining
+[33m0c133def8[m [IMP] scss: make alert full width of parent
+[33m764348d23[m [IMP] documentation: content tabs design
+[33mdc6da15c5[m [IMP] accounting: improve phrasing OCR
+[33m656e360dd[m [I18N] Update translation terms from Transifex
+[33mfc308f347[m [IMP] install/maintain: new improved doc about domain names
+[33mb0abac76e[m [I18N] Update translation terms from Transifex
+[33m3e032534c[m [IMP] accounting: fix a typo in eu_distance_selling.rst
+[33mb591fcfcf[m [IMP] extensions: add content tabs (backport of cf6ca0fb)
+[33m8e32a65c9[m [FW][REV] odoo_sh: revert commit 6c48f90
+[33ma80f3c389[m [IMP] install: remove deprecated ssl instruction in deploy.rst
+[33m1a68d2dbf[m [IMP] odoo_sh doc update
+[33m0d8b64b08[m [I18N] Update translation terms from Transifex
+[33m6458092f2[m [FIX] conf: upper-case 'master' in the version switcher
+[33mf9b373361[m [IMP] odoo_theme: switch admonitions' display type to inline-block
+[33mddc10712a[m [I18N] Update translation terms from Transifex
+[33m6165aac15[m [FIX] conf: list `saas-15.2` in existing versions
+[33ma00dde5d7[m [IMP] conf: show all relevant versions in the version switcher
+[33m07347498a[m [IMP] install/maintain: add info about upgrading Odoo Online databases
+[33mac09f3b41[m [IMP] supported_versions: emphasis short-term support of SaaS versions
+[33m97a5c984f[m [IMP] supported_versions: flag saas-15.1 as supported
+[33m47c37f62a[m [FIX] redirections: duplicate rule + misplaced rules
+[33mbf2a9bb23[m [ADD] email_communication: new  documentation regarding general emailing
+[33m3d9a0f702[m [I18N] Update translation terms from Transifex
+[33mfc130dc6d[m [FW][FIX] accounting: fix module name to install in intrastat
+[33m6778f7204[m [IMP] contributing/doc: add an entry for the `example` admonition
+[33ma52f601bf[m [FIX] integration_testing: fix wrong step utils used in tour
+[33md9e2ab6fe[m [FIX] developer/javascript_cheatsheet: fix a typo
+[33m827270c51[m [IMP] integration_testing: add information about JS touring
+[33m3a087bef8[m [ADD] Sign: section on Field Types
+[33m3a29d1b7f[m [I18N] Update translation terms from Transifex
+[33m0ba3ba835[m [IMP] supported_versions: end of support for v10 on Odoo.sh
+[33m2bf697bda[m [ADD] extensions: add a custom `example` admonition
+[33mfd25322fd[m [MOV] payment acquirers: from /general/ (misc. section) to /finance/
+[33m34f7c84b5[m [REM] Accounting: deprecated report removal
+[33m69d1d3254[m [FIX] legal/terms: fixups for ES translation of enterprise
+[33m89042fbe9[m [IMP] Legal: spanish translation of enterprise.rst
+[33mcbec5f168[m [I18N] Update translation terms from Transifex
+[33m87e9d3f93[m [ADD] Accounting: new page about intrastat
+[33ma37dc8d4a[m [I18N] Update translation terms from Transifex
+[33md59e8f6e6[m [I18N] Update translation terms from Transifex
+[33m5c446bf53[m [I18N] Update translation terms from Transifex
+[33mf25888d24[m [I18N] Update translation terms from Transifex
+[33mbb468e571[m [I18N] Update translation terms from Transifex
+[33maa987b537[m [FIX] expenses: grammar and typos in expenses.rst
+[33m6a995b48f[m [IMP] developer/modules: deprecate 'active' and detail 'auto_install'
+[33m46cb0b8e9[m [IMP] developer/*: replace occurrences of "access rule" by "record rule"
+[33mc9d538082[m [FIX] api/odoo: reflect the correct location of menu actions
+[33mf9b9e852f[m [IMP] install/maintain: fix a typo
+[33m0d918c3d2[m [IMP] studio: fix a typo
+[33ma333b5e70[m [I18N] Update translation terms from Transifex
+[33m71fe1e09e[m [IMP] inventory: push/pull explanations
+[33m464b7446a[m [IMP] inventory: word mistake
+[33mbf6331033[m [IMP] sales: grammar fix
+[33mdfbf5edb2[m [IMP] README: remove request for review instruction
+[33mb674b0c03[m [REM] CODEOWNERS: rely on runbot's codeowners system
+[33m9f07d8531[m [IMP] hosting change: from PaaS to SaaS
+[33m36ac4dfc8[m [I18N] Update translation terms from Transifex
+[33maf07bde58[m [I18N] Update translation terms from Transifex
+[33m45e1b1f42[m [FIX] conf.py: check odoo_dir is a real Odoo sources dir
+[33m6fb2cc8bb[m [I18N] Update translation terms from Transifex
+[33me2c819bd8[m [IMP] accounting/taxcloud: how to set up default account for new taxes
+[33m0f1f90e48[m [FIX] point_of_sale: Update certificate import
+[33m756c1f652[m [I18N] Update translation terms from Transifex
+[33mf8f93ec28[m [ADD] point_of_sale: self-signed certificate for epos printers
+[33m0fdfb740f[m [I18N] Update translation terms from Transifex
+[33m09b496fb7[m [IMP] website: update a wrong link (godaddy)
+[33m77dd769b0[m [FIX] testing: Explain "new" tagging syntax
+[33mf4f962c0a[m [FIX] requirements.txt: Let sphinx manage docutils version
+[33m9659cabc3[m [I18N] Update translation terms from Transifex
+[33m472543559[m [ADD] maintain: revert and update "db_online"
+[33m62771ad61[m [I18N] Update translation terms from Transifex
+[33mda0eeed38[m [FIX] developer/reference: fix missing slash in javascript/qweb, debugging section
+[33ma160504b8[m [ADD] point_of_sale: configure https in the POS
+[33m7fb67424d[m [CHG] legal/tos: specify pricelist for global customers
+[33maa0cb28f0[m [FIX] legal/terms: fr: simplify limitation of liability
+[33m59df6b90a[m [FIX] extract_api: bring back extract_api doc lost with be1653cc
+[33m92230fc5d[m [IMP] upgrade: create new "upgrade" section in "install and maintain"
+[33m550c160e8[m [IMP] maintain: on premise filename change and media movement
+[33ma2eddf9f0[m [IMP] maintain: update versions upgrade
+[33me0c70eb5f[m [REL] supported_versions: update list of versions and add end of support
+[33meed3c7b4c[m [IMP] contributing: adapt the GitHub workflow to the new doc theme
+[33m9601d105d[m [I18N] Update translation terms from Transifex
+[33m3108c9dc3[m [I18N] Update translation terms from Transifex
+[33m267fe1067[m [FIX] maintain: upgrade command line link
+[33mc882af810[m [IMP] maintain: set the Odoo.sh end-of-support planned date for v10.0
+[33mbd0b969df[m [I18N] Update translation terms from Transifex
+[33me59f9553b[m [IMP] maintain: update test doc link in versions upgrade
+[33m396df2abd[m [FIX] app/accounting: Fix outdated Colombian test server url
+[33m2d7165e55[m [FIX] subscriptions: wrong Odoo Tutorials link
+[33mcdbfd3a29[m [IMP] conf: hide saas branches from the version switcher
+[33m61353e899[m [I18N] Update translation terms from Transifex
+[33m6c03d2fa5[m [ADD] ebay: new doc for account deletion notifications
+[33mdb570978c[m [I18N] Update translation terms from Transifex
+[33mcf3a71cdf[m [I18N] Update translation terms from Transifex
+[33m5b4247999[m [FIX] accounting/l10n_mx: Updated Mexican modules list
+[33me543a95b7[m [I18N] Update translation terms from Transifex
+[33m10fa12dea[m [I18N] Update translation terms from Transifex
+[33mbb19f0261[m [I18N] *: export pot files
+[33mab2f4a639[m [I18N] Update translation terms from Transifex
+[33m01805768b[m [FIX] Makefile: avoid confusing // in build dir path
+[33m13e6f6225[m [FIX] core: wrong redirections
+[33m11c118070[m [FIX] makefile: fix overridden css
+[33mfbb03fce4[m [REM] developer/upgrade: remove outdated page
+[33m972403bd3[m [FIX] Makefile: fix CSS compilation for multi-version/lang builds
+[33m61b6fe53e[m [ADD] accounting/l10n_it: new doc about EDI SDICoop in italy
+[33m310eff87d[m [MERGE] Forward-port of branch 13.0 to 14.0
+[33md1da272f2[m [MERGE] Forward-port of branch 12.0 to 13.0
+[33m55255072d[m [IMP] accounting/l10n: add library needed to print reports in chile.rst
+[33m97524ccda[m [I18N] Update translation terms from Transifex
+[33m2be02aec2[m [I18N] Update translation terms from Transifex
+[33m666e7324b[m [I18N] Update translation terms from Transifex
+[33m28359b6bd[m [FIX] dev/howtos/themes: correct wrong code example
+[33m098b5c548[m [FIX] administration/*/deploy: enforce consistent indentation in nginx config.
+[33m659468606[m [MERGE] Forward-port of branch 13.0 to 14.0
+[33m5f29b23c7[m [MERGE] Forward-port of branch 12.0 to 13.0
+[33m9a31ed8f6[m [IMP] allow to define BUILD_DIR and better odoo detection
+[33mafdd43881[m [I18N] Update translation terms from Transifex
+[33mef2443f2f[m [I18N] Update translation terms from Transifex
+[33mec10063ab[m [I18N] Update translation terms from Transifex
+[33m69364e7dd[m [IMP] accounting: remove deprecated tip in "reconciliation/use_cases"
+[33mbc257a8f5[m [I18N] Update translation terms from Transifex
+[33m0ccf35c29[m [I18N] Update translation terms from Transifex
+[33m2b076ce94[m [I18N] Update translation terms from Transifex
+[33md30cb941c[m [IMP] guidelines: remove a deprecated tag
+[33me528bbcfb[m [IMP] amazon_connector: add a note about the new amazon delivery policy
+[33m5ae6578b8[m [MERGE] Forward-port of branch 13.0 to 14.0
+[33m6c2e3e099[m [REV] services: keep what can i expect page
+[33m4e070ab14[m [DEL] accounting: doc about Paypal
+[33m4bd0353e2[m [ADD] accounting: new doc about Salt Edge
+[33m2c9ce286d[m [IMP] accounting: update doc about Ponto
+[33m64784c41e[m [IMP] accounting: improve doc about bank synchronization
+[33mbe1653cc5[m [MERGE] Forward-port of branch 13.0 to 14.0
+[33m16418c020[m [IMP] *: introduce tables of contents in top-level app pages
+[33mcc8c33c84[m [MERGE] Forward-port of branch 13.0 to 14.0
+[33mb4ef20a97[m [MERGE] Forward-port of branch 12.0 to 13.0
+[33m7548209ed[m [IMP] accounting: refresh tax mapping addition to "eu_distance_selling"
+[33mbfe6f805a[m [ADD] accounting: new doc about EU intra-community distance selling
+[33mebd932134[m [I18N] Update translation terms from Transifex
+[33mf63e7e77d[m [I18N] Update translation terms from Transifex
+[33mb15265333[m [I18N] Update translation terms from Transifex
+[33m846740411[m [IMP] accounting: refresh tax mapping addition to "eu_distance_selling"
+[33m2fafbc1b1[m [FIX] general: add a redirection for previous "base_import" toc page
+[33m8752e14de[m [ADD] accounting: new doc about EU intra-community distance selling
+[33ma5ab764c0[m [I18N] Update translation terms from Transifex
+[33m1e520cbbf[m [I18N] Update translation terms from Transifex
+[33m46643653b[m [I18N] Update translation terms from Transifex
+[33m335550041[m [IMP] accounting/l10n: add tip about fisaly registration in "germany"
+[33m245dd60bb[m [MERGE] Forward-port of branch 13.0 to 14.0
+[33m7faf5ff92[m [MERGE] Forward-port of branch 12.0 to 13.0
+[33m8831e33e5[m [FIX] correct path for the licence text
+[33m65ece5951[m [ADD] accounting/l10n: information to use pos in Germany with TSS
+[33m3687dc5d1[m [REM][MOV] legal: useless "licenses" toctree page
+[33m819d1d733[m [REM][MOV] legal: remove empty privacy page
+[33mc84ac0f7e[m [IMP] admin/odoo.sh: supported versions in "getting_started/create"
+[33mb423c066f[m [ADD] general: content about installing and upgrading apps and modules
+[33me55138742[m [IMP] general: add intro for "general" + imp uninstalling apps/modules
+[33m5583691ae[m [IMP] general: move content about user deactivation to "users"
+[33m5b59088a7[m [IMP] rdtraining: no need to add web to dependencies
+[33mce9e49687[m [IMP] ecommerce: update 'product variants'
+[33mc34e7eea3[m  [IMP] l10n_cl : fix typos
+[33md8a669e6f[m [I18N] Update translation terms from Transifex
+[33m889ff0202[m [I18N] Update translation terms from Transifex
+[33md4f3830eb[m [I18N] Update translation terms from Transifex
+[33mbba648dc6[m [IMP] inventory: add infos to "expiration_dates" + english improvements
+[33m99511bb2d[m [IMP] l10n_mx: add warning about MXN currency usage
+[33mdb02edc37[m [ADD] applications/sales: Rental app documentation
+[33md59bc40f4[m [IMP] general settings: update google auth
+[33m192d9349c[m [MERFE] Froward port of 13.0 to 14.0
+[33m0421e0314[m [I18N] *: export 13.0 source terms
+[33mc38dbf59c[m [MERGE] Forward port of 12.0 into 13.0
+[33mcafa11ac7[m [I18N] *: export pot files
+[33m207bfd668[m [IMP] extension: mark HTML content as translatable
+[33m3a915ce2d[m [FIX] conf: translate the theme
+[33me33ff1970[m [I18N] *: export 14.0 source terms
+[33m0fcc6fc9d[m [FIX] contributing: wrong doc reference to "memento"
+[33ma040ad679[m [I18N] Update translation terms from Transifex
+[33mecd044ba1[m [I18N] Update translation terms from Transifex
+[33m7c2bcdb98[m [I18N] Update translation terms from Transifex
+[33mcffb0b341[m [MERGE] Forward-port of branch 13.0 to 14.0
+[33m1f8117338[m [MERGE] Forward-port of branch 12.0 to 13.0
+[33m23a40f974[m [IMP] contributing: encourage flat pages hierarchy
+[33mec1dc7b63[m [IMP] contributing: list supported metadata directives
+[33m1faf5486a[m [IMP] sales: fix typos Fixed a couple of english grammar mistakes in the introduction paragraph. Fixed can be fast-forwaded to 13 and 14 as well.
+[33m015f456d8[m [IMP] website: minor sentence modification in "domain_name"
+[33m28da20b84[m [FIX] localizations: typos in the Italian localization doc
+[33mb30f28a3c[m [MERGE] Forward-port of branch 13.0 to 14.0
+[33m251438d56[m [MERGE] Forward-port of branch 12.0 to 13.0
+[33m1d3375f1a[m [IMP] *: exclude empty TOC pages from search results
+[33m7c3106e95[m [IMP] dev/howtos: hide deprecated and outdated tutorial
+[33mc8750ae03[m [FIX] odoo_theme: fix header display on small screen widths
+[33m525d05e06[m [FIX] developer/howtos: wizard example
+[33m08f8a3d0c[m [REM] content/applications/*: delete unused images
+[33m4c92915ab[m [IMP] accounting/l10n: "closing entries" section in "mexico"
+[33me95ff9c5e[m [FIX] general: redirection for "export-data"
+[33m8b201ca92[m [IMP] developer/*: clarify --test-tags
+[33m5469c2fb2[m [MERGE] Forward-port of branch 13.0 to 14.0
+[33ma8cfd6c6c[m [MERGE] Forward-port of branch 12.0 to 13.0
+[33mb1b48759b[m [IMP] README: update links according to redirects made in 675f7bc8
+[33mdc7679a20[m [I18N] Update translation terms from Transifex
+[33m2ec074d5a[m [I18N] Update translation terms from Transifex
+[33m9db11c78c[m [I18N] Update translation terms from Transifex
+[33mfffaca738[m [FIX] contributing: fix admonition padding
+[33mddb5523d0[m [REM] contributing: remove unused image file
+[33m10e0a48ac[m [IMP] contributing: flatten hierarchy of "documentation" pages
+[33m49baf6b4d[m [IMP] odoo_theme: fix layout on esoteric screens
+[33m193e22492[m[33m ([m[1;31morigin/14.0-fwd-port-jcs[m[33m)[m [MERGE] Forward-port of branch 13.0 to 14.0
+[33m2591ddc6d[m [FIX] odoo_theme: fix crash on menu loading introduced with 675f7bc8
+[33m400b3f52b[m [MOV] general: renames "odoo_basics" into "users" + split content
+[33m2fb77cf3f[m [MOV] general: removes main "settings" section + move content
+[33m9493bbf4f[m [IMP] general: merge all docs about data import/export into one doc
+[33m8c036a032[m [IMP] general: merge all docs about unsplash into one doc
+[33m2b6f89f26[m [MOV] general: move "payment_acquirer" content up to its parent page
+[33m6940f68cb[m [MOV] general: single docs content up to their parent pages
+[33m4c6947da4[m [IMP] Makefile: update build instructions following merge of 46c21826
+[33m675f7bc89[m [FIX] odoo_theme: highlight all occurrences of a same entry in the menu
+[33mb33ce0a6c[m [FIX] dev: remove confusing phrase "US states"
+[33md409bc063[m [FIX] legal: fix confusing /12.0 pdf links
+[33m451f1ccee[m [IMP] Accounting: Update Chilean localization
+[33m7efbf490f[m [FIX] odoo_theme: padding fix in sidenav
+[33ma1e7024fa[m [MERGE] Forward-port of branch 13.0 to 14.0
+[33mc9b679517[m [FIX][REM] wrong forward-ported files
+[33m40afc9d9f[m [MERGE] Forward-port of branch 12.0 to 13.0
+[33mbfec9a58f[m [FIX] code: typos
+[33mbecf7a207[m [FIX] content/applications/*: typos
+[33m0a4e0610c[m [FIX] content/administration/*: typos
+[33me96bc804d[m [FIX] content/developer/*: typos
+[33m2f4c713be[m [FIX] app/website: Gengo isn't supported in v14 anymore
+[33m4483a8690[m [I18N] Update translation terms from Transifex
+[33meb0304c95[m [I18N] Update translation terms from Transifex
+[33m3ae10515b[m [I18N] Update translation terms from Transifex
+[33m1758c674e[m [MERGE] Forward-port of branch 13.0 to 14.0
+[33m4ca0d019c[m [MERGE] Forward-port of branch 12.0 to 13.0
+[33mfa267e5cf[m [FIX] odoo_theme: design fixes
+[33mdee28c59a[m [IMP] developer/reference: add a gantt view option
+[33m76e05ccfb[m [IMP] manifest: add note about 'base' module in depends
+[33m05d99f94d[m [I18N] Update translation terms from Transifex
+[33mba635bdc0[m [ADD] documents: new documents app + workflow actions
+[33m6b616c1bd[m [IMP] manufacturing: add warning regarding scrap location
+[33m74e7da569[m [FIX] odoo_theme: hide searchbar on scroll in mobile
+[33m90b848eb4[m [REM] dev guidelines: remove obsolete requirements from python 2
+[33me1adedc2e[m [FIX] mail: how to choose allowed "From" addresses
+[33m88f00fe61[m [FIX] odoo_theme: remove images from homepage
+[33me11f01078[m [IMP] developer/orm: add tip on related field dependencies
+[33m4d0f63e3e[m [FIX] developer/orm: related fields default values
+[33m6dd282f6e[m [IMP] general: add user pref image
+[33m86cefde58[m [FIX] rdtraining: improve git commands
+[33m10612f0ba[m [FIX] odoo_theme: unclickable :show-content: pages in global toctree
+[33m8a160c343[m [I18N] Update translation terms from Transifex
+[33mcdd5fc804[m [I18N] Update translation terms from Transifex
+[33m4b1a61a7a[m [MERGE] Forward-port of branch 13.0 to 14.0
+[33m647b6d924[m [MERGE] Forward-port of branch 12.0 to 13.0
+[33m5c3a4e60e[m [IMP] expenses: ref content to top-level TOC page
+[33md66de0d1f[m [IMP] accounting: move in-odoo to top-level TOC page + imp structure
+[33m7f3b2a1ed[m [IMP] sign: add content to top-level TOC page + improve structure
+[33m806761eec[m [FIX] developer: correct `cr.execute` signature in ORM doc
+[33m80f24e553[m [MERGE] Forward-port of branch 13.0 to 14.0
+[33m1f9cd600c[m [MERGE] Forward-port of branch 12.0 to 13.0
+[33mdefd620d5[m [ADD] accounting: restriction for re sequencing
+[33mc135e4966[m [IMP] accounting: removing none existing module
+[33m46c21826f[m [IMP] Makefile: build in parallel by default
+[33m2ddac026f[m [FIX] extensions: support parallel read
+[33md0c2cb17b[m [ADD] developer/howtos: R&D Training
+[33me9d06b788[m [I18N] *: export pot files
+[33m8ad392222[m [MERGE] Forward-port of branch 13.0 to 14.0
+[33m87ab494b4[m [MERGE] Forward-port of branch 12.0 to 13.0
+[33mba72b396a[m [FIX] redirects: odoo_sh documentation page
+[33mdc49cd9e7[m [IMP] *: links improvements
+[33m326de4b39[m [FIX] *: absolute links to odoo.com/documentation
+[33m83eaee019[m [FIX] theme: hide "Try Odoo" button on iOS
+[33m88e7e8d6d[m [I18N] Update translation terms from Transifex
+[33m9e77998bc[m [I18N] *: export pot files
+[33mc1d09cb79[m [I18N] *: export all .pot files
+[33m769f5d972[m [FIX] translate the documentation
+[33m2d9ad82bd[m [MERGE] forward port of 12.0 to 13.0
+[33m9e4955023[m [I18N] *: export all .pot files
+[33mbea76554f[m [FIX] translate the documentation
+[33m79e716d41[m [MERGE] Forward-port of branch 13.0 to 14.0
+[33m7b01bf417[m [MERGE] Forward-port of branch 12.0 to 13.0
+[33m1a0c12250[m [IMP] contributing: update contributing guide for new documentation
+[33mca6b1c602[m [IMP] README: update README and translate it to Markdown
+[33m1dfeef48f[m [IMP] accounting: update l10n/chile
+[33m26d489c6e[m [FIX] theme: improve search bar implementation and behavior
+[33m1ef5267a0[m [FIX] developer/howtos/backend: missing reference
+[33m6aea496f2[m [MERGE] Forward-port of branch 13.0 to 12.0
+[33m3d9afc4c0[m [MERGE] Forward-port of branch 12.0 to 13.0
+[33m0ae36256b[m [FIX] install: fix broken ubuntu link
+[33m0fcc06c2d[m [FIX] legal: use direct links to pdf files
+[33m920465845[m [FIX] theme: always hide in-page toctrees
+[33mdc991f213[m [FIX] install: adapt debian and rpm package installation
+[33mac99ad7ab[m [REM] *: patchqueue extension
+[33m395cf4c34[m [IMP] accounting: update l10n/peru
+[33m73806971a[m [ADD] IoT: New doc about how to connect a scale using the IoT box.
+[33me976c19b9[m [REM] ecommerce: intro to ecommerce
+[33m128d9f213[m [IMP] ecommerce: updates mention about inventory app in "show product availability"
+[33ma31218812[m [I18N] Update translation terms from Transifex
+[33mc946b35f7[m [FIX] conf: specify which value is actually needed
+[33md80c88130[m [IMP] accounting: add ecommerce webinar to l10n/argentina
+[33m96b62b62f[m [IMP] ecommerce: updates doc about managing orders w/ Payment Acquirers
+[33mfdd3e547c[m [MERGE] Forward-port of branch 13.0 to 14.0
+[33m6d2018f31[m [IMP] Inventory: Inter-warehouse doc update
+[33mc3eddb628[m [IMP] CODEOWNERS: add new codeowner for technical files
+[33m0695e401a[m [MERGE] Forward-port of branch 13.0 to 14.0
+[33mc820a96e2[m [FIX] redirects: update links after apocalypse reorganisation
+[33m66fcb9819[m [FIX] homepage: fix broken top links
+[33m74c9f94d1[m [MERGE] Forward-port of branch 13.0 to 14.0
+[33m8a6ad7793[m [MERGE] Forward-port of branch 12.0 to 13.0
+[33m25af2874c[m [FIX] conf.py: don't load github_link extension if odoo/ is missing
+[33me3fee2cf4[m [REF][MOV] documentation apocalypse
+[33m91a0e5b9f[m [MERGE] Forward-port of branch 13.0 to 14.0
+[33m4ba422d76[m [MOV] general: rename add_user.txt in users.txt + move media files
+[33m3873ba310[m [ADD] general: new section about passwords in add_user.rst
+[33meac5e9f86[m [I18N] Update translation terms from Transifex
+[33m5c13883b8[m [I18N] Update translation terms from Transifex
+[33m4e72d5cf9[m [I18N] Update translation terms from Transifex
+[33mbe239bf5a[m [IMP] accounting: update doc about payment terms
+[33m95b3d3569[m [MERGE] Forward-port of branch 13.0 to 14.0
+[33md8a5a5cd0[m [MERGE] Forward-port of branch 12.0 to 13.0
+[33m40020d168[m [I18N] Update translation terms from Transifex
+[33m26501887d[m [I18N] Update translation terms from Transifex
+[33m2e5b17c9d[m [REM] odoo_sh: remove incorrect information about cups (#937)
+[33m5b67eefb5[m [IMP] accounting: payment terms
+[33m1343d9915[m [FIX] ecommerce: grammar and screenshot in doc about pricing
+[33me205f11db[m [IMP] user-doc: rename "odoo learn" links as "odoo tutorials"
+[33mc77684a89[m [IMP] accounting: add Digiflow link in l10n/peru
+[33m636bdc5bd[m [REM] ecommerce: doc about product availability
+[33ma88479cee[m [I18N] Update translation terms from Transifex
+[33m6bd4868fc[m [I18N] Update translation terms from Transifex
+[33mcec9ba474[m [I18N] Update translation terms from Transifex
+[33m4fe354946[m [IMP] ecommerce: fix grammatical issues in doc about importing products
+[33m5fae52229[m [ADD] contributing: title capitalization rule in content guidelines
+[33m8e6d9dc7c[m [I18N] Update translation terms from Transifex
+[33m8132b7be5[m [I18N] Update translation terms from Transifex
+[33mdba255ae1[m [I18N] Update translation terms from Transifex
+[33m0d258c166[m [ADD] guidelines: media files section in content guidelines
+[33m37a049ad9[m [MERGE] Forward-port of branch 13.0 to 14.0
+[33m932378da6[m [MERGE] Forward-port of branch 12.0 to 13.0
+[33mba66fc621[m [FIX] ecommerce: fix broken link
+[33m5c654daf6[m [IMP] ecommerce: fixes grammatical errors
+[33m0843e68fe[m [I18N] Update translation terms from Transifex
+[33m901d5f188[m [I18N] Update translation terms from Transifex
+[33m25e7dedf4[m [IMP] accounting: change the section name "fiscality" into "taxation" (#920)
+[33m843d2ea51[m [FIX] accounting/l10n: replace an image with the right one in loc/mexico
+[33me7825033b[m [FIX] contributing: fix a little typo
+[33mb51f94dd9[m [IMP] inventory: update doc "Resupply from another Warehouse" (#906)
+[33m0aed49b33[m [MERGE] Forward-port of branch 13.0 to 14.0
+[33meaa93a300[m [REM] unused _static files
+[33m3cde0c88e[m [MERGE] Forward-port of branch 12.0 to 13.0
+[33mb072241b9[m [FIX] inventory: typo in Units of Measure
+[33m2167002dd[m [MOV][FIX] *: place static files in their place of use
+[33m201714090[m [I18N] Update translation terms from Transifex
+[33mdc4964626[m [IMP] accounting: depreciation methods update
+[33m6a779e899[m[33m ([m[1;31morigin/general-auth[m[33m)[m [I18N] Update translation terms from Transifex
+[33mcd4b15e9d[m [I18N] Update translation terms from Transifex
+[33mfd4314bc5[m [REM] inventory: MTO doc removed (#883)
+[33mccb7f5a69[m [IMP] general: product share between companies (#882)
+[33m2843ee7d1[m [IMP] discuss: document dedicated servers setup
+[33ma8700ed5f[m [REM] planning: remove docs (#880)
+[33m733dd5acb[m [REM] project: remove doc (#879)
+[33mdd5b8d33f[m [REM] marketing automation: remove docs (#878)
+[33mde5398137[m [REM] sms marketing: remove docs (#875)
+[33ma7b78ce99[m [REM] email marketing: remove all docs (#877)
+[33mc2dbd1818[m [REM] social marketing: remove all docs (#876)
+[33m7b211472c[m [REM] events: remove all docs (#874)
+[33mea2b0b3b5[m [REM] quality: quality section removed (#872)
+[33m73071cc74[m [REM] inventory: remove some straightforward docs (#870)
+[33ma6b3f03d2[m [I18N] Update translation terms from Transifex
+[33m4fb627dc9[m [I18N] Update translation terms from Transifex
+[33m50cf6f29d[m [I18N] Update translation terms from Transifex
+[33m440979cbd[m [REM] manufacturing: straightforward docs removed (#871)
+[33m512aaeedf[m [REM] odoo_sh: remove mentions about the (rip) feedback form
+[33m28458e24a[m [REM] inventory: remove straightfoward docs (#866)
+[33m4136c801c[m [MERGE] Forward-port of branch 13.0 to 14.0
+[33ma14eaf909[m [MERGE] Forward-port of branch 12.0 to 13.0
+[33mbcceecc25[m [FIX] shipping/dhl: remove test creds from website
+[33mb1efc2948[m [REM] inventory: remove overview.rst (#865)
+[33mb468b8191[m [I18N] accounting: export source terms
+[33m254877b77[m [FIX] purchase/agreements: fix a typo and remove a sentence The info about the "Agreement deadline" was wrong and was removed. A typo was also fixed.
+[33mf8b82d165[m [I18N] Update translation terms from Transifex
+[33m0a9eecfa9[m [FIX] portal: remove wrong information and add a link in my portal
+[33mff7672b37[m [REM] pos/accounting: remove a note and fix rst in cash rounding
+[33mea7fffaa1[m [I18N] Update translation terms from Transifex
+[33m57da68489[m [I18N] Update translation terms from Transifex
+[33m751fb35ca[m [I18N] Update translation terms from Transifex
+[33m763555ea2[m [IMP] accounting: completely new version of localization/mexico
+[33md70873d6e[m [REM] *: remove all demo.action buttons from the user documentation
+[33m57803a268[m [FIX] portal: identation mistakes in my_odoo_portal.rst
+[33m4a7e806c3[m [FIX] odoo_sh,portal: fix broken references
+[33m82d69d1a2[m [MERGE] Forward-port of branch 13.0 to 14.0
+[33m4983fc161[m [IMP] acc/l10n: update mexican localization
+[33md2c37b788[m [IMP] accounting/l10n: update payment terms doc in Mexican localization
+[33me24bf2034[m [FIX] general: small fix for multi-companies
+[33m9cce9e853[m [I18N] Update translation terms from Transifex
+[33ma3679843d[m [I18N] Update translation terms from Transifex
+[33mefea761f9[m [I18N] purchase: export source terms
+[33md70807397[m [FIX] accounting/l10n: small content fix in australia loc
+[33m31764355b[m [I18N] Update translation terms from Transifex
+[33mac276e4e5[m [I18N] Update translation terms from Transifex
+[33mb9650ba38[m [I18N] Update translation terms from Transifex
+[33m48558c97a[m [ADD] accounting/loc: new Australian loc (KeyPay Payroll)
+[33mae8d4a4a1[m [FIX] purchase: create redirects for moved, deleted and merged docs
+[33m436ec09ff[m [REM] purchase: remove dropshipping doc for V14 To reduce the technical debt, we remove easy flows from the documentation. For dropshipping, it is only a matter of enabling one app setting and ticking dropship on a product. In addition, dropshipping doesn't really fit under purchase as it's a way to sell products - that is why it is explained on Odoo Learn under the Sales app.
+[33m7c60cf6b8[m [IMP] purchase: update the analyze doc for v14
+[33m5ec4a7540[m [IMP] purchase: update and merge 3-way matching and bill control
+[33me6e7a241b[m [IMP] purchase: add alt text to images
+[33m9e15ceefb[m [IMP] purchase: merge and update blanket orders and calls for tenders
+[33m53b651482[m [IMP] purchase: update the reordering rules doc for v14
+[33m81d8ca47a[m [I18N] *: export 13.0 source terms
+[33m175714087[m [I18N] accounting: add translation for German localisation
+[33m12e4c3f41[m [MERGE] Forwardport branch '13.0' into 14.0
+[33ma5177c829[m [I18N] *: export 14.0 source terms
+[33m043b59fd1[m [IMP] accounting/loc: add GoBD section to loc/germany
+[33mef4cbee36[m [I18N] Update translation terms from Transifex
+[33m2deb6384c[m [I18N] Update translation terms from Transifex
+[33mc7907c224[m [ADD] accounting/localization: l10n_pe functional documentation
+[33m6d4460aba[m [MERGE] Forward-port of branch 13.0 to 14.0
+[33mb55fbc54b[m [MERGE] Forward-port of branch 12.O to 13.0
+[33m1cc75cef7[m [DEL] accounting: doc about Paypal
+[33m9f5cba4e7[m [ADD] accounting: new doc about Salt Edge
+[33m288b9fa10[m [IMP] accounting: update doc about Ponto
+[33m63f592759[m [IMP] accounting: improve doc about bank synchronization
+[33m5d9376e3e[m [IMP] accounting: improve doc about bank statements
+[33me478171ea[m [I18N] Update translation terms from Transifex
+[33m733c79528[m [I18N] Update translation terms from Transifex
+[33m4e9a8f31d[m [I18N] Update translation terms from Transifex
+[33m15ec0207b[m [FIX] upgrade: remove the contract parameter
+[33m761a75d40[m [IMP] accounting: add a warning about currency in Mexican localization
+[33me03803cc3[m [IMP] localization: add "webinars" section to Argentina and Colombia
+[33mb828c652c[m [IMP] localization: add "webinars" section to Chile
+[33maa944e067[m [REM] amazon_connector: remove authentication update doc in 14.0
+[33m2f883c684[m [I18N] Update translation terms from Transifex
+[33m6103197f0[m [I18N] Update translation terms from Transifex
+[33m3cdb81c3c[m [I18N] Update translation terms from Transifex
+[33mf74679a1d[m [IMP] legal/terms: update partnership contract to v9b
+[33m9f0440bdc[m [IMP] sms marketing: update princing_and_faq.rst (#828)
+[33mf775d1df3[m [I18N] Update translation terms from Transifex
+[33m3c99c4c3c[m [I18N] Update translation terms from Transifex
+[33med2f532fb[m [FIX] odoo_sh: fix incorrect link
+[33mbdd8032b8[m [IMP] purchase: update the units of measure page for V14 (#820)
+[33m0cb2dc854[m [REM] project: remove advanced.rst (#821)
+[33md65110a9a[m [FIX] upgrade: correct a few mistakes in the upgrade doc
+[33ma8536b25c[m [REM] project: remove advanced_projects.rst (#818)
+[33m92e9cb675[m [I18N] Update translation terms from Transifex
+[33mf5bbbb488[m [I18N] Update translation terms from Transifex
+[33m7e58e51a4[m [I18N] Update translation terms from Transifex
+[33m78475c9c8[m [I18N] Update translation terms from Transifex
+[33mc075f0743[m [I18N] Update translation terms from Transifex
+[33m3b4c7951b[m [REM] odoo_sh: remove incorrect information about cups
+[33m8f92fa425[m [MERGE] Forward-port of branch 13.0 to 14.0
+[33mcee6765d4[m [ADD] sign: document the validity of e-signatures As requested by CJA: https://www.odoo.com/web#active_id=2227553&cids=1&id=2227553&model=project.task&menu_id=
+[33m6caea007c[m [MERGE] Forward-port of branch 12.0 to 13.0
+[33m6da781ccf[m [FIX] accounting,contributing: remove broken link and fix typo
+[33me98c22f19[m [IMP] purchase: remove easy docs and restructure kept docs (#814)
+[33m12561f96f[m [ADD] practical: new doc about database upgrade
+[33m9b15efef1[m [I18N] Update translation terms from Transifex
+[33m2f505f9d2[m [I18N] Update translation terms from Transifex
+[33m02bc1136f[m [I18N] Update translation terms from Transifex
+[33m44e1dba85[m [REM] project: remove profitability.rst (#812)
+[33m98bceb831[m [FIX] practical/db_management: add missing banner for hosting changes
+[33mc9dbc4da0[m [IMP] practical/db_management: hosting changes (#782)
+[33m650cccecc[m [IMP] odoo_sh: monitoring information (#810)
+[33mef3b6bc76[m Update use-routes.rst (#806)
+[33m04ce02c01[m [IMP] legal/licenses: update license info for v14
+[33m1852679ad[m [I18N] Update translation terms from Transifex
+[33mb3b3a95d4[m [I18N] Update translation terms from Transifex
+[33mf1fb08dc7[m [IMP] general: outlook_calendar.rst (#803)
+[33mfe8497b67[m [I18N] Update translation terms from Transifex
+[33m8cd200157[m [I18N] Update translation terms from Transifex
+[33me1d6eba30[m [I18N] Update translation terms from Transifex
+[33m4f1a4ec4f[m [ADD] general: two-factor authentication: user documentation (#741)
+[33m4f35fd1b9[m [FIX] *: update v14 urls
+[33mc0ea9a5c7[m [REM] project: remove so_to_task.rst (#801)
+[33ma3b9c5eba[m [FIX] Field Service: fix a typo on the helpdesk tickets page (#797)
+[33mbf816d13d[m [IMP] Field Service: update page on tasks from sales order (#798)
+[33mbabf5e2e8[m [REM] project: remove invoice_time.rst & time_record.rst (#799)
+[33m8ffb76a64[m [IMP] Field Service: update the page on onsite interventions from helpdesk tickets for v14 (#796)
+[33m4472ac1e2[m [REM] Field Service: remove six pages (#795)
+[33m2a1ff2a57[m [IMP] CRM: improve pricing section of the doc about Outlook Extension
+[33m0765eff40[m [REM] timesheets: remove compare.rst & get_started.rst (#794)
+[33m0d72a967f[m [I18N] Update translation terms from Transifex
+[33m4c9764012[m [I18N] Update translation terms from Transifex
+[33m27e915fe4[m [I18N] Update translation terms from Transifex
+[33m7c8b99210[m [IMP] accounting: Update SEPA pain version depending on country (#791)
+[33mc08c2527d[m [IMP] accounting: fix typo in in_odoo.rst (#788)
+[33m5bae4757f[m [IMP] accounting: fix typo in in_odoo.rst (#789)
+[33m1b51eb756[m [ADD] general: new documentation about Axivox as VoIP provider
+[33mc91b4a549[m [MOV] general: moving VoIP docs from "CRM" to "general"
+[33m6c9d67757[m [IMP] accounting: fix typo in in_odoo.rst (#787)
+[33me40850df6[m [I18N] Update translation terms from Transifex
+[33m7dd02462f[m [I18N] Update translation terms from Transifex
+[33md935b3e8e[m [I18N] Update translation terms from Transifex
+[33m489771d2c[m [IMP] Inventory: removal strategies' doc imp (#744)
+[33m41d2463ca[m [ADD] general: doc about the sync with outlook's calendar (#765)
+[33me9745781f[m [I18N] Update translation terms from Transifex
+[33ma30e36f4f[m [I18N] Update translation terms from Transifex
+[33ma906a8511[m [I18N] Update translation terms from Transifex
+[33m350a536c1[m [IMP] practical/db_management: hosting changes (#782)
+[33m23cafed0e[m [IMP] timesheets: get_started.rst (#780)
+[33m3ff0388c5[m [MERGE] Forward-port of branch 13.0 up to 1275d4c523064c1e4c6fc6fb0e6a5b059675db17
+[33m1275d4c52[m [MERGE] Forward-port of branch 12.0 up to af7d307b7657dc935236e6d212271b36527cb4d3
+[33m97ece83b3[m [I18N] Export 14.0 source terms
+[33maf7d307b7[m [I18N] Update translation terms from Transifex
+[33m27175c368[m [I18N] Update translation terms from Transifex
+[33m041740fd8[m [I18N] Update translation terms from Transifex
+[33me1eea953a[m [REM] project: collaborate.rst (#779)
+[33m8fa89877e[m [IMP] odoo_sh: update backup policy before merge (#778)
+[33md833134fa[m [IMP] l10n_cl: update Chilean localization to v14
+[33m7f346c319[m [ADD] accounting (localizations): list of supported countries (#742)
+[33m57c2fc591[m [MERGE] Forward port of 13.0 into 14.0
+[33mbd60ab9d2[m [MERGE] Forward port 12.0 into 13.0
+[33me946532b9[m [REV] conf: revert f93fb12e6bce55
+[33ma66f30a2b[m [REM] project: remove get_started.rst and sub_tasks.rst (#772)
+[33meb2315acd[m [ADD] payment_stripe: add the documentation for local payment methods
+[33m739e538b7[m [I18N] Update translation terms from Transifex
+[33m432ff8f77[m [I18N] Update translation terms from Transifex
+[33m6a9a13058[m [I18N] Update translation terms from Transifex
+[33m21963b82a[m [IMP] accounting: Warning about currency exchange entries (#773)
+[33m188a876a2[m [IMP] odoo.sh: Clarify which permissions to grant in a PAT
+[33m51bc9d071[m [FIX] odoo.sh: Use right anchor in link
+[33mf93fb12e6[m [FIX] technical: Sphinx deprecation warnings
+[33m93ae6ca2b[m [FIX] odoo.sh: Make unidecode description more specific
+[33m1af386916[m [MERGE] Forward-port of branch 13.0 to 14.0
+[33m9cce3b229[m [MERGE] Forward-port of branch 12.0 to 13.0
+[33md00e0bd87[m [FIX] iot: Update and fix IoT documentation (#776)
+[33me709090a6[m [FIX] iot: Update and fix IoT documentation (#775)
+[33mb87e51a13[m [IMP] mexico: Update CSD files for documentation
+[33m0c88e48f7[m [I18N] Update translation terms from Transifex
+[33mb3f119724[m [I18N] Update translation terms from Transifex
+[33m77f6d8897[m [I18N] Update translation terms from Transifex
+[33mde2e347a2[m [REM] project: remove project/overview/setup.rst + project/overview/share.rst (#770)
+[33m0532a240c[m [FIX] accounting: removal of a wrong note about SDD use with Subscriptions
+[33m8ea231906[m [REM] general: remove doc about tags (#768)
+[33m5adc209e9[m [FIX] portal: fix badly formatted ref
+[33mbf7b48fe4[m [MERGE] Forward-port of branch 13.0 to 14.0
+[33m29bfb56d3[m [MERGE] Forward-port of branch 12.0 to 13.0
+[33m21ff81f8b[m [FIX] CRM: typo correction in Outlook Extension doc
+[33md5edc4566[m [FIX] accounting: Correct theoretical amount in note
+[33m74903d5c9[m [I18N] Update translation terms from Transifex
+[33m4b842d251[m [I18N] Update translation terms from Transifex
+[33mc0157e0ad[m [I18N] Update translation terms from Transifex
+[33m70c734769[m [IMP] odoo_sh: branch settings
+[33m55cc1f04a[m [I18N] *: export 14.0 source terms
+[33ma61b56745[m [FIX] website: typos and rephrasing
+[33mb78c6405e[m [IMP] odoo.sh: align user doc and Odoo.sh FAQ for dependencies requests
+[33mae09e682d[m [ADD] CRM: new documentation about Outlook Extension (#761)
+[33m172d7de99[m [FIX] conf: rename the new version
+[33m1a5ba135b[m [FIX] accounting: fix bad indenting in chile localization
+[33mb7243add6[m [FIX] discuss: couple of grammar points fixed
+[33maae3e0f14[m [IMP] general: update instructions to find the import button
+[33m43c02a656[m [I18N] Update translation terms from Transifex
+[33m60eadd4d5[m [I18N] Update translation terms from Transifex
+[33m10dd4e593[m [I18N] Update translation terms from Transifex
+[33mf639c5270[m [MERGE] Forward-port of 13.0 up to 0d5cd136ebc0afc9ef95adb8575738a69412929d
+[33m0d5cd136e[m [MERGE] Forward-port of 12.0 up to 34310a683b498768d5543839a72ceadd4a9120a7
+[33m34310a683[m [REL] Odoo 14.0
+[33me3ab1c126[m [MERGE] (last) Forward-port of 11.0 up to 68805ae8d45c64f9659377f931b3c3e168a056d7
+[33m23656806d[m [IMP] my_odoo_portal: link to delete db
+[33mbdadc40f7[m [IMP] portal: How to delete account?
+[33m184182553[m [I18N] Update translation terms from Transifex
+[33m24f84244e[m [I18N] Update translation terms from Transifex
+[33m500412201[m [I18N] Update translation terms from Transifex
+[33ma40685b5d[m [I18N] *: export 13.0 source terms
+[33me218ae499[m [I18N] Export 14.0 source terms
+[33m7c24b8e15[m [FIX] crm, discuss: fix typos (#751)
+[33m68805ae8d[m [I18N] Update translation terms from Transifex
+[33m64e11ac90[m [I18N] Update translation terms from Transifex
+[33mf5578ca10[m [I18N] Update translation terms from Transifex
+[33m26911cf6f[m [IMP] amazon_connector: list supported marketplaces
+[33mcbba67292[m [FIX] odoo_sh: @api.multi doesn't exist in 13.0 (#747)
+[33m14c8a1b0e[m [ADD] Localizations: Functional documentation for l10n_cl_edi (#745)
+[33mf3bee4c64[m [I18N] Update translation terms from Transifex
+[33m611e16d2c[m [I18N] Update translation terms from Transifex
+[33m21b1add8a[m [MERGE] Forward-port of branch 13.4 up to 3077a9c30ff0e96c3d8e42ecc4031973a09300a9
+[33m3077a9c30[m [MERGE] Forward-port of branch 13.3 up to b0eed05bcdfa822d01879520b4dfac4f96b44545
+[33mb0eed05bc[m [MERGE] Forward-port of branch 13.0 up to cbbb2a459ff29ad2d12430de4eba4eb09c60deaa
+[33mcbbb2a459[m [MERGE] Forward-port of branch 12.0 up to 73cba1561956ad022ac529dc4f431e567116db3b
+[33m73cba1561[m [MERGE] Forward-port of branch 11.0 up to b8f384663ed1e6411525e82cafcffaa8dd73b7c7
+[33mc1ae41a23[m [IMP] support: prepare v14
+[33mb8f384663[m [FIX] odoo.sh: details about storage computation
+[33me9eab4fb0[m [FIX] purchase/purchases/rfq/3_way_matching: fixed text mistake
+[33m44f625f22[m [ADD] subscriptions: add automatic alerts doc
+[33m5cd9ba392[m [ADD] subscriptions: add reporting doc
+[33mdfdced9aa[m [REM] accounting: remove doc about reversing entries automatically (#740)
+[33mcac1cbc56[m [IMP] social marketing: fix typo + remove future tense in campaigns.rst
+[33mfc82654be[m [IMP] planning: send_planned_shifts.rst fix typo (#736)
+[33m40f153616[m [IMP] IoT: replace broken link (#735)
+[33me4dd26970[m [IMP] subscriptions: rename all images
+[33m783fb68c6[m [FIX] legal/terms: typo in quoting of `cloc` command
+[33m6add09163[m [FIX] legal/terms: typo in quoting of `cloc` command
+[33me59726ce5[m [FIX] legal/terms: typo in quoting of `cloc` command
+[33mf09d5af19[m [IMP] Point of Sale: Six >< Worldline (#732)
+[33mc36a9e2bb[m [IMP] Inventory: new screenshots for lead times (#730)
+[33m279c00054[m [IMP] Inventory: doc title fix (#731)
+[33m8c1f32559[m [MERGE] Forward-port of branch 13.0 to 13.3
+[33me7b82d41b[m [MERGE] Forward-port of branch 12.0 to 13.0
+[33mffb6948b4[m [IMP] support: Rewording what_can_i_expect (#729)
+[33m3c85d536a[m [REM] amazon_connector: remove note about missing PII
+[33mb4fb6c6ea[m [ADD] amazon_connector: features page
+[33ma029ba588[m [IMP] amazon_connector: new authentication flow + add a marketplace
+[33m4b75a3c0b[m [FIX] surveys: fix typo on time_random.rst (#726)
+[33m4973df7c8[m [FIX] accounting: fix grammar issue in mexico doc
+[33mb32a07bd5[m [FIX] payment_authorize: fix relay response url
+[33m9b3ffe43c[m [FIX] odoo_sh: fix grammar issue
+[33m615adf604[m [ADD] survey: add documentation (#717)
+[33mbbe3b7835[m [IMP] accounting: new version doc about batch deposit of checks (#718)
+[33mef1e8b0da[m [ADD] events: add documentation (#702)
+[33m21cc6a4b2[m [REM] subscriptions: remove unfinished content
+[33m971fc7c14[m [IMP] studio: toctree (#719)
+[33mdbf6a2c8b[m [IMP] accounting: add pricing section to OCR documentation (#704)
+[33mc44bc48be[m [ADD] subscriptions: add base documentation for Subscriptions (#617)
+[33m351037345[m [ADD] studio: documentation export/import customizations (#705)
+[33m973bbfb59[m [ADD] timesheet: doc about creating timesheets upon time off validation (#713)
+[33mef414bda2[m [ADD] studio: documentation about customizing reports (#710)
+[33mc05c44ba7[m [ADD] studio: documentation about rainbow man (#711)
+[33m53e3161a8[m [FIX] odoo_sh: wrong anchor link in update submodules part
+[33mfb0cbbec0[m [FIX] iot: Connection process changed (#714)
+[33m35470e02f[m [IMP] planning: add screenshot (#712)
+[33m0cca0b5db[m [IMP] accounting: add new version of doc about taxes (#703)
+[33mbe58071b6[m [MERGE] Forward port of 13.2 to 13.3
+[33mb11a33978[m [MERGE] Forward port of 13.0 to 13.2
+[33m761188dc5[m [MERGE] Forward port 12.0 to 13.0
+[33m9ce3eedc6[m [MERGE] Forward port of 11.0 to 12.0
+[33me43df474d[m [ADD] support for meta directive (#708)
+[33mbd00839c8[m [MERGE] Forward port 12.0 to 13.0
+[33mbb710ab6b[m [IMP] accounting: add missing word in a path (#709)
+[33m7d6191c00[m [FIX] crm: add missing menuselection directive
+[33m9bcc41139[m [IMP] odoo.sty: shorten PDF docs by moving title up on first page
+[33me20a4e42b[m [IMP] odoo.sty: shorten PDF docs by moving title up on first page
+[33m7d8251329[m [IMP] odoo.sty: shorten PDF docs by moving title up on first page
+[33mc694bdbd0[m Merge branch '11.0' into 12.0
+[33m47606228e[m [FIX] legal/terms: v9c : re-apply minor changes from v8a to all branches
+[33mc094ba8be[m [FIX] legal/terms: re-apply minor changes from v8a to all branches
+[33m09d8b0477[m [FIX] legal/terms: v9c : re-apply minor changes from v8a to all branches
+[33m3682b19a0[m [MERGE] Forward port of 11.0 to 12.0
+[33m94194f306[m [FIX] expense: Reference in first position in email subject
+[33m4501fdd18[m [FIX] legal/terms: more clarifications in v9 contracts (> v9b)
+[33m0fe45eead[m [FIX] legal/terms: more clarifications in v9 contracts (> v9b)
+[33m0d4d51b43[m [FIX] legal/terms: more clarifications in v9 contracts (> v9b)
+[33mc76eaf4cd[m [IMP] general: manage_multi_companies.rst doc improved (#699)
+[33m568f507d9[m [ADD] accounting/localizations: add a new section to Colombia ES doc
+[33m67133b5c6[m [IMP] studio: fix relative path to doc
+[33me482f2bd1[m [ADD] helpdesk: documentation about elearning/forum/rating features (#673)
+[33m1adc335a7[m [ADD] studio: documentation (#657)
+[33mc41ea1724[m [ADD] general: multi companies documentation (#674)
+[33m3ebf1728f[m [ADD] crm: document about gamification (#687)
+[33m5eee96289[m [IMP] Point of Sale: updated doc about pos for restaurant (#610)
+[33m8c27e0372[m [ADD] website: document about link tracker (#685)
+[33m60d87e4e4[m [IMP] Inventory: New screenshots for reception in 3-steps (#634)
+[33mc9ec5aef8[m [REM] amazon_connector: remove doc about application for API keys
+[33m85994b65c[m [ADD] localization: new part about ISR reference in Switzerland doc (#684)
+[33m6a7f9aa89[m [IMP] accounting: update the doc about Default Taxes (#694)
+[33m3f3b213b6[m [ADD] accounting: add a new page for Indonesian fiscal localization (#681)
+[33me6486dc4a[m [ADD] General: new doc about exporting data (#695)
+[33me0268afb0[m [IMP] Inventory: new doc about the routes and push/pull rules (#693)
+[33m607770aae[m [FIX] legal/terms: correct typo in FR translation
+[33mb8209b876[m [FIX] legal/terms: correct typo in FR translation
+[33meae02bfe3[m [FIX] legal/terms: correct typo in FR translation
+[33m29424279f[m [FIX] legal/terms: minor clarifications in v9 contracts (> v9a)
+[33m287233711[m [FIX] legal/terms: minor clarifications in v9 contracts (> v9a)
+[33mf46c6cd0e[m [FIX] legal/terms: minor clarifications in v9 contracts (> v9a)
+[33ma3b224036[m [FIX] legal: adapt icon location for old layout
+[33m8b99aef0c[m [FIX] legal: adapt icon location for old layout
+[33m89457036c[m [FIX] odoo.sty: fix compatibility with older sphinx versions
+[33m5807f94c0[m [FIX] odoo.sty: fix compatibility with older sphinx versions
+[33m54e7ed30a[m [FIX] odoo.sty: fix compatibility with older sphinx versions
+[33mde137b0bc[m [ADD] legal: update contracts for new maintenance
+[33m3c44972f0[m [ADD] legal: update contracts for new maintenance
+[33m5b80ed551[m [ADD] legal: update contracts for new maintenance
+[33md664c7ca3[m [ADD] MRP: new doc about batch transfers (#614)
+[33m7b485f804[m [ADD] accounting: add new doc about the "Verify VAT numbers" feature (#692)
+[33m861b9c808[m [IMP] discuss: delete redirection for mail_twitter.rst (#691)
+[33mc71d623ef[m [IMP] discuss: documentation updated (#655)
+[33m15bbcb328[m [IMP] accounting: add rewritten doc about Fiscal Positions
+[33m1bb9a90db[m [IMP] general: new version of the Authorize.Net doc (#683)
+[33maa08829bb[m [ADD] accounting: add a new doc about Invoice Online Payment (#678)
+[33m2c5eddd2d[m [IMP] discuss: port 25 blocked for SMTP (#689) info added on email_server.rst
+[33m4bac2e5ab[m [IMP] project: changed screenshots on email_alias.rst (#690)
+[33m42b3b6bb9[m [IMP] odoo_sh: clarify dev branch behavior (#688)
+[33m033c2e1a4[m [IMP] point_of_sale: Six and Ingenico terminals (#679)
+[33m92a323131[m [IMP] general: add_user.rst improved/updated (#659)
+[33m66d58b1e3[m [ADD] helpdesk: doc about reports (#661)
+[33m2dbddd8ff[m [IMP] general: add new doc about payment acquirers (#676)
+[33m1af52cd41[m [IMP] Point of Sale: Improvements on docs about discounts (#611)
+[33m42ac8df97[m [MERGE] Forward-port of 13.0 in 13.2
+[33m39e47f74f[m [MERGE] Forward-port of 12.0 in 13.0
+[33m6533e3461[m [MERGE] Forward-port of 11.0 in 12.0
+[33mf2689641d[m [IMP] improved screenshots on email_marketing, events, fsm, general, helpdesk, marketing_automation, planning, project, sms_marketing, social_marketing, survey, timesheets + add see also in integrations_and_templates.rst (#677)
+[33m4c6d0e4b9[m [ADD] contribution: new doc about content guidelines (#668)
+[33m5e701c7bf[m [FIX] db_management: fix typo in db_online
+[33m7bbaa8f94[m [IMP] PoS: improvements of the PoS doc "getting started" (#600)
+[33m058c0aaa6[m [IMP] documentation: reorder the main apps' list
+[33m6a3845ce8[m [IMP] accounting: update doc about Sepa Direct Debit batch payments (#670)
+[33m7d02018a5[m [IMP] Inventory: minor fix of the redirect file (#667)
+[33md25a2fa91[m [FIX] Corrected link to l10n_mx certificate & certificate key in 13.0 (#666)
+[33mc17b58af7[m [IMP] Inventory: new version of lead times doc (#660)
+[33mb5c78f74c[m [IMP] google_spreadsheet: warn about timeouts
+[33ma136e6919[m [FIX] accounting: missing redirect for a mid-menu page
+[33m8e5e70c15[m [IMP] odoo_sh: emphasize private submodule must be added using git Move an important paragraph at section beginning and emphasize it with a warning.
+[33mc3760af95[m [IMP] helpdesk: add docs (seealso) on receiving_tickets.rst + sla.rst (#663)
+[33m0a53fdc3d[m [FIX] helpdesk: fixed toctree overview.rst (#658)
+[33m2bb93512c[m [ADD] discuss: doc about email template (#598)
+[33mbe61cc7be[m [ADD] helpdesk: doc about channels options (#646)
+[33m8a7e5999b[m [ADD] timesheets: documentation (#568)
+[33m499525854[m [IMP] helpdesk: doc invoice_time.rst updated (#651)
+[33m4a72e718e[m [IMP] helpdesk: update doc 'Get started with Odoo Helpdesk' (#645)
+[33ma7d153408[m [ADD] helpdesk: doc about SLA (#647)
+[33ma66c9519c[m [IMP] accounting: add new version of doc about reconciliation models
+[33m4b8408be2[m [IMP] accounting: update doc about Purchase Receipts
+[33m245b3a029[m [ADD] accounting: add new doc about fiscal localization packages (#649)
+[33m56281b94e[m [IMP] accounting: add new version of doc about bank accounts
+[33mb716c3cfc[m [IMP] helpdesk: improved title of reinvoice_from_project.rst (#650)
+[33m98e2208fd[m [IMP] MRP: Improvement of the subcontracting doc (#648)
+[33m83e04c44e[m [MOV] accounting: create a new "Reporting" section
+[33m474764291[m [REM] accounting: delete old doc about expenses (#633)
+[33m5e905cfea[m [ADD] .github: introduce code-owners file for reviewers
+[33m7c7c0c8d3[m [IMP] project: update banner image (#642)
+[33m85a516722[m [IMP] project: add seealso to tags
+[33mfd4625140[m [IMP] events: reduce banner image size
+[33m4c2fcf2ba[m [FIX] paypal: update menuselection for `Merchant ID` credential
+[33m3cc22f03e[m [IMP] licenses: add v12 coverage
+[33m54828ac61[m [IMP] project: add link to the developer mode doc
+[33m751b30e66[m [IMP] project: documentation overhaul (#581)
+[33m2ac902c1e[m [IMP] helpdesk: add doc on seealso + removed future tense
+[33md75d06f32[m [I18N] Update translation terms from Transifex
+[33m7e986a090[m [I18N] Update translation terms from Transifex
+[33m2a3753f3d[m [I18N] Update translation terms from Transifex
+[33mad6ea1c12[m [IMP] sms marketing: few adjusments in content + order of titles on the main page
+[33ma25bbc87c[m [IMP] email marketing: remove future tense
+[33m1df81e22f[m [IMP] planning: improvement toctree
+[33m102e43750[m [IMP] helpdesk: improvement of toctree
+[33mcfb4b4c55[m [IMP] {email,sms}_marketing: add Social Marketing's campaigns in seealso's
+[33m08c434ade[m [ADD] marketing automation: add tags doc on seealso
+[33m1e9b146e8[m [FIX] Redirect: Fix redirections (#632)
+[33ma956c7b06[m [FIX] redirects: fix redirections at social_marketing, project, live_chat (#631)
+[33mdcce0fbc3[m [FIX] redirects: add redirections for moves in accounting
+[33md9cca766b[m [FIX] redirects: add redirection to sales/send_quotations/optional_products
+[33m655bedb36[m [REV] reverts b9897db04f68c1775c1e0955c2ec60d90b6ab812
+[33mc48763f92[m [FIX] accounting: fix screenshot in cash discount
+[33mb9897db04[m [FIX] redirects: add redirection to sales/send_quotations/optional_products
+[33md2ef4232f[m [MERGE] Forward-port of 13.0 to 13.2
+[33mae9bf567e[m [MERGE] Forward-port of 12.0 to 13.0
+[33me4306fe1b[m [FIX] redirects: add a redirection to contributing
+[33m3da50b663[m [FIX] redirects: add redirection to accounting/localizations/netherlands
+[33m3aff498b7[m [FIX] redirects: add redirections to {amazon,ebay}_connector
+[33m8ffe1f117[m [MERGE] Forward-port of 12.0 to 13.0
+[33m07fd1db10[m [MERGE] Forward-port of 11.0 to 12.0
+[33m72f93038b[m [FIX] technical: clarify instructions for redirect rules
+[33mdb8114cd1[m [IMP] Inventory: Fixed toctree issues (#622)
+[33m9e75cc33c[m [MERGE] Forward-port of 12.0 to 13.0
+[33m8bd94e4ae[m [MERGE] Forward-port of 11.0 to 12.0
+[33m09bab807a[m [IMP] technical: add a static redirection feature for missing pages
+[33mb1293646e[m [I18N] Update translation terms from Transifex
+[33m02c04a632[m [IMP] update content of "Down Payment" (Sales V13 - CDU) (#577)
+[33m513f5dfab[m [MOV] Point of Sale: Doc moves (#612)
+[33m2ac5e7264[m [ADD] accounting: doc about OCR (#585)
+[33m4386f91c6[m [IMP] live_chat: overhaul documentation update (#601)
+[33mffd892ffd[m [IMP] update content of "Terms & conditions" (Sales - V13) (#556)
+[33m98f520478[m [ADD] survey: documentation (#563)
+[33m8cd0a39aa[m [IMP] update content of "Invoicing policy" (Sales - V13) (#558)
+[33mfbc3a584d[m [ADD] Point of Sale: New doc about pricelists (#604)
+[33m6c2e07316[m [ADD] Point of Sale: New doc about fiscal positions (#603)
+[33m2d3f91107[m [ADD] accounting: add new doc about tax/vat returns (#606)
+[33m466b68493[m [ADD] events: integration with sms doc (#562)
+[33m85f2dcc85[m [ADD] general: doc about google spreadsheets in odoo (#576)
+[33m7ddb80155[m [MOV] accounting: remove "how to...?" from the titles (#599)
+[33m0dc227988[m [IMP] Accounting: add new version of Accounting/Invoicing initial setup (#595)
+[33mcb68e6545[m [ADD] accounting: new documentation about synchronization with Ponto (#597)
+[33meef8b7b14[m [ADD] general: doc about tags (#574)
+[33m6f2daaf18[m [I18N] Update translation terms from Transifex
+[33m5de0f2184[m [I18N] Update translation terms from Transifex
+[33m1c56b9f81[m [IMP] project: documentation overhaul 2 (#583)
+[33m817e4a045[m [I18N] update 13.0 source terms
+[33me477b619b[m [ADD] Accounting: Bank Statements and remove old documentation
+[33m0f8a374ea[m [ADD] social_marketing: improved and added documentation (#578)
+[33m634873234[m [ADD] accounting: doc about snailmail (#587)
+[33m6bb8a4d4d[m [IMP] Accounting: new version of Payment Terms (#573)
+[33ma39978106[m [ADD] l10n_ar_edi: add electronic invoice guide for Argentina
+[33mf19b22e73[m [IMP] website: instructions about GeoIP installation (#561)
+[33m3300e665b[m [FIX] email_marketing: unsubscribe button does not work in test mode (#596)
+[33m06bd4b173[m [MERGE] Forward-port of 13.0 to 13.2
+[33me495d8dfe[m [MERGE] Forward-port of 12.0 to 13.0
+[33m5b0624269[m [MERGE] Forward-port of 11.0 to 12.0
+[33mb1cb9124c[m [IMP] odoo.sh: add setup and connection instructions for SSH
+[33ma51019c41[m [I18N] Update translation terms from Transifex
+[33m0c72ac5ab[m [I18N] Update translation terms from Transifex
+[33mab5ce5db7[m [IMP] general: quick adjustment on developer mode doc
+[33m6c8369610[m [MOV] Accounting: create a new "Fiscality" section
+[33m740613816[m [FIX] general: add uncomitted changes to dfc585d
+[33mdfc585d25[m [ADD] general: add documentation about debug mode
+[33m74c373425[m [FIX] accounting: fix menuselection arrow character
+[33m7641c5d43[m [IMP] db_management: replace recommended uuid generator with open source one
+[33m8e0fe0f87[m [ADD] crm: doc about partner autocomplete
+[33mecc2aa8bc[m [I18N] Update translation terms from Transifex
+[33m954cbef94[m [FIX] contributing: fix typo
+[33mdbeb875a6[m [FIX] sales: update flow for analytic accounts
+[33m4f43aa65e[m [FIX] sales: update flow for terms & conditions + clarify doc for subscriptions
+[33mcdcc0511d[m [IMP] index: move general doc in last position of applications
+[33me10581ef6[m [REM] *: remove all demo.action buttons from the user documentation
+[33mf048af2f7[m [I18N] Update translation terms from Transifex
+[33mba7c82f9c[m [I18N] Update translation terms from Transifex
+[33m551d6be65[m [I18N] Update translation terms from Transifex
+[33m9cf90b134[m [ADD] Email_marketing: new doc
+[33m303b9219b[m [IMP] FSM: global improvement
+[33m80991f155[m [IMP]SMS Marketing: general improvements
+[33m28754a2cc[m [IMP] marketing automation: delete of a word
+[33m5818c4156[m [ADD]Marketing automation: new docs
+[33m63358426e[m [MERGE] Forward-port of branch 13.0 to 13.2
+[33m5b03c33af[m [MERGE] Forward-port of branch 12.0 to 13.0
+[33m8aae0e448[m [FIX] README: replace non-processed directives by absolute links
+[33mce6785d15[m [IMP] README: update README and refer to contributing/documentation
+[33mde5d205c4[m [FIX] README: replace non-processed directives by absolute links
+[33mf08b5da17[m [IMP] README: update README and refer to contributing/documentation
+[33m8620437a1[m [MERGE] Forward-port of branch 13.0 to 13.2
+[33mc3fd57bb0[m [MERGE] Forward-port of branch 12.0 to 13.0
+[33mb109c3afa[m [REM] support: remove doc for writing content in the user doc
+[33mfafc13ef0[m [ADD] accounting: add a new documentation about Chart of Accounts
+[33m93bb794eb[m [REM] technical: remove test for Python version
+[33m8a0f37153[m [IMP] technical: remove warning about scripts assets
+[33m142e1926f[m [MERGE] Forward-port of branch 11.0 to 12.0
+[33m950b46079[m [IMP] technical: remove future warning of Sphinx
+[33ma0f6d3e92[m [IMP] technical: allow building with Python 3 and Sphinx 2.4.0
+[33m108dae79c[m [ADD] contributing: add doc for contributing to the documentation
+[33ma542d9adb[m [IMP] index links looking bad with underline
+[33m4203285f9[m [REF] port developer doc's design
+[33m52e49eda4[m [IMP] search-form: improve ui & fix bug on mobile
+[33ma5d6a5040[m [I18N] Update translation terms from Transifex
+[33m8b206151f[m [I18N] Update translation terms from Transifex
+[33mc5b9af919[m [I18N] Update translation terms from Transifex
+[33ma60364a5e[m [FIX] rendering of tables with merged cells
+[33m7cfe9c36f[m [MERGE] Forward-port 13.0 to 13.2
+[33m440fd9ba9[m [MERGE] Forward-port of 12.0 to 13.0
+[33m9334afe66[m [REV] Revert 54f0228dae2f9c637f764cd442dc7ee538919abc
+[33mb343d51ce[m [MERGE] Forward-port of 11.0 to 12.0
+[33m1081f8b7b[m [REV] Revert dbba515 to 8678876
+[33m3b54a96f3[m [MERGE] Forward-port of 13.0 to 13.2
+[33mbbf2badab[m [MERGE] Forward-port of 12.0 to 13.0
+[33m54f0228da[m [IMP] technical: remove warning about scripts assets
+[33m541bd5452[m [MERGE] Forward-port of 11.0 to 12.0
+[33m867887613[m [IMP] technical: remove future warning of Sphinx
+[33mdbba51556[m [IMP] technical: allow building with Python3 and Sphinx 2.X
+[33m038446bae[m [I18N] Update translation terms from Transifex
+[33m5e01f9337[m [I18N] Update translation terms from Transifex
+[33m8715fed0c[m [I18N] Update translation terms from Transifex
+[33mb79366cd5[m [I18N] export 13.0 source terms
+[33m45a01ad2e[m Revert "[New] Email Marketing : 3 new pages (mailing lists, manage unsub, campaigns)"
+[33md32d8dc2b[m [IMP] Sales: small fix generate from email
+[33mbbc1a00b0[m [New] Email Marketing : 3 new pages (mailing lists, manage unsub, campaigns)
+[33m9323cba5c[m [FIX] config: fix path of odoo logo
+[33m32019a215[m [IMP] sales: update Get paid to confirm order
+[33m8179f5a36[m [IMP] update content of optional items (Sales - V13)
+[33mae9b5e904[m [IMP] sales: update online signature
+[33m7f16f62bf[m [IMP] *: update banners
+[33m5aec6d4fd[m [REM] index: remove references to mementos
+[33me805794f6[m [IMP] accounting: add a new version of the Assets documentation (#541)
+[33m7d672611e[m [IMP] website: config of root URL
+[33mfbf686a3e[m [IMP] sales: update content
+[33m411b8d525[m [IMP] sales: update content of optional items
+[33mcd9a0b7be[m [IMP] ecommerce: authorize.net setup
+[33m824105a55[m [IMP] accounting: update bank sync documentation
+[33m974fb8f81[m [IMP] sales: update content about deliver and invoice addresses
+[33m4c46bb0b4[m [IMP] sales: update quotations deadline
+[33m589a0fae2[m [IMP] amazon_connector: add caution for secondary form
+[33ma7e9aeb94[m [IMP] taxcloud: document coupons and promotions (#460)
+[33m3b431bbe7[m [FIX] discuss: add warnings about the scope of the mail documentation
+[33m036e4bf4c[m [FIX] sale: fix broken image (#532)
+[33m2c6f8510a[m [MERGE] Forward-port of 13.0 into 13.2
+[33m9e446190e[m [MERGE] Forward-port of 12.0 into 13.0
+[33mfd3c2bcd7[m [REV] pos: revert doc about ingenico and six as they only exist since 13.0 (#529)
+[33mf37934ab0[m [IMP] discuss: add note about config of outbound servers (#534)
+[33mb08d95f49[m [FIX] accounting: correct a small mistake in Deferred Expenses and Deferred Revenues (#530)
+[33m14b8ae3a8[m [IMP] pos: new titles for each section (#528)
+[33mc133276b7[m [MERGE] Forward-port of branch 13.0 to 13.2
+[33m4c47b1108[m [MERGE] Forward-port of branch 12.0 to 13.0
+[33md4f100f6f[m [MERGE] Forward-port of branch 11.0 to 12.0
+[33m1405d39cb[m [MERGE] Forward-port of branch 10.0 to 11.0
+[33m69c01d069[m [REM] crm: remove documentation about probable turnover
+[33me49153768[m [MERGE] Forward-port of 9.0 to 10.0
+[33m907195ae7[m [IMP] base: add a commit message template with the guidelines
+[33m2933ed486[m [MERGE] Forward-port of 13.0 to 13.1
+[33m233e02f51[m [MERGE] Forward-port of 12.0 to 13.0
+[33m8df32a06f[m [I18N] remove recruitment translations
+[33m5e9fd47f7[m [MERGE] Forward-port of 11.0 to 12.0
+[33m38c3137a8[m [MERGE] Forward-port of 10.0 to 11.0
+[33mf1b0a2fc7[m [I18N] remove expense, was supposed to be expenses
+[33m817384b0c[m [I18N] export 13.0 source terms
+[33mfe93610d4[m [IMP] amazon_connector: write links to Odoo policies in full
+[33m691b220ad[m [IMP] mrp: new subcontracting screenshots + new section (#526)
+[33m6e4984c49[m [REM] *: remove last revision dates
+[33m93e407da5[m [REF] *: replace tabs by spaces
+[33mf7bedfce2[m [FIX] *: fix incorrect/unstable links
+[33m4bb2eeda1[m [IMP] *: harmonize formatting
+[33m73fff5798[m [IMP] *: fix display issues
+[33m934bb55eb[m [MOV] accounting: rename nederlands.rst to netherlands.rst
+[33m6e43928d5[m [REM] accounting: remove broken asset demo button
+[33m0b4c41a0f[m [MERGE] Forward-port of branch 12.0 up to 6a5c652b8caee86b871be9d3bf9449583f4cc0c7
+[33m6a5c652b8[m [MERGE] Forward-port of branch 11.0 up to 0ee0d5f1b2e062f8ee861af9b6bbaa2974ec1d25
+[33m1610fec9d[m [FIX] crm: Improve VOIP User Doc (#525)
+[33maf37ec360[m [ADD] accounting: new documentation about deferred expenses
+[33m8b72e0ed9[m [IMP] amazon_connector: update form answers to redirect to odoo policies
+[33m1f1eba95c[m [MOV] amazon_connector: move 'sale_amazon' references to 'amazon_connector'
+[33m5629ad463[m [MOV] ebay_connector: move 'ebay' and 'sale_ebay' references to 'ebay_connector'
+[33m0ee0d5f1b[m [I18N] Update translation terms from Transifex
+[33m99f72bd1d[m [I18N] Update translation terms from Transifex
+[33m89a5083fd[m [I18N] Update translation terms from Transifex
+[33m3f454308a[m [FIX] website: wait a bit before complaining that it does not work
+[33m947a42a8e[m [FIX] inventory: fix typo (#522)
+[33m0b766bfca[m [ADD] l10n_ar: add localization for Argentina accounting
+[33m291683a34[m [I18N] export 13.0 source terms
+[33md56ace807[m [ADD] planning: add documentation
+[33mab8499cd6[m [IMP] accounting: add extra details and tips to Deferred Revenues documentation (#519)
+[33md8c756ce2[m [ADD] fsm: add documentation fsm
+[33mb7c7f309c[m [IMP] sale_amazon: add information about compliance with Amazon's security standards
+[33m873c4db15[m [IMP] iot: new screenshot about connecting iot box (#518)
+[33m1c8813dac[m Revert "[ADD] ecommerce: add payment_payfort configuration"
+[33m38627b6e5[m [ADD] ecommerce: add payment_payfort configuration
+[33m658e544fb[m [FIX] inventory: Add missing section in valuation
+[33mdc72c8fe6[m [FIX] project: Capital K on all Kanban for consistency
+[33mb8efe6e95[m [ADD] helpdesk: document ticket closing and time reinvoicing (#489)
+[33me9f8f794b[m [I18N] publish support translations
+[33md6b461ec7[m [I18N] update 13.0 source terms
+[33md32b3784d[m [IMP] Inventory valuation: update documentation
+[33md1ba86082[m [IMP] inventory: screenshots update (#510)
+[33m98331e1f4[m [IMP] inventory: Merge continental/anglo-saxon documentation pages
+[33mafc32a9ba[m [MERGE] Forward port of 9.0 to 10.0
+[33mab228fe7d[m [FIX] _extension: backport 11.0 documentation layout
+[33mbff2b54c0[m [I18N] Update translation terms from Transifex
+[33mfb3df148f[m [I18N] Update translation terms from Transifex
+[33m527284700[m [I18N] Update translation terms from Transifex
+[33mef065c392[m [MOV] inventory: new doc from inventory valuation (#505)
+[33mb934fa8da[m [IMP] inventory: modifications in reporting docs (#504)
+[33ma524b273c[m [ADD] inventory: new doc about inventory valuation and landed costs (#503)
+[33m87a0b2cb6[m [ADD] inventory: new doc page about using inventory valuation (#502)
+[33m34a490fad[m [ADD] inventory: new doc about inventory valuation (#501)
+[33maff38248d[m [I18N] Update translation terms from Transifex
+[33mb48d3563d[m [I18N] Update translation terms from Transifex
+[33m69195b8ee[m [I18N] Update translation terms from Transifex
+[33m30ce7badb[m Update flash_sdcard.rst
+[33m2c2f1a6db[m [MERGE] Forward-port of branch 12.0 up to 8a48c4c8cbce35f0ccd4fb7a39c38ed70f1f2718
+[33m8a48c4c8c[m [MERGE] Forward-port of branch 11.0 up to 54c9afb4651c3067bf7f4804600f06101f82d849
+[33me88ae86f8[m [I18N] export 13.0 source terms
+[33mea3001ceb[m [FIX] inventory: MTO doesn't check for the quantity on hand (#494)
+[33mc76115b96[m [FIX] inventory: replenishment doesn't change the UoM (#486)
+[33m5b329dcda[m [FIX] inventory: details on pickings with multiple packages (#488)
+[33m54c9afb46[m [FIX] ecommerce: add mandatory configuration for Paypal requests encoding (#498)
+[33m8cc96486e[m Update README.rst
+[33m8ff0eb83c[m Update Readme, link to scaleup
+[33m582441cf0[m Update README.rst
+[33m89764d215[m [I18N] Update translation terms from Transifex
+[33m0de766217[m [I18N] Update translation terms from Transifex
+[33m15312b376[m [I18N] Update translation terms from Transifex
+[33m97b9ed803[m [MERGE] Forward od 12.0 to 13.0
+[33me4f286f11[m [MERGE] Forward port of 11.0 to 12.0
+[33mbcfef7cd0[m [IMP] _extension: update menu list
+[33m6aa41ecbf[m Update deliver_from_stock.rst
+[33m1349a69d9[m [I18N] Update translation terms from Transifex
+[33m0031d8de5[m [I18N] Update translation terms from Transifex
+[33m78f104b68[m [I18N] Update translation terms from Transifex
+[33mf5833b7f1[m [IMP] documentation: make the multiversion, multilang work
+[33m89594d512[m [IMP] documentation: make the multiversion, multilang work
+[33ma8e34d850[m [IMP] documentation: make the multiversion, multilang work
+[33m8d3616fd3[m [MERGE] Forward port of 12.0 to 13.0
+[33m299d2f544[m [MERGE] Forward port of 11.0 to 12.0
+[33m5cad76880[m [MERGE] Forward port of 10.0 to 11.0
+[33m1ceb7af2f[m [MERGE] Forward port of 9.0 to 10.0
+[33m195c21067[m [REM] sale_amazon: removed order cancellation sync from odoo (#479)
+[33mac88abfa4[m [REM] accounting: remove colliding image files with uppercase extension
+[33md18d59def[m [IMP] Accounting: new version of the Deferred Revenues doc
+[33m267dd8620[m [REM] Accounting: Delete mistake about Storno accounting not supported by Odoo
+[33m72e829237[m [IMP] config: add canonical url
+[33m7c0be017e[m [FIX] conf: avoid // urls
+[33ma3809a2c8[m [IMP] _extension: add languages link
+[33m3a45ba958[m [IMP] config: add canonical url
+[33mb1dabedf8[m [FIX] conf: avoid // urls
+[33m1f51fda2e[m [IMP] _extension: add languages link
+[33md03b078ad[m [IMP] config: add canonical url
+[33m05f3db3d3[m [FIX] conf: avoid // urls
+[33m538eecd2d[m [IMP] _extension: add languages link
+[33m942a06687[m [IMP] config: add canonical url
+[33m714cf317c[m [FIX] conf: avoid // urls
+[33m7f7d5109d[m [IMP] _extension: add languages link
+[33m6558c373c[m [I18N] Update translation terms from Transifex
+[33m2e3f82e0b[m [I18N] Update translation terms from Transifex
+[33m007132bda[m [I18N] Update translation terms from Transifex
+[33m71d5600b8[m [I18N] Update translation terms from Transifex
+[33m9502d19a6[m [I18N] Update translation terms from Transifex
+[33m9e9057401[m [I18N] Update translation terms from Transifex
+[33m923f5804f[m [I18N] Update translation terms from Transifex
+[33maf1641fa6[m [ADD] PoS: add new Cash Rounding documentation (#484)
+[33m63a658912[m [IMP] ebay: new synchronization method
+[33mad8538aa7[m [IMP] accounting documentation (#482)
+[33mee5e5cfb2[m [FIX] sales: fix illustration for discount with rounding example (#481)
+[33m2c23f6541[m [FIX] sales: fix illustration for discount with rounding example (#481)
+[33m56e1fb07a[m [FIX] sales: fix illustration for discount with rounding example (#481)
+[33m64fa0109e[m [I18N] Update translation terms from Transifex
+[33m6bf5338a3[m 13.0 accounting jcs (#480)
+[33m64bf1ef11[m [I18N] Update translation terms from Transifex
+[33m6bdf1f840[m [I18N] Update translation terms from Transifex
+[33m59564dc62[m [IMP] odoo_sh: update doc to latest changes
+[33ma9afbe2d9[m [FIX] crm: use menuselection item
+[33m66bbea9fb[m [FIX] crm: typos in menus
+[33m66fc093cc[m [I18N] Update translation terms from Transifex
+[33m3ae6a2b39[m [I18N] *: export 13.0 source terms
+[33m8b49c8e06[m [I18N] Update translation terms from Transifex
+[33mfa5cfe9ce[m [I18N] Update translation terms from Transifex
+[33m98c79bc96[m [I18N] Update translation terms from Transifex
+[33m0f23bd50a[m [I18N] Update translation terms from Transifex
+[33m98c9283e5[m [I18N] Update translation terms from Transifex
+[33m69d8936be[m [IMP] accounting: Odoo 13 updates
+[33mbe7a6b7ed[m [add] crm: lead mining (#474)
+[33m27d74b624[m [IMP] crm: add new feature to crm doc (#473)
+[33m555b71c0c[m [FIX] plug chart of accounts & journal entries widgets on explicit classes
+[33m66b49058f[m 13.0 sms marketing (#471)
+[33m1c910f8b5[m [ADD] inventory: new Odoo 13 docs
+[33mb4f2da505[m [IMP] quality: added subtitles (#469)
+[33me154d33a8[m [ADD] Link to FQA and pricing to doc (#468)
+[33md091840e3[m [I18N] Update translation terms from Transifex
+[33md44743b57[m [I18N] Update translation terms from Transifex
+[33m87c3ad1d3[m [FIX] quality: banner's quality to high (#467)
+[33m8bbca4e0e[m [ADD] Pricing and FAQ (#466)
+[33ma6d36ea62[m [IMP] support: display images instead of unicode
+[33mb6f35afe8[m [IMP] _extension: support for width attribute
+[33m28156b4e4[m [ADD] After sales features (#463)
+[33m11fc39e8f[m Update SMS_mkt_build_send-and_get_reports_from_a_SMS_mailing.rst
+[33m0d3f52199[m Update SMS_mkt_build_send-and_get_reports_from_a_SMS_mailing.rst
+[33mcf50baa52[m [ADD] SMS Marketing documentation (#462)
+[33m651ff4d7b[m [FIX] inapp: bullet points
+[33mce664be49[m [ADD] general: new doc about in app purchases
+[33mf3a455878[m [FIX] mrp: fix on mps bullet points
+[33m3d6fc9fbb[m [IMP] mrp: changes to fit last update (submrp)
+[33m6d4e10715[m [MERGE] Forward port of 12.0 to 13.0
+[33m6571be311[m [MERGE] Forward port of 11.0 to 12.0
+[33mf7cb30b6d[m [FIX] _extension: complete monkeypatch in sphinx 1.6
+[33m4b6c24b33[m [ADD] quality: New section for quality docs
+[33mbdbdb24ed[m [FIX] typo
+[33me187cac29[m [MERGE] Forward port of 12.0 to 13.0
+[33m2ca5c635b[m [I18N] Update translation terms from Transifex
+[33ma9be9180d[m [I18N] Update translation terms from Transifex
+[33m599be2a9e[m [FIX] accounting: clarification about TaxCloud.
+[33md2f9db139[m [IMP] db_management: update screenshots and text to v13
+[33mdf21fb391[m [I18N] Update translation terms from Transifex
+[33med72d3132[m [I18N] Update translation terms from Transifex
+[33maf72aa202[m [MOV] pos: moved the ingenico doc from iot to pos
+[33md99d5f853[m [ADD] pos: new docs about connecting payment terminals to the pos (#453)
+[33md1090fd62[m Update subcontracting.rst
+[33maa2901aa0[m Update payment_terminal.rst
+[33m2bf6b3adb[m [ADD] iot: new doc about connecting a payment terminal (#452)
+[33ma550a396d[m [IMP] inventory: screenshots adjustments on the scrap doc
+[33m23a79fbfa[m Update lots.rst
+[33m73b41a66e[m Update barcode_nomenclature.rst
+[33md1c0aa6b0[m Update barcode_nomenclature.rst
+[33m8aa2c698f[m [MERGE] Forward-port of branch 12.0 up to 7a65f48d412cb647320e795cf5b39624b84c31c7
+[33m7a65f48d4[m [MERGE] Forward-port of branch 11.0 up to 17fc4219bd24e8993fc5ab3c00d9979f87a45e84
+[33mcf661c219[m Update two_steps.rst
+[33me33715fb8[m [ADD] iot: new docs about connecting devices (#449)
+[33md67f96ca7[m [MOV] sales: using variants moved from inventory to sales (#448)
+[33m0458eb9ec[m Update initial_stock.rst
+[33m16f2f26f8[m [ADD] iot: new doc about connecting a measurement tool
+[33mc168e805d[m [ADD] iot: new doc about connecting a measurement tool
+[33m17fc4219b[m [ADD] searchbar based on Sphinx search tool
+[33m0b394af71[m [ADD] inventory: new doc about managing expiration dates
+[33mb81b70885[m [ADD] inventory: new doc about managing expiration dates
+[33m79eb60c04[m [IMP] inventory: V13 changes on serial numbers and lots docs
+[33m47d7f0c0f[m [IMP] inventory: V13 changes on serial numbers and lots docs
+[33m8839499f5[m Update setup_stock_rule.rst
+[33m680b2b005[m [ADD] inventory: new doc about configuring and run schedulers
+[33m39ffd113b[m [ADD] inventory: new doc about configuring and run schedulers
+[33m8ed339708[m [ADD] inventory: new subtitle + new doc about planning
+[33m491b41fd8[m [ADD] inventory: new subtitle + new doc about planning
+[33me6d7a1ec3[m [ADD] inventory: New doc about sending automated sms at delivery
+[33m2eb6359e9[m [ADD] inventory: New doc about sending automated sms at delivery
+[33m3054d765f[m [ADD] inventory: New doc about sending automated emails at delivery
+[33m5de9dfda4[m [ADD] inventory: New doc about sending automated emails at delivery
+[33m0eff441d7[m [IMP] inventory: V13 changes on the "owned stock" doc
+[33m6dd9cc29c[m [IMP] inventory: V13 changes on the "owned stock" doc
+[33m82eb2cc0f[m Update barcode_nomenclature.rst
+[33mbfb8c4313[m [IMP] inventory: V13 changes on the "scrap products" doc
+[33mfebd890be[m [IMP] inventory: V13 changes on the "scrap products" doc
+[33mda76782be[m [ADD] inventory: new V13 doc "barcode nomenclature"
+[33mdb2589f7b[m [ADD] inventory: new V13 doc "barcode nomenclature"
+[33mf521c4761[m [ADD] inventory: new V13 doc about "creating transfers from scratch"
+[33m4f7e86866[m [ADD] inventory: new V13 doc about "creating transfers from scratch"
+[33m7e02aa62e[m [IMP] inventory: V13 changes on the "internal transfers" doc
+[33m06a5dd687[m [IMP] inventory: V13 changes on the "internal transfers" doc
+[33mb7505edcf[m [IMP] inventory: V13 changes on the "inventory adjustment with barcode" doc
+[33mf088c4f7c[m [IMP] inventory: V13 changes on the "inventory adjustment with barcode" doc
+[33m86a5e2d2a[m [IMP] inventory: V13 changes on the "activate barcodes" doc
+[33mdeeac9174[m [IMP] inventory: V13 changes on the "activate barcodes" doc
+[33m982d77a71[m [IMP] inventory: V13 changes on the "receipt in three steps" doc
+[33m1dfdffc8a[m [IMP] inventory: V13 changes on the "receipt in three steps" doc
+[33m95d8f74be[m [IMP] inventory: V13 changes on the "receipt in two steps" doc
+[33ma452d853d[m [IMP] inventory: V13 changes on the "receipt in two steps" doc
+[33m55e495224[m [ADD] inventory: new doc about receiving products in one step
+[33m88e23c55c[m [ADD] inventory: new doc about receiving products in one step
+[33mfb0810538[m [IMP] inventory: V13 changes for the "packaging type" doc
+[33m3ae23c3c5[m [IMP] inventory: V13 changes for the "packaging type" doc
+[33m0357fa2b2[m [IMP] inventory: V13 changes for the "dropshipping" doc
+[33me108646ca[m [IMP] inventory: V13 changes for the "dropshipping" doc
+[33m6ee3aa2bf[m [IMP] inventory: V13 changes for the "three-steps delivery" doc
+[33m5a1dbc57b[m [IMP] inventory: V13 changes for the "three-steps delivery" doc
+[33md1ed24b56[m [IMP] inventory: V13 changes for the "two-steps delivery" doc
+[33me146adf31[m [IMP] inventory: V13 changes for the "two-steps delivery" doc
+[33m233d9c9cf[m [IMP] inventory: V13 changes for the "delivery orders in one step" doc
+[33m55cd0e1a6[m [IMP] inventory: V13 changes for the "delivery orders in one step" doc
+[33mb4aae791d[m [IMP] inventory: changes in inventory files (sections arrangement)
+[33m09e443786[m [IMP] inventory: changes in inventory files (sections arrangement)
+[33m7ed831ff9[m [IMP] inventory: V13 changes on the "virtual warehouses" doc
+[33m354a0f3d8[m [IMP] inventory: V13 changes on the "virtual warehouses" doc
+[33m2a4adfd70[m [IMP] inventory: New V13 doc about min stock rules and mto
+[33m9d6558373[m [IMP] inventory: New V13 doc about min stock rules and mto
+[33m4d6a22f6f[m [I18N] Update translation terms from Transifex
+[33mf8814c2d4[m [FIX] image order in project visualization doc
+[33ma77b7bb07[m [IMP] inventory: V13 update "location_creation" doc
+[33m1975f571a[m [IMP] inventory: V13 update "location_creation" doc
+[33mdbf3dc79a[m [IMP] inventory: V13 changes for the "warehouse_creation" doc
+[33m01ac60c3c[m [IMP] inventory: V13 changes for the "warehouse_creation" doc
+[33mc18082e8c[m [IMP] inventory: V13 doc for "packages, uom or kit?"
+[33mcaefd8d8e[m [IMP] inventory: V13 doc for "packages, uom or kit?"
+[33m636333019[m [IMP] inventory: V13 version for the "uom" doc
+[33m22d214451[m [IMP] inventory: V13 version for the "uom" doc
+[33m41c33707c[m Merge pull request #417 from odoo/13.0-inventory-initial_stock-lau
+[33mee49e60fb[m [ADD] inventory: new V13 doc about setting initial stock
+[33md25f6b1e4[m Merge pull request #416 from odoo/13.0-inventory-deliver_stock-lau
+[33maf2fb61b3[m [ADD] inventory: New V13 doc about delivering products from stock
+[33me3bc95869[m Merge pull request #415 from odoo/13.0-Social_Marketing-Social_Marketing-JUB
+[33m2636db91b[m [ADD] New section for Social Marketing
+[33m5ce3f40d0[m Merge pull request #414 from odoo/13.0-inventory-receive_in_stock-lau
+[33m2a9d07549[m [ADD] inventory: add V13 doc "receive products in stock"
+[33m4f14c7f26[m [I18N] Update translation terms from Transifex
+[33mfa1b9825d[m [I18N] Update translation terms from Transifex
+[33m9560e6060[m [I18N] export 13.0 source terms
+[33m52faf399a[m [I18N] export 12.0 source terms
+[33macef31eaf[m [I18N] export 11.0 source terms
+[33mefcb1a48f[m [FIX] *: update v13 urls
+[33m86b71502f[m [REL] Odoo 13.0
+[33m221ae7f27[m [REL] Odoo 13.0
+[33md574f7420[m Merge pull request #410 from odoo/13.0.mrp-routing_kit_bom-lau
+[33ma1cc94757[m Merge branch '13.0' into 13.0.mrp-routing_kit_bom-lau
+[33m0e684b2a0[m Merge pull request #409 from odoo/13.0-mrp-subcontract-lau
+[33m8121ec658[m Merge pull request #408 from odoo/13.0-mrp-kit_shipping-lau
+[33m1bd3bd693[m [IMP] support: clarify support policy (#411)
+[33mdc70af29d[m [ADD] requirements.txt
+[33mef9482e13[m [I18N] Update translation terms from Transifex
+[33mac3ea2b63[m [I18N] Update translation terms from Transifex
+[33mceeed1e5b[m [FIX] accounting: foreign currency
+[33m6e74e5dfe[m [FIX] point_of_sale: broken link in ToC
+[33m7dc9494a8[m [MERGE] Forward-port of 12.0 up to 870696b0482d7d1c5326bed33bf1fd98a3876540
+[33m870696b04[m [MERGE] Forward-port of 11.0 up to 00d5bd76d710842e48c5a72ffa9aad180c36e686
+[33m00d5bd76d[m [MERGE] Forward-port of 10.0 up to 2a17601b52c80e8e52bd5916fe1d16fa91326bd1
+[33m2a17601b5[m [FIX] inventory: broken reference
+[33mc208c962a[m [FIX] _extension: build with sphinx 1.8
+[33m5104b7750[m [FIX] dead code
+[33mb4c2c3466[m [REV] odoo.sh : ssh-import
+[33m05ae1a3cf[m [ADD] mrp: New doc for routing_kit in V13
+[33m71d2c21c2[m [IMP] mrp: V13 changes for the Subcontracting doc
+[33m76a8aa1ea[m [IMP] mrp: V13 changes for the kit_shipping doc
+[33md203ff996[m Merge pull request #407 from odoo/13.0-mrp-flexible_components_consumption-lau
+[33mfe66a6f9c[m Merge pull request #405 from odoo/13.0-mrp-process_manufacturing_orders-lau
+[33mfca83e567[m [I18N] Update translation terms from Transifex
+[33m8af88b6fd[m [I18N] Update translation terms from Transifex
+[33mbc09d74d3[m [FIX] odoo_sh: confusion between automated and scheduled actions
+[33mb564e19df[m [ADD] mrp: new doc for flexible components consumption
+[33m110082965[m [IMP] sales: show where each sales settings is explained (#349)
+[33m77eabba1e[m [IMP] general: wording of date format FAQ entry (#314)
+[33me1ba365b6[m [FIX] paypal: documentation for EWP (#396)
+[33m49434c2da[m [FIX] inventory: outdated screenshot
+[33m67458858a[m [IMP] mrp: V13 changes for the manufacturing orders doc
+[33m694424a83[m [IMP] website: update images of domain name page (#404)
+[33m44f8894f3[m Merge pull request #402 from odoo/13.0-mrp-create_bills_of_materials-lau
+[33m217354db2[m [IMP] mrp: V13 changes doc bill of materials
+[33maec1e5f03[m Merge pull request #401 from odoo/13.0-mrp-semi-finished_products-lau
+[33m14b52b4bd[m Merge branch '13.0' into 13.0-mrp-semi-finished_products-lau
+[33m6e6ca584c[m [IMP] mrp: V13 changes in the sub_assemblies doc
+[33m9558ed11c[m [FIX] odoo_sh: typo
+[33m4bfde10d5[m [FIX] general: correct unsplash page grammar
+[33made8bf335[m [FIX] *: update url for 12.0
+[33m2ea859d01[m [FIX] portal: correct crammar and punctuation
+[33m812d290c0[m [I18N] *: export 12.0 source terms
+[33mbe47d7c8b[m [FIX] *: typos, wording
+[33m7663a3116[m Merge pull request #400 from odoo/12.0-odoosh_ssh_import-mao
+[33m2280b1edc[m [IMP]odoo.sh : ssh-import
+[33m6a0c60463[m [ADD] mrp: add plan work orders doc lau
+[33me70512c39[m [IMP] odoo_sh: update SSL doc
+[33m26fb97fa6[m Merge pull request #398 from odoo/13.0-MRP-use_mps-lau
+[33mf8c731018[m Merge pull request #397 from odoo/13.0-MRP-alternative_wc-lau
+[33me7c7664bc[m [I18N] Update translation terms from Transifex
+[33m1a8ec1888[m [I18N] Update translation terms from Transifex
+[33m538258827[m [ADD] mrp: add mps doc
+[33m840471694[m [ADD] mrp: add alternative work center doc
+[33mc26fe206d[m [IMP] odoo_sh: styling
+[33m72b8229d9[m [ADD] odoo_sh: how to debug on Odoo.sh
+[33mcfad2b4de[m [TYPO] inventory: landed costs
+[33me06f13c25[m Merge pull request #382 from odoo/13.0-amazon-anv
+[33mfebf7dc4c[m [ADD] sale_amazon: Amazon connector
+[33m4a0610cf0[m [IMP] odoo_sh: recurring questions about crons
+[33mc212e35b0[m [IMP] odoo_sh: best practices wrt. crons
+[33mbdf35642b[m [IMP] odoo_sh: recurring question about crons
+[33mf6cef5cd9[m [I18N] Update translation terms from Transifex
+[33meced2f4cc[m [FIX]  accounts unbalanced in continental accounting for stock transactions
+[33m00914f91d[m [FIX]  accounts unbalanced in continental accounting for stock transactions
+[33m720f97cc7[m [FIX]  accounts unbalanced in continental accounting for stock transactions
+[33mab7ff165f[m Update SSL doc for the saas
+[33m8f1f3fd53[m Update SSL doc for the saas
+[33m4f5165f03[m Merge pull request #392 from odoo/update-ssl-doc-alt
+[33mc12beafea[m Update SSL doc for the saas
+[33m9977b8974[m [IMP] support: banner for this section
+[33mb7eb0abd9[m [I18N] Update translation terms from Transifex
+[33mb30355435[m [I18N] Update translation terms from Transifex
+[33m5939194ab[m [FIX] getting_started/documentation: dead link
+[33m9a4b67cf2[m [FIX] getting_started/documentation: dead link
+[33me489fa064[m [FIX] inventory/barcode: typos and grammar
+[33m6babe6cfc[m [FIX] inventory/routes: typo
+[33m7e6715e58[m [FIX] inventory/routes: punctuation and typos
+[33mdeb1588c9[m [FIX] inventory/routes: grammar
+[33m4f421f45b[m [FIX] inventory: remove outdated PDF
+[33mf9bbb55fd[m [FIX] accounting: minor typos and language errors
+[33mc8265d9ae[m [FIX] accountinig: typos
+[33m68ad17add[m [FIX] db_management: grammar
+[33mde1f0043b[m [FIX] accounting: typos and grammar
+[33mb601dbd0d[m [IMP] accounting: review wording and fix typos
+[33m0496b76c2[m [FIX] accounting: grammar issues
+[33mfe459ed40[m [FIX] inventory: menu label has been renamed
+[33m889506668[m [FIX] accounting: wording and typos
+[33m5cf050e8a[m [FIX] inventory: typo
+[33mad49e1e80[m [FIX] inventory: typo
+[33m948255ca6[m [FIX] inventory: wording inversion
+[33m334b5522b[m [FIX] inventory: typo
+[33m14f4dc3e5[m [FIX] accounting: typo
+[33m58a17aa42[m [FIX] db_management: missing reference
+[33mb2dde3987[m [FIX] accounting: missing reference target
+[33mc96aa8f44[m [IMP] accounting: explain budgetary positions (#354)
+[33me0dfd56fe[m [FIX] crm: update screenshot with right URL
+[33m4a01ac122[m [FIX] livechat: grammar
+[33m44e22a497[m [ADD] user_doc: doc about editing the doc
+[33m32219761e[m [ADD] support: documentation for support services
+[33m5c1af4b9d[m [FIX] mobile: complement to 22ee394c980adad0c6ce9f66e0de0284f613564e
+[33m22ee394c9[m [IMP] mobile: remove explanations about Firebase
+[33m1925ea854[m [IMP] odoo_sh: explain overlay fs features
+[33m09262a29a[m [FIX] website: properly align note block
+[33m1a81e5019[m [FIX] point_of_sale: properly align note block
+[33m33e25e348[m [FIX] odoo_sh: indent properly warning block
+[33md18bcc5c2[m [FIX] ecommerce: syntax errors in paypal doc
+[33m17c3e464e[m [IMP] odoo_sh: recurring question about cups
+[33m98ece88fa[m [ADD] auth: doc about LDAP for Odoo
+[33m6855f299b[m [I18N] Update translation terms from Transifex
+[33m889ac3e86[m [I18N] Update translation terms from Transifex
+[33mc29b6bd68[m [I18N] Update translation terms from Transifex
+[33m5b3ce8dcd[m [FIX] legal: typo in partnership contract
+[33m3f1a1e7eb[m [FIX] legal: typo in partnership contract
+[33m7c531950a[m [FIX] legal: typo in partnership contract
+[33m72ba81c4a[m [IMP] legal: update partnership to v8a (EN, FR, ES)
+[33maa53cf068[m [IMP] legal: update partnership to v8a (EN, FR, ES)
+[33m303733e0e[m [IMP] legal: update partnership to v8a (EN, FR, ES)
+[33maabb2ba1f[m [FIX] legal: fix typos in translation warnings
+[33me63c293fa[m [IMP] legal: better show outdated versions + translate warnings
+[33m7af8f7fcb[m [IMP] legal: better show outdated versions + translate warnings
+[33m6e85ff00f[m [IMP] legal: backport latest changes from 12.0
+[33m490535e2e[m [MERGE] Forward-port 12.0 into 13.0
+[33m99dea16e4[m [IMP] legal: update partnership contract to v8 (EN, FR, ES)
+[33m73bf5defd[m [FIX] conf: correct version number
+[33m24256492a[m [MERGE] Forward-port 12.0 into 13.0
+[33m56f725340[m [FIX] legal: fix typo for ES Partnership link
+[33mea8a75500[m [IMP] odoo style: better support HTML footnotes
+[33mce1465c38[m [FIX] legal: review + publish Enterprise (ES) version
+[33mb81889cc5[m Merge pull request #369 from odoo/fix-fiscal-pos-doc-lap
+[33md6a3223cc[m [FIX] Correct grammatical errors
+[33mcca9562a6[m [I18N] Update translation terms from Transifex
+[33mb18960763[m [I18N] Update translation terms from Transifex
+[33mc42e95a40[m Merge pull request #367 from odoo/12.0-wrong-ports-info-alt
+[33mb3c9ca777[m Wrong information regarding open ports in outgoing email servers
+[33m2a1b6a49a[m [I18N] Update translation terms from Transifex
+[33m0d11367b6[m [I18N] Update translation terms from Transifex
+[33ma69e1528c[m [I18N] Update translation terms from Transifex
+[33mb5669d550[m [I18N] Update translation terms from Transifex
+[33m29b51c240[m [I18N] Update translation terms from Transifex
+[33m2e7b5f6a2[m [FIX] Wrong url in header
+[33m15e208166[m [FIX] Changed link in header
+[33m577340df9[m [I18N] Update translation terms from Transifex
+[33m9152c4087[m [I18N] Update translation terms from Transifex
+[33mb394f31d4[m [FIX] crm: English mistakes
+[33mdff2ee559[m [FIX] crm: the menus have been renamed
+[33mda7f9932c[m [FIX] odoo: compatibility sphinx2
+[33mb9a2a1e93[m [I18N] Update translation terms from Transifex
+[33md8bf8555d[m [I18N] Update translation terms from Transifex
+[33m7284d3018[m [I18N] Update translation terms from Transifex
+[33m5a055fcbe[m [I18N] Update translation terms from Transifex
+[33m11cedbd6b[m [FIX] purchase: remove reference to old page
+[33m7df0c4b4a[m [REV] manufacturing: restore subcontracting page
+[33m74d97adb5[m [REV] management: keep reference to subcontracting
+[33mb7c37da24[m [MERGE] forward port from 12.0 to 13.0
+[33m631974325[m [FIX] management: remove reference to removed page
+[33m53f41b127[m [I18N] Update translation terms from Transifex
+[33m4482349bf[m [I18N] Update translation terms from Transifex
+[33ma8a8d52b5[m [FIX] discuss: typo easiliy -> easily
+[33m89b7f9927[m [ADD] inventory: virtual_warehouse New doc to explain how virtual warehouses work.
+[33mb6f51b981[m [IMP] PoS: multicashiers Change to reflect V13 updates
+[33m4905e7ee1[m Merge pull request #356 from switch87/11.0-posbox-python3-gpe
+[33mab03819de[m Wrong information regarding open ports in outgoing email servers
+[33mf96d08949[m [FIX] odoo_sh: trial resets after 30 days now
+[33m110865b58[m [FIX] point_of_sale: POSBoxless
+[33m1372c3ed1[m Merge pull request #355 from odoo/12.0-ECOMMERCE-PAYPAL-JUB
+[33mdb2aacc7e[m [IMP]Ecommerce:Paypal Change to improve the paypal documentation
+[33m62011065e[m [I18N] Update translation terms from Transifex
+[33mf78e907f8[m [I18N] Update translation terms from Transifex
+[33m3dce5699f[m Merge pull request #351 from odoo/12.0-legal-enterpriselegalES-jub
+[33me3059b6d2[m [IMP]Legal:Enterprise Terms ES
+[33m42dfcc763[m [IMP]Legal:Enterprise terms in Spanish
+[33m1273e0b3a[m [IMP]DB_management:Onpremise
+[33m6facd7a00[m [CHG] terms: remove ES translation of partenership while we update it
+[33m9d1f5f75c[m Merge pull request #350 from odoo/12.0-POS-NewSection-jub
+[33mbcfc1e204[m [IMP]PoS:New Section for Adv Pricing Features Moved docs from other sections to new sections
+[33m18e9a66f1[m [DEL]MRP:Subcontracting
+[33md933e9dba[m [IMP] pos: precision about IoT
+[33m5e608d18a[m [FIX]Manufacturing:Subcontracting
+[33m7f776367d[m [I18N] Update translation terms from Transifex
+[33m276704c49[m [I18N] Update translation terms from Transifex
+[33m0e81f3f57[m [MERGE] forward port from 11.0
+[33m05c7dae9d[m Merge pull request #345 from odoo/12.0-MRP-SUBCONTRACTING-jub
+[33mbbc3b224e[m [ADD]Manufacturing:Subcontracting
+[33mab72786b7[m [I18N] Update translation terms from Transifex
+[33m32003f7cd[m [I18N] Update translation terms from Transifex
+[33me01bd1028[m Merge pull request #336 from odoo/12.0-restructure-seo-fgi
+[33m6f28be365[m [IMP] discuss : email server
+[33m8d6c54ab9[m [FIX] accounting: rST markup in mx localisation documentation
+[33m637b7a574[m [I18N] Update translation terms from Transifex
+[33m480adf667[m [I18N] Update translation terms from Transifex
+[33m80b2f59aa[m [FIX] accounting : IT loc name change
+[33m2c5318340[m Merge pull request #339 from odoo/12.0-cash-basis-fgi
+[33m7587bf34a[m [IMP] remove todo comment
+[33m9963b2231[m [IMP] change wrong image ref
+[33m6f4021427[m Add files via upload
+[33m697f02b0e[m Delete seo12.png
+[33m66a3efae6[m Delete seo10.png
+[33m90d4ed100[m Delete seo09.png
+[33mb56a1156e[m Delete seo08.png
+[33mbd61d09b7[m Delete seo06.png
+[33m817bfc6f3[m Delete seo05.png
+[33md9e773b20[m Delete seo04.png
+[33mf69cdaad0[m Delete seo03.png
+[33mf4e4b87f9[m Delete seo02.png
+[33m63dfdaa83[m Delete seo01.png
+[33m883957957[m [IMP] Update of picture references and structure finetuning
+[33m4ce061bcd[m Merge pull request #340 from odoo/BVE-patch-1
+[33ma03c137a9[m [FIX] Changing picture for orthographic issue
+[33m89355ae64[m Add files via upload
+[33m46c9ecda4[m Delete cash_basis_taxes02.png
+[33m7ec59ed3f[m [IMP]Update v12.0 of chas basis doc
+[33m7ce0b887a[m Merge pull request #338 from odoo/12.0-ACCOUNTING-ITALYLOC-jub
+[33md1d1faa53[m [ADD] accounting: localizations
+[33m31d26893f[m [I18N] Update translation terms from Transifex
+[33m791f772b9[m [I18N] Update translation terms from Transifex
+[33ma65d935a8[m [IMP] Restructure of the tutorial in order to put useful todos at the top
+[33m7d31af4c8[m [I18N] Update translation terms from Transifex
+[33mdf35730c9[m [I18N] Update translation terms from Transifex
+[33m840520417[m [I18N] Update translation terms from Transifex
+[33mdc49a284d[m [I18N] Update translation terms from Transifex
+[33m9ae616897[m [FIX] inventory: missing space
+[33m378fa9446[m Merge pull request #334 from odoo/12.0-seo-fgi
+[33m7b20359e8[m Delete seo11.png
+[33m4a7bc2901[m Add files via upload
+[33me303ed94b[m Delete seo10.png
+[33m5fbdfaf5c[m Delete seo06.png
+[33m29c0c30b3[m Delete seo05.png
+[33mfc7272333[m Delete seo04.png
+[33m585d8500d[m Delete seo02.png
+[33md6aee872c[m Delete seo03.png
+[33m2b95d7213[m [IMP] Update URL Handling -> end
+[33m506d51143[m [FIX] stock: fix landed costs documentation
+[33mf7f556dfa[m [FIX] inventory: inversion in heading (#313)
+[33m22bb0e776[m [FIX] accounting: typo (#316)
+[33m0a1089842[m [FIX] getting_started: typo
+[33mff7fc5d87[m [IMP] website: add delivery methods
+[33m42243d11e[m [IMP] Update URL Handling to Meta Tags sections
+[33m314d0768d[m [IMP] v12 update of SEO tutorial, until URL Handling
+[33me51197b7f[m [IMP] odoo_sh: add v12.0 to the list of supported versions
+[33m194219381[m [IMP] explanation about indexation for custom domains
+[33md920b95e5[m [I18N] Update translation terms from Transifex
+[33m0cdf0a3b6[m [I18N] Update translation terms from Transifex
+[33m3be594fd2[m [FIX] inventory: fix landed costs documentation
+[33mc3a28f2c4[m [ADD] auth: Azure OAuth is not compatible
+[33m248436ccf[m [I18N] Update translation terms from Transifex
+[33m8f95ce954[m [I18N] Update translation terms from Transifex
+[33m51b3e3030[m [FIX] STOCK: Landed costs images
+[33mc16795f48[m [FIX] website : multi webiste
+[33m988b84889[m [ADD] odoo_sh: ssh access
+[33m5f838e7f6[m [MERGE] forward port from 11.0
+[33m2ff6015b9[m [I18N] Update translation terms from Transifex
+[33m84bff6e7d[m [I18N] Update translation terms from Transifex
+[33ma9f8ad9b5[m Merge pull request #327 from odoo/12.0-Purchase-bills-jub
+[33m6c75dd1aa[m [IMP] Purchase : bills v12 Update of bills doc for v12
+[33m3ff0b663e[m [I18N] Update translation terms from Transifex
+[33m84d7f4b1c[m [FIX] ecom : upselling
+[33m979f3865c[m [IMP] taxcloud: update TaxCloud documentation
+[33m3b5e69202[m [FIX] db_management: syntax error in 497317585301490918bcc9c78be89bdef8d7492d
+[33m497317585[m [IMP] db_management: ports/domains for the ping
+[33ma92d232e2[m [I18N] Update translation terms from Transifex
+[33mc5c99f2d4[m [I18N] Update translation terms from Transifex
+[33ma1519d4d8[m [FIXMP] online db mngt: typo + note
+[33m898e60268[m [ADD] conf: display version number in the switcher app
+[33me31774fdc[m [I18N] Update translation terms from Transifex
+[33m967863501[m [I18N] Update translation terms from Transifex
+[33m646a0ba47[m Merge pull request #322 from odoo/12.0-accounting-colombia_ES-jub
+[33m669f88774[m [ADD]Accounting : localizations
+[33mdaf80a4bb[m [FIX] Website:Multiwebsite - typos, typos.
+[33m046a53283[m Merge pull request #321 from odoo/12.0-Website-Multi_website-jub
+[33m0a8108c59[m [FIX] folder not needed
+[33mb07df9c7c[m [ADD]Website:Multi Website
+[33md5f8927b9[m Merge pull request #320 from odoo/12.0-IoT-flash_sdcard-jub
+[33m7e6d61071[m [ADD]IoT : flash_sdcard
+[33m319a2b513[m [IMP] db_management: upgrade screenshots & process
+[33made10dc12[m Merge pull request #319 from odoo/12.0-IoT-iotnotfound-jub
+[33m3a429b860[m [IMP]iot:toctree
+[33m644643418[m [ADD]IoT:iot_notfound
+[33m80b3367fc[m [IMP] odoo.sh: upgrade dump clarification
+[33md444c8652[m [ADD] odoo_sh: documentation for the new features of Odoo.sh
+[33mcdc99e7a6[m [REM] odoo_sh: users can no longer duplicate
+[33m6302e73ea[m [ADD] odoo_sh: advanced - explain hidden addons
+[33ma78d69e89[m [FIX] Legal : Partnership terms
+[33md0f63e8ba[m [FIX] Legal : partnership terms
+[33m8153b289b[m [FIX] Legal : Partnership
+[33m3b51b1dd1[m [ADD] Legal : Partnership Terms
+[33m8c76b005c[m [Remove] Purchase : Partial Purchase
+[33m6cbf78c97[m [I18N] Update translation terms from Transifex
+[33m892590d9c[m [I18N] Update translation terms from Transifex
+[33m875556c00[m [FIX] accounting: remove duplicated entries in the list
+[33m6f0357964[m [I18N] Update translation terms from Transifex
+[33m3e71c9cbb[m [I18N] Update translation terms from Transifex
+[33mfd106bb36[m [FIX] Point of sales : discount tags
+[33m3f9b38c80[m [FIX] Point of sales : barcode
+[33m02b0e06bf[m [IMP] Point of Sale : reprint
+[33m0b566fe88[m [I18N] Update translation terms from Transifex
+[33mccaf95faa[m [I18N] Update translation terms from Transifex
+[33m317cbe7b4[m [FIX] odoo_sh: correct manual backup lifetime
+[33m46dc9416e[m [FIX] odoo_sh: correct manual backup lifetime
+[33mbb62d7ed8[m [FIX] project : outdated flow
+[33mae80e5244[m [I18N] Update translation terms from Transifex
+[33mca0bca61d[m [I18N] Update translation terms from Transifex
+[33mc1410f183[m [I18N] Update translation terms from Transifex
+[33m484e96508[m [IMP] accounting/mexico: Completed documentation about the payment term
+[33m33ba56019[m [FIX] terms/enterprise (DE): fix typo in link
+[33m1aac1a08e[m [IMP] odoo_sh: mention manual backup lifetime
+[33m0b3da3f4f[m [IMP] odoo_sh: mention manual backup lifetime
+[33m2106ecf60[m [FIX] CRM: fixing sentence in acquire leads
+[33m63b9d907e[m [I18N] Update translation terms from Transifex
+[33m58a5e0960[m [I18N] Update translation terms from Transifex
+[33m9050db0ed[m [I18N] Update translation terms from Transifex
+[33m4d6a96691[m [I18N] Update translation terms from Transifex
+[33ma93ec7ef1[m Merge pull request #308 from rdeodoo/12.0-unsplash-doc-update
+[33mf41961876[m [FIX] unsplash: fine-tune the doc to fit exactly last changes
+[33m88ecdd42b[m Merge pull request #307 from rdeodoo/12.0-fix-unsplash-doc-non-saas-rde
+[33mf65ed3c9c[m [ADD] legal: add license section for v12
+[33m7d16eb961[m [IMP] unsplash: new guidelines negociated with Unsplash
+[33m214e37532[m [I18N] Update translation terms from Transifex
+[33mfd6c4d338[m [I18N] Update translation terms from Transifex
+[33m09096b232[m [I18N] Update translation terms from Transifex
+[33mc95793c0a[m [I18N] export 11.0 source terms
+[33m556c13bb3[m [I18N] export 12.0 source terms
+[33md895527c6[m Merge pull request #304 from fhe-odoo/patch-13
+[33md35110168[m [FIX] support section
+[33mb40b06775[m [FIX] conf: update version number
+[33m4420b3fcf[m [I18N] Update translation terms from Transifex
+[33m24cef5f87[m [I18N] Update translation terms from Transifex
+[33md6ea0b5cc[m [MERGE] forward port from 11.0 to 12.0
+[33m47d2aed89[m [MERGE] forwardport of 10.0 to 11.0
+[33mcd4123591[m [ADD] conf: display version number in the switcher app
+[33m255596eb9[m Merge pull request #303 from rdeodoo/12.0-fix-unsplash-doc-tree-rde
+[33m3b63f37c0[m [FIX] general: add unsplash in toctree
+[33m64271fc0f[m [I18N] Update translation terms from Transifex
+[33me8b925f9b[m [I18N] Update translation terms from Transifex
+[33m20de58b7a[m Merge pull request #302 from rdeodoo/12.0-imp-unsplash-doc-rde
+[33m9753fd262[m [ADD] Unsplash: Documentation to retrieve access key & app id
+[33m018dbb0fd[m [FIX] point_of_sale : repeated screenshot
+[33mc982eea8c[m [FIX] _extension: update version numbers
+[33m50cd4e061[m [FIX] pos: hide belgian blackbox page
+[33m28f005f9b[m [MERGE] forward port of branch 11.0
+[33m3411c2752[m [I18N] Update translation terms from Transifex
+[33m2d22d3c31[m [I18N] Update translation terms from Transifex
+[33m992e81a88[m [I18N] Update translation terms from Transifex
+[33m986656775[m [I18N] export v12 documentation source terms
+[33m6ae5e29df[m [FIX] point_of_sale: remove index of no existant page
+[33m5d4190a31[m [I18N] Update translation terms from Transifex
+[33m64561c453[m [I18N] Update translation terms from Transifex
+[33m1a1f8001f[m [ADD] accounting: add colombian localization docs
+[33ma465381e8[m [I18N] Update translation terms from Transifex
+[33md6c097cb3[m so push
+[33m108d79d19[m [IMP] point_of_sale: imp typo
+[33m9024ac50e[m [I18N] Update translation terms from Transifex
+[33m28fa168d8[m [IMP] accounting: Updated certificate files
+[33mdcd03ad1c[m [I18N] Update translation terms from Transifex
+[33me0b8aaa11[m [FIX] point_of_sale: update posbox version
+[33m969d3d91c[m [I18N] Update translation terms from Transifex
+[33mfb7ed1d3b[m [FIX] project: update link to non-existant section
+[33m1b2cbd5b8[m [FIX] _extension: build with sphinx 1.8
+[33m07375ef32[m [I18N] export 11.0 source terms
+[33m3ff4173f7[m [FIX] point_of_sale: odoofication
+[33m55084d20e[m [I18N] Update translation terms from Transifex
+[33m0dd88c997[m [IMP] pos: Add reference to the IOT section
+[33m767a032a7[m [IMP] point_of_sale: Rename PosBox into IoT Box
+[33ma63be04b5[m [ADD] iot: Connect an IoT Box to your database
+[33m00f31eec2[m [IMP] getting_started: Replace old doc
+[33mc33ba77aa[m [MERGE] Forward port of 11.0 up to bcce8b4
+[33mbcce8b4b1[m [IMP] sale: Rewrite the 'Invoicing Method' subsection
+[33m628eb3e99[m [ADD] iot: New section about Internet of Things
+[33m0bcb69c17[m [FIX] odoo_sh: broken link
+[33me76b5de86[m [ADD] odoo_sh: new pricing options
+[33m64de265ae[m [I18N] Update translation terms from Transifex
+[33m550c19831[m [I18N] Update translation terms from Transifex
+[33m8aedf1f79[m [ADD] mobile: Setup your Firebase Cloud Messaging
+[33m28a1aafd9[m [I18N] Update translation terms from Transifex
+[33mb379cab20[m [FIX] a pair of leftover warnings
+[33m40f55800d[m [FIX] most warnings
+[33m895ccbc0c[m [IMP] db_management: update screenshot to v11 uninstall wizard
+[33mdea43fca7[m [ADD] documentation will be translated in Ukranian too now
+[33m7c0715ea0[m [I18N] Update translation terms from Transifex
+[33m51a2c8f3e[m [FIX] odoo.sh: correctly indent title
+[33m9a6c55b07[m [I18N] Update translation terms from Transifex
+[33md50ee2a1e[m [I18N] Update translation terms from Transifex
+[33md9d9496de[m [FIX] manufacturing : bill of material fix wrong direction
+[33m7019b3893[m [I18N] Update translation terms from Transifex
+[33mb80ffa7a5[m [I18N] Update translation terms from Transifex
+[33m00ed3e90f[m [I18N] Update translation terms from Transifex
+[33m67a023c7a[m [I18N] Update translation terms from Transifex
+[33m166d2f86e[m [I18N] Update translation terms from Transifex
+[33m3906c9922[m [FIX] discuss : typos + wording and wrong link email_servers
+[33m4ba1f5831[m [I18N] Update translation terms from Transifex
+[33m485a5711c[m [I18N] export 11.0 source terms
+[33mc5b0639dc[m Forward port of 10.0 to 11.0
+[33mbe7b75fa5[m [FIX] db_management: correct URL
+[33m74d6ec736[m [I18N] export 10.0 source terms
+[33m64b33ad59[m [FIX] accounting: correct title size
+[33m716cd0c66[m Forward port 10.0 to 11.0
+[33m644abe7c3[m Forward port from 9.0 to 10.0
+[33m1ee489b70[m [FIX] sales: English
+[33mf8c2b69c3[m [I18N] export source translations
+[33m5107bdad5[m [IMP] getting_started: Support documentation
+[33m94ea1d3ac[m [I18N] Update translation terms from Transifex
+[33meacbc2140[m [I18N] Update translation terms from Transifex
+[33mde5c4d9c2[m [FIX] point_of_sale : typos kitchen_printing.rst
+[33m98f63435d[m [I18N] Update translation terms from Transifex
+[33m407ef744e[m [FIX] point_of_sale: typos
+[33m82acf31ea[m [IMP] project: Update visualization.rst
+[33m3e3c26b38[m [IMP] reprint typo fix
+[33m848bbbcb5[m [IMP] manual_discount typos fix
+[33m0b83cec5e[m [IMP] discount_tags fixing typos
+[33m094a35d8a[m [I18N] update source terms
+[33m32be4d465[m [I18N] Update translation terms from Transifex
+[33md5e13aeaf[m [MERGE] point_of_sale: Update doc up to 11.0
+[33me34e53f0d[m [IMP] point_of_sale: Update statistics.rst
+[33m7c90df53b[m [IMP] point_of_sale: Update mercury.rst
+[33mcaa6ba4a1[m [IMP] point_of_sale: Update reprint.rst
+[33m2490e330c[m [IMP] point_of_sale: Update manual_discount.rst
+[33ma40e5cd2b[m [IMP] point_of_sale: Update loyalty.rst
+[33m7ca6c29af[m [IMP] point_of_sale: Update discount_tags.rst and multi_cashier.rst
+[33m5c12e3a15[m [IMP] point_of_sale: Add barcode.rst
+[33m14a214640[m [IMP] point_of_sale: Update multi_orders.rst
+[33m4d855e94b[m [IMP] point_of_sale: Update transfer.rst
+[33m5102dda52[m [IMP] point_of_sale: Update tips.rst
+[33mb8a2d7eee[m [IMP] point_of_sale: Split print.rst into kitchen_printing.rst
+[33m843c94e85[m [IMP] point_of_sale: Split print.rst into bill_printing.rst
+[33me410dbdb0[m [IMP] point_of_sale: Update split.rst
+[33m07329ad0c[m [IMP] point_of_sale: Update setup.rst and table.rst
+[33m3ee4a30b7[m [IMP] point_of_sale: Update cash_control.rst
+[33me27f5d11c[m [IMP] point_of_sale: Update refund.rst and seasonal_discount.rst
+[33mcf1ce73d5[m [IMP] point_of_sale: Update invoice.rst
+[33mb40e068ed[m [IMP] point_of_sale: Update register.rst
+[33m87463db78[m [IMP] point_of_sale: Update links on setup.rst
+[33m32e7e0466[m [IMP] point_of_sale: Improve start.rst
+[33macf1524e5[m [ADD] odoo_sh: upgrade odoo version
+[33m504304e37[m [I18N] Update translation terms from Transifex
+[33m1aaa84b76[m [FIX] terms: repair broken references
+[33m2952822b7[m [FIX] Sales : typos and structure issues
+[33m4be26113b[m [ADD] sales : invoice & deliver + get signature to validate
+[33m690bced2e[m [ADD] sales : Get paid to confirm an order
+[33mff3f015c8[m [ADD] Sales: Stimulate customers with quotations deadline
+[33m7668c54d3[m [ADD] sales : Setup your default terms and conditions
+[33mafebe0ea5[m [I18N] Update translation terms from Transifex
+[33mb429650cc[m Revert "[ADD] odoo_sh: upgrade odoo version"
+[33m027d38353[m [ADD] odoo_sh: upgrade odoo version
+[33mcfb75c7fc[m [ADD] odoo_sh: branch options section
+[33ma4446980c[m [I18N] Update translation terms from Transifex
+[33m2a758351d[m [I18N] Update translation terms from Transifex
+[33m83d52916b[m [FIX] legal/terms: typo in DE translation (v7.1)
+[33m5efa492c6[m [IMP] legal/terms: sync NL translation up to v7.1 of enterprise contract
+[33m47901cb31[m [ADD] legal/terms: add NL translation of enterprise contract
+[33m5dbad90bc[m [FIX] odoo_sh: move reference to correct paragraph
+[33m67dad7b74[m [IMP] legal/enterprise: update FR version
+[33m24b482cf1[m [IMP] legal/partnership: update FR translation
+[33m2faf276ba[m [FIX] legal/partnership: add white space for name and signature
+[33mf78a27219[m [I18N] Update translation terms from Transifex
+[33m3075ba96d[m [I18N] Update translation terms from Transifex
+[33maeee9f5b1[m [MERGE] Forward-port 11.0 up to 63a615bc
+[33m63a615bc6[m [FIX] port db0cb1b09237b2e004c7a7eceadedde668f4ac30 from tech doc
+[33m591adeeb8[m [FIX] latex style: compatibility with sphinx 1.6+
+[33m985b3d176[m [FIX] latex style: compatibility with sphinx 1.6+
+[33mf5e925048[m [FIX] _extensions: p3 compatibility (8)
+[33m48b11b31c[m [FIX] _extensions: p3 compatibility (8)
+[33mdb5604f70[m [FIX] _extensions: p3 compatibility (7)
+[33m01be84bf7[m [FIX] _extensions: p3 compatibility (7)
+[33m4f181f1fe[m [FIX] _extensions: p3 compatibility (6)
+[33m478fcb7be[m [FIX] _extensions: p3 compatibility (6)
+[33m813590727[m [FIX] _extensions: p3 compatibility (5)
+[33mb22590c2d[m [FIX] _extensions: p3 compatibility (5)
+[33m1dcc9b8b0[m [FIX] _extensions: p3 compatibility (4)
+[33m2e58b86fe[m [FIX] _extensions: p3 compatibility (4)
+[33m4143a500e[m [FIX] _extensions: p3 compatibility (3)
+[33m32b30c957[m [FIX] _extensions: p3 compatibility (3)
+[33m98bb333f8[m [FIX] _extensions: p3 compatibility (2)
+[33m914c5ebc1[m [FIX] _extensions: p3 compatibility (2)
+[33mb0560e8f9[m [MERGE] Forward-port 11.0 up to ff2c6db
+[33mff2c6db57[m [FIX] _extension: p3 compatibility
+[33mcda60c219[m [FIX] doc template: GA: anonymize IPs
+[33m8bbcddf23[m [FIX] legal: fix typos in policy URLs
+[33ma90fdffb6[m [FIX] legal/partnership: introduce "Learning Partner" + adaptations
+[33ma59e12754[m [FIX] legal/terms: typos
+[33m5e8de0297[m [IMP] legal/terms: clarify "signature" as "conclusion"
+[33m50f5a9433[m [FIX] legal/terms: clarify charges
+[33m201d9646e[m [IMP] legal: remove Odoo.sh terms from index, add other refs
+[33m4ae3fa7fd[m [IMP] legal/terms: update Odoo Enterprise for online use + data protection
+[33md720e8db8[m [I18N] Update translation terms from Transifex
+[33me1d370a94[m [IMP] db_management: Update button changes
+[33m6a4edf7ff[m [ADD] sales: Increase your sales with suggested products
+[33m33f373363[m [ADD] sales: Use quotation templates
+[33mce161f5d0[m [REM] sales: Remove outdated documentation pages
+[33m9bc251df4[m [MERGE] Forward-port 11.0 up to 21c4b5c
+[33mb9a08ad20[m [IMP] purchase: Update setup_stock_rule to 12.0
+[33m4ae40beed[m [IMP] purchase: Update compute_date.rst to 12.0
+[33mb582a6272[m [IMP] purchase: Update suppliers.rst to 12.0
+[33m850e46412[m [IMP] purchase: update 3_way_matching.rst to 12.0
+[33m9469411c7[m [IMP] purchase: Update purchase_triggering.rst to 12.0
+[33m989fce013[m [IMP] purchase: Update import.rst to 12.0
+[33mc4ce88ba0[m [IMP] purchase: Update import.rst to 12.0
+[33m82f5434e6[m [IMP] purchase: update approvals.rst to 12.0
+[33m1b339dfc8[m [REM] purchase: Manage Purchase Tenders
+[33md685b80cc[m [REM] purchase: Purchase partially at two vendors for the same purchase tenders
+[33m21c4b5c3f[m [REM] project: How to use projects to handle claims/issues?
+[33md89473bcb[m [IMP] accounting: Adapt 'Cash Discounts' page to 12.0
+[33m4c1afd852[m [IMP] accounting: Update followup pages for 12.0
+[33mafe850df0[m [ADD] manufacturing: Repair management
+[33m5bb18dbaa[m [ADD] purchase: Dropship Products
+[33m81eb972d9[m [FIX] accounting: match image with description
+[33m9b4c9cb10[m [FIX] purchase: remove reference to removed page
+[33m0f94932f7[m [IMP] website: removes obsolete documentation
+[33m48c84a8f8[m [IMP] discuss: how to configure with office 365
+[33me262501b1[m [FIX] inventory: remove reference to removed page
+[33m40599a91f[m [ADD]Documentation: added new section eplaining My Account
+[33ma4625e949[m [IMP]Documentation db_online: added Upgrade and Rename sections
+[33m345ed3657[m [I18N] Update translation terms from Transifex
+[33m6afe4b9ba[m [FIX] crm: Fix typo in acquire_leads.rst
+[33m1e1e8b657[m [ADD] odoo_sh: SPF and DKIM documentation
+[33m9a36d2e40[m [ADD] manufacturing: Unbuild a product
+[33mb2a07c2f3[m [FIX] point_of_sale: posbox is still a 8.0
+[33m02336bfca[m [ADD] purchase: Raise warnings on purchase orders
+[33mb1f381048[m [FIX] helpdesk: Reintroduce the documentation
+[33meb14a98c3[m [IMP] odoo_sh: make button text italic
+[33mff574c33f[m [IMP] odoo_sh: typo
+[33md0b9ed94f[m [ADD] odoo_sh: duplicate the prod feature
+[33mdd160c2c6[m [ADD] odoo_sh: manual backup option added
+[33mf9b796f2c[m [MERGE] Forward port 11.0 up to 0c97b23
+[33m0c97b236c[m [IMP] crm: Whole documentation overhaul
+[33ma234c78f1[m [FIX] odoo_sh: move the `git add` after all changes performed
+[33m1aa446a78[m [FIX] conf: set release version
+[33m2744fd929[m [FIX] conf: set release version
+[33m36cda45b3[m [FIX] conf: set release version
+[33m981154d06[m [FIX] odoo_sh: add the dependency without $
+[33m56ef701a2[m [IMP] odoo_sh: small improvements proposition
+[33m20d242ef7[m [IMP] odoo_sh: improve spelling
+[33m14664038c[m [ADD] odoo_sh: documentation
+[33mb7cfc92dd[m [ADD] _extensions: possibility to create a file download link
+[33m460754291[m Correct typo
+[33m1f45c5ad0[m [I18N] Update translation terms from Transifex
+[33ma11241672[m [ADD] legal: translations for legal docs
+[33m9ebaaee31[m [FIX] latex style: remove useless xcolor package
+[33maaaa3972d[m [IMP] latex style: use simplified titlepage
+[33m5b6390f87[m [FIX] layout: add missing space between classes
+[33m3e4491264[m [IMP] legal/enterprise: clarify renewal price increase
+[33ma7b4061e8[m [IMP] onsip: replace Zoiper with Grandstream Wave
+[33m200671f19[m [IMP] accounting: improve mexico accounting doc
+[33m871b6d824[m [I18N] Update translation terms from Transifex
+[33m643ee86d8[m [I18N] export 10.0 source terms
+[33m5e418f6f4[m [I18N] fetch latest 11.0 translations from Transifex
+[33m14dce868e[m [I18N] export source terms
+[33m4e59f515a[m [FIX] sales: Remove incorrect sentence
+[33m321060355[m [FIX] sales: Remove incorrect sentence
+[33m989723c92[m [FIX] sales: Remove incorrect sentence
+[33m8b1799a3a[m [FIX] sales: Remove incorrect sentence
+[33m66772918b[m [IMP] purchase: Rename pages titles
+[33m945fc7c8f[m [ADD] purchase: Manage Call for Tender
+[33m8eb05cffe[m [REM] purchase: From purchase order to invoice and receptions
+[33mbf62caaec[m [REM] purchase: Request for quotation, purchase tender or purchase order
+[33m28f56aa2e[m [REM] purchase: How to check that everything is fine
+[33m253e215e7[m [REM] accounting: Remove 'Generate recurring vendor bills'
+[33med5730f63[m [ADD] purchase: Manage Blanket Orders
+[33mf03016a4f[m [ADD] purchase: Lock a purchase order
+[33mb2889eaaa[m [IMP] discuss: Add a subsection in 'Get organized by planning activities'
+[33m62bed7934[m [ADD] discuss: Get organized by planning activities
+[33mbdc05ff38[m [ADD] discuss: Get organized by planning activities
+[33m8e1eca6e8[m [ADD] helpdesk: Record and invoice time for tickets
+[33m9d66e3679[m [FIX] livechat: Display options in bold
+[33mea144fb58[m [FIX] livechat: Display options in bold
+[33m689046a39[m [ADD] livechat: New documentation section
+[33ma5269ad67[m [IMP] discuss: Use the correct banner on documentation page
+[33m5430bf98b[m [ADD] livechat: New documentation section
+[33m3fdab3bb6[m [IMP] discuss: Use the correct banner on documentation page
+[33ma0b5401c4[m [IMP] database danagement: add db deletion instructions
+[33m9e74bdc32[m [FIX] accounting: Fix typos
+[33m7f48ef7e1[m [MERGE] Forward-port 11.0 up to 04e503dd76a77c5586b8dec22ae2856ea4a01a3d
+[33m3a1ad0fe4[m [ADD] accounting: Generate recurring vendor bills
+[33m6f6030b05[m [ADD] accounting: Manage fiscal years
+[33m04e503dd7[m [FIX] accounting: Name correclty the Multicurrency section
+[33m3f960867f[m [REM] accounting: Remove useless doc page
+[33m1b871ebf8[m [ADD] accounting: Add a section 'Nederlands Localization"
+[33mb7c79034a[m [FIX] point_of_sale: current POSBoxes have Wi-Fi built in
+[33maa2cacaaa[m [I18N] fetch french translations
+[33md4c35d1a0[m [I18N] fetch source terms
+[33m673bda7d8[m [I18N] export source terms
+[33me31c9fae9[m [IMP] accounting l10n_fr: remove wrong link + few typos
+[33mbec7031bc[m [IMP] discuss: Improve the email_servers documentation page
+[33m8ee1d05cb[m [MERGE] Forward port of 11.0 up to c894f6aab997f26b2268b1641aabaf827b198b84
+[33mc894f6aab[m [FIX] accounting: Remove wrong sentences in budget.rst
+[33m15c835f31[m [FIX] accounting: Remove wrong sentences in budget.rst
+[33mb1f253724[m [FIX] accounting: Remove wrong sentences in budget.rst
+[33m2acad399d[m [ADD] accounting: Add page 'Reverse an accounting entry automatically'
+[33mdfd9bfcc3[m [ADD] inventory: Add a 'Immediate & Planned Transfers' page
+[33maabfb765e[m [REM] accounting: Remove accounting/receivables/customer_invoices/modify_validated.html
+[33mf2530886f[m [ADD] accounting: Add a 'Set up cash roundings' page
+[33ma8f5f488a[m [IMP] accounting: Add tip for localization in Switzerland
+[33m386b338d9[m [IMP] accounting: Add a FAQ section for yodlee
+[33mdbcda880c[m [IMP] accounting: Improve french localization page
+[33m6fd7c3274[m [ADD] accounting: Add page for spanish localization
+[33md2db4db76[m [ADD] accounting: Add page for german localization
+[33m4489c43c1[m [REM] inventory: Remove deprecated page
+[33me5e9a476d[m [IMP] vat-anti-fraud: better guidelines to install/update the module
+[33m8abc890a2[m [I18N] export and fetch 11.0 translations
+[33m64ad5ff3d[m [IMP] manufacturing: Restructure pages
+[33m55653b5f2[m [I18N] fetch 11.0 translations from Transifex
+[33mf6ab8cb68[m [I18N] export 11.0 source terms
+[33m9ac821ed6[m [IMP] crm: pngquant the images
+[33mfb0a067dd[m [IMP] localizations: Ranem pages + add section for France
+[33m1d45baefa[m [FIX] accounting,inventory,legal: Remove remaining warnings
+[33m9e2e1773c[m [IMP] online: Remove duplicate label warnings
+[33mbd2c63e18[m [IMP] accounting: Update switzerland.rst with 2018 tax rates
+[33ma26c30e76[m [IMP] accounting: Update switzerland.rst with 2018 tax rates
+[33m2eebd407e[m [IMP] google calendar: update doc based on new Google Developer interface
+[33mb3932adf7[m [ADD] l10n_fr: VAT anti-fraud certification
+[33m605d693ce[m [I18N] fetch new 10.0 terms from Transifex
+[33m708b3f202[m [I18N] fetch new 11.0 terms from Transifex
+[33md0e949841[m [I18N] export 10.0 source terms
+[33m2deff0c66[m [I18N] export source terms
+[33me2684993c[m [FIX] v11 urls
+[33m2b8db9d0d[m [FIX] legal/partnership: correct typo in section 4.4
+[33mb071cc7b8[m [CHG] legal/enterprise: v7: remove renewal price change
+[33m7a871ecbb[m Update documentation.rst
+[33m581c2dd94[m Update documentation.rst
+[33me37e66c55[m [IMP] legal/enterprise_fr: update with changes for v6 and v6a of english agreement
+[33mc5dbb9859[m [FIX] legal/enterprise: correct typo in v6a
+[33md3e4668a1[m [IMP] legal/partnership: reorganize logically
+[33ma0c193edb[m [FIX] getting_started: Updates (typo corrections) to documentation.rst
+[33m30915e9a8[m [FIX] accounting: Fix typo
+[33m7f3e7d8af[m [FIX] discuss: Correct grammar in title
+[33m9c7c9cd59[m [FIX] legal: typo
+[33mb6895e66c[m [FIX] helpdesk: Correct section name
+[33maf1e65f41[m [IMP] helpdesk: Initalize pot file
+[33m8451def5a[m [ADD] helpdesk: Add a documentation section and page
+[33mbbcfe51ef[m [ADD] legal: code of conduct
+[33mf1af16bb3[m [ADD] OnSIP doc
+[33mcb5cc9369[m [I18N] fetch new terms from Transifex
+[33mb7b7f0224[m [IMP] accounting: Add note on 'How to adapt taxes to my customer status or localization'
+[33m6c60fbd32[m [IMP] accounting: Reorganize,relabel some sections
+[33m5b7447950[m [ADD] accounting: Get paid with SEPA
+[33md8ffad22f[m [I18N] fetch latest 11.0 translations from Transifex
+[33m9fcd8fed1[m [IMP] inventory: Set a more realitic title for the introduction page
+[33m0c10c1fbc[m [I18N] export source terms
+[33m13d8e540f[m [ADD] purchase: Add blanket order documentation
+[33mf0c8945c0[m [IMP] legal: updated partnership contract for 2017
+[33ma53349e6e[m [MERGE] Forward-port 10.0 up to 60ab3ab
+[33m37d98c36a[m [IMP] legal: clarify enterprise contract
+[33m60ab3ab84[m [FIX] accounting: Clarify tax-included configuration
+[33m76cc06594[m [FIX] crm: Rename 'Sales Team' into 'Sales Channel'
+[33meb3868624[m [FIX] accounting: Fix typo
+[33m351a9b207[m [FIX] accounting: Fix typo
+[33m34f1db71e[m [FIX] db_managememnt: Fix grammar issue
+[33m1c55703ba[m [FIX] sale: Fix typos
+[33m63034f7e4[m [FIX] inventory: Explain how to access the product barcode configuration form
+[33m6d9eba5c1[m [FIX] inventory: Rename 'Settings' instead of 'Setting'
+[33ma7945674c[m [FIX] inventory: Correct menuitem name
+[33m6037ee15d[m [FIX] inventory: Removing extra 'to' from subtitle
+[33mfa59d9400[m [IMP] mexico: Some improvements.
+[33mc8ab03fcf[m Update documentation.rst
+[33mcd1e50ca2[m Update documentation.rst
+[33mea7a01bd1[m Update documentation.rst
+[33ma54feb17c[m Update documentation.rst
+[33m2b69cbe9d[m Update documentation.rst
+[33mf467c539a[m Update documentation.rst
+[33md56e0e178[m [ADD] legal: add license section for v11
+[33m14214b00c[m [ADD] legal: add license section for v11
+[33maa85ffcfd[m [I18N] synchronise 10.0 doc source terms
+[33mae9b0c350[m [ADD] Localization Mexico
+[33m12a8718fd[m [I18N] Update translation terms from Transifex
+[33m4d85a46d5[m [ADD] legal: Odoo.sh Beta program
+[33m0c44dfabb[m [FIX] legal: update enterprise contract for new pricing
+[33m5f20e2638[m [FIX] legal: update enterprise contract for new pricing
+[33m54a7c4b59[m [FIX] legal: update enterprise contract for new pricing
+[33m770f99ee4[m [I18N] Update translation terms from Transifex
+[33m315a3863d[m [I18N] Update translation terms from Transifex
+[33m5728d4bf2[m [IMP] account: Update mexican localization certificate files
+[33m3013c4751[m [IMP] expense: Update doc flow to v11
+[33mc8fe0ffc6[m [I18N] Update translation terms from Transifex
+[33m76f977647[m [I18N] Update translation terms from Transifex
+[33m44a4f98c1[m Update documentation.rst
+[33mee7514143[m Update documentation.rst
+[33ma7d9dc418[m [I18N] Update translation terms from Transifex
+[33md9ce5306c[m [I18N] Update translation terms from Transifex
+[33m8bb8a9441[m [I18N] Update translation terms from Transifex
+[33mc7e5a0ae4[m [I18N] Update translation terms from Transifex
+[33md57f501fb[m [I18N] Update translation terms from Transifex
+[33m19cbe1262[m [FIX] locale: clean .po files
+[33m60f728955[m [I18N] zh_CN translations
+[33md9fa182d8[m Forward-port of branch 10.0 up to b972ab1e7c9c6236eed9b1730743429c14ca7533
+[33mb972ab1e7[m [IMP] add online terms of sale to legal TOC
+[33m3930a62b1[m [IMP] legal: cost of 4/5 USD
+[33m892de251e[m [IMP] legal: add Odoo Online terms and SLA
+[33mc27a6c377[m [I18N] Update translation terms from Transifex
+[33m55169c0bc[m [I18N] Update translation terms from Transifex
+[33m9a1dba88a[m [MERGE] Forward-port of branch 10.0 up to febd07c
+[33mfebd07cc8[m [FIX] mementoes: Fix some terms/computation/links
+[33mffde28af3[m [I18N] Update translation terms from Transifex
+[33mcb5f4765d[m [ADD] link to business memento
+[33m6d575f3d3[m [IMP] general: avoid screaming
+[33m8f1fbe3a2[m [ADD] How to determine if a vendor bill should be paid (3-way matching)
+[33m54efadd1c[m [I18N] Update translation terms from Transifex
+[33mc27456ef5[m [MERGE] Forward-Port branch 10.0 up to 803263c
+[33m803263c13[m [ADD] ecommerce: How to get paid with Authorize.Net
+[33m2a0cb7565[m [IMP] discuss: correct mistake about office 365 servers + clearer guidelines for redirections
+[33m3e1cf4c98[m [I18N] legal: remove translations
+[33m44a50ed81[m [I18N] export source terms
+[33m379877fc2[m [I18N] Update translation terms from Transifex
+[33m012e5358a[m [I18N] Update translation terms from Transifex
+[33me503dcae3[m Update documentation.rst
+[33m7b90c78d0[m Update documentation.rst
+[33m076b47a6b[m [ADD] accounting: How to manage cash basis taxes
+[33mc0ce13fec[m [FIX] ecommerce: fix typo about paypal cost
+[33md3e0601ca[m [I18N] Update translation terms from Transifex
+[33maf76d7dc6[m [IMP] crm: remove customer field information from lead form doc (no longer visible)
+[33ma97b14e3d[m [IMP] crm: update doc to sync with Google Calendar + misc imp in similar doc for google analytics
+[33m04e4ced6b[m [IMP] accounting: Update Credit Card Documentation
+[33md5b001deb[m [IMP] accounting: Improve Credit Card Documentation
+[33m44054cbae[m [FIX] inventory: fix typo
+[33mee634193f[m [IMP] ecommerce: add an example
+[33m64a6b0d04[m Merge pull request #221 from odoo/10.0-new-ipn-image-fgi
+[33me26d8bf1f[m [IMP] ecommerce: change image for paypal IPN config
+[33md663a3827[m Update enterprise_fr.rst
+[33m2b180b844[m [I18N] Update translation terms from Transifex
+[33mf62d6f324[m [FIX] db_management: reference to exisiting page
+[33m39ed3e029[m [I18N] Update translation terms from Transifex
+[33md2d6ad6c4[m [I18N] export source terms
+[33m3b9da75ea[m [FIX] accounting: link to paypal page
+[33m652e02e28[m [FIX] sales: Title underline too short
+[33mb2e16d2f1[m [FIX] legal: avoid duplicated label
+[33ma3613fbee[m [FIX] general: wrong path to image
+[33m3086295b3[m [I18N] do not translate legal on Transifex
+[33m4504607e9[m [MERGE] Fast-forward branch 10.0 up to 0c354a19c8c5c3b6bf0ed2e8a637576410b22af1
+[33m0c354a19c[m [FIX] sales: Specify that an invoice is created instead of an order
+[33m8b9da0a17[m [FIX] sales: Correct mistakes about invoicing status of orders to upsell
+[33md98595b44[m [IMP] eCommerce: brand new doc on payment methods + requested config changes for Paypal
+[33mf748dd0b2[m [IMP] legal: include subsidiaries in Odoo S.A. denomination
+[33ma641ca38e[m [IMP] legal: include subsidiaries in Odoo S.A. denomination
+[33m4208e9970[m [IMP] legal: include subsidiaries in Odoo S.A. denomination
+[33med13fe480[m [IMP] legal: ToS superseeding, implicit agreement, right to modify and versioning
+[33mc27cab4a0[m [ADD] legal: terms of sales + pdf versions
+[33mcbfb3fa11[m [IMP] legal: ToS superseeding, implicit agreement, right to modify and versioning
+[33mcdae67fb5[m [ADD] legal: terms of sales + pdf versions
+[33m11609153c[m [IMP] legal: ToS superseeding, implicit agreement, right to modify and versioning
+[33m24366f607[m [FIX] general: authentification -> authentication
+[33m8aba74fda[m [ADD] legal: terms of sales + pdf versions
+[33m6af803796[m [IMP] discuss: improved email server doc
+[33m95b64ca2d[m Fix custom translator setup
+[33mc89113e28[m [FIX] accounting: typo
+[33m7ad1fa3be[m [ADD] accounting: Mexico - Accounting Localization
+[33m0bffbb286[m [I18N] Update translation terms from Transifex
+[33m210ab41d1[m [I18N] fetch source terms
+[33m087f128e6[m [I18N] export 10.0 source terms
+[33m300f36039[m Update documentation.rst
+[33mbcf60158e[m Update documentation.rst
+[33m2c7c57b6a[m [MERGE] Forward port 10.0 up to d5a4d5870cbb9de522a64ecd156fbe756af149f3
+[33md5a4d5870[m [IMP] website: new doc to set up custom domain name
+[33ma1b9ed07c[m [FIX] accounting: Correct grammar issue in taxcloud page title
+[33m289bb5091[m [FIX] expense: Remove unecessary line
+[33m32b26ef8c[m [ADD] accounting: Switzerland Accounting Localization
+[33md0a96fa13[m [IMP] inventory: Set up your barcode scanner: add link to barcodes_actions.pdf
+[33mdcd34c56c[m [FIX] accouting: Correct image in `How to register credit card payments on invoices?`
+[33m99bde3bea[m [I18N] synchronise v10 translations
+[33m6778e3691[m [FIX] bump version to 10.0 in config file
+[33mf427273a5[m [I18N] update .tx/config with new modules
+[33m86f7852f9[m [I18N] link to new transifex project
+[33mee9e8b9b8[m [I18N] final 9.0 synchronisation
+[33me66664ba0[m [I18N] export source terms
+[33m828a254ed[m [FIX] expense: remove warning
+[33m9c0d4198e[m [IMP] pos: Remove reference to previous posbox
+[33mbeb156ed5[m [FIX] accounting: Fix the negative reminder delay example
+[33m899748882[m [FIX] manufacturing: Fix small typo in `Setting up a basic BoM`
+[33m84d909c1e[m [ADD] Discuss: new doc for external email servers
+[33m57b9048e9[m [IMP] sale: update `How to adapt your prices to your customers and apply discounts`
+[33m0b6f8a9f2[m [IMP] purchase: Update `How to manage Purchase Tenders` to v10
+[33m662c9f52a[m [IMP] sales: update `How to link terms and conditions to a quotation?`
+[33mb5dad6dad[m [MERGE] Formward port 9.0 up to 0e2dc7114396d06836eae2e9323c8cf5f8d4a7af
+[33md9d1a3eac[m [FIX] accounting: minor wording change
+[33m9fcd26c54[m [FIX] crm: fix layout issue due to typo
+[33ma14d75404[m [FIX] crm: fix layout issue due to typo
+[33ma0be0a917[m [IMP] website: update doc about Google Analytics config
+[33m0e2dc7114[m [I18N] fetch new terms from Transifex
+[33m727180d65[m [FIX] point_of_sale: correct reprint documentation
+[33ma3edbe22f[m [ADD] discuss: Integrating Twitter Feed with Channels
+[33m57aa7dfc9[m [MOV] discuss: Split getting_started.rst into several sections
+[33mba5511d73[m [FIX] Typo into "Set up stages probabilities"
+[33m6a84ef137[m Revert "[FIX] legal: Update link"
+[33mdb6396534[m [IMP] licenses: cosmetics and title underlines
+[33m90e1494bc[m [ADD] license section for v10
+[33mb91e036ef[m [MERGE] Forward port branch 9.0 up to c6b62deb7f61157deba0c4a6367e7da005f98517
+[33mc6b62deb7[m [IMP] db_management: add doc for unlink db
+[33mda89e98c5[m [FIX] legal: Update link
+[33m187bdc4ec[m [FIX] general: typo
+[33mb6214cf02[m [FIX] crm: make link clickable
+[33m4b079e2eb[m [ADD] general: How to allow users to sign in with their Google account
+[33m7f36557a4[m [ADD] How to synchronize your calendar with Google Calendar
+[33md41451129[m [IMP] Move `legal section` into `Practical Information`
+[33m60ab9a563[m [IMP] db_management: rework section for future content
+[33m3cfcd41ee[m [FIX] inventory: typos in `How to setup Odoo inventory?`
+[33mbb5e0d41c[m [FIX] mrp: do not manufactufe products
+[33mc71b60361[m [FIX] doc: v10ification
+[33mf6e78eefc[m [I18N] fetch new terms from Transifex
+[33medb110cad[m [IMP] translations: Generate new source terms
+[33ma0e946609[m [MERGE] Forward port branch 9.0 up to 8b8e6c5916031fe4c75bcd3f74d633dea2018132
+[33m8b8e6c591[m [IMP] translations: Update source terms
+[33m4a6fd8ba6[m [ADD] general: How to add an user
+[33m8fd1baf57[m [IMP] manufacturing: configure translations
+[33m7b946bf60[m [FIX] manufacturing: code is better when not commented
+[33m2b3e5997e[m [ADD] manufacturing: How to select the right replenishment strategy
+[33m83fe13a1b[m [ADD] manufacturing: Add banner
+[33m67551b979[m [FIX] manufacturing: Correct page title
+[33mfcb3dc4a1[m [ADD] manufacturing: Setting up a BoM for a Product With Sub-Assemblies
+[33mdd5bbf076[m [ADD] manufacturing: How to manage BoMs for product variants
+[33m43eda7d09[m [FIX] manufacturing: fix image layout issue
+[33me6216685a[m [ADD] manufacturing: How to Sell a Set of Products as a Kit
+[33m05391af08[m [ADD] manufactuting: How to process a manufacturing order
+[33m3cc76159a[m [ADD] manufacturing: How to Configure a Bill of Materials
+[33me404b6c58[m [ADD] manufacturing: MRP Terminologies
+[33m259facecd[m [ADD] manufacturing: Introduction to Odoo Manufacturing
+[33m94a622817[m [ADD] general: Manage Odoo in your own language
+[33mff4e42470[m Remove Incorrect Statement
+[33m0c5e9842c[m [IMP] Hide link to work in progress doc page
+[33me2a425c7c[m [FIX] demo_link: retrieve correctly the result from read()
+[33maf3472644[m [ADD] expense: Overall flow documentation
+[33m9400911bc[m [FIX] pos/setup: remove extra space in startup command
+[33me59740461[m [IMP] pos/setup: mention support of ESC/POS
+[33m472d24982[m [FIX] pos/setup: remove extra space in startup command
+[33mf6d9683ea[m [IMP] pos/setup: mention support of ESC/POS
+[33mda0bdfff4[m [FIX] ecommerce, legal, sales: Fix warnings and an error
+[33m68b8be4dd[m [IMP] general: Add banner
+[33m7da4a257b[m [IMP] Remove unused files, inexistant references, fix the warnings on build
+[33m9bfc3e7eb[m [FIX] demo_link: retrieve correctly the result from read()
+[33mb88413551[m [IMP] account, website_sale: update taxcloud doc and misc changes in topic titles
+[33maf4a3a1f6[m Clarifed FEFO Section
+[33m0a8262de0[m [IMP] typo
+[33m32a4471e2[m [I18N] fetch new terms from Transifex
+[33m6bf16260c[m [MERGE] Forward port branch 9.0 up to e3bb738337bb2ad501468072e660b587b123487f
+[33me3bb73833[m [ADD] Shipping DHL: How to add dhl credentials
+[33m100f4f815[m [MERGE] website,pricelists and taxes pages review + new app ecommerce app section
+[33m30409fb2f[m [FIX] ecommerce: Changed reference to pricelists
+[33m26c74a388[m [ADD] ecommerce: How your customers can access their portal
+[33me95117096[m [ADD] How to collect payments with Paypal
+[33m6bf0c440d[m [ADD] ecommerce: How to set up payment methods
+[33mb6d8ecd57[m [ADD] ecommerce: Add section to accounting pages
+[33maee21dd4d[m [ADD] ecommerce: Add section to website pages
+[33m5b2ada42a[m [ADD] ecommerce: Introduction to Odoo eCommerce
+[33m6d0d5f520[m [ADD] ecommerce: How to sell pricier product alternatives (upselling)
+[33m07d3af1a2[m [ADD] ecommerce: How to enable comments & rating
+[33m1a0a87156[m [ADD] ecommerce: How to create & share promotional codes
+[33mef172abcb[m [ADD] ecommerce: How to adapt the prices to my website visitors
+[33m468ce3163[m [ADD] ecommerce: How to sell accessories and optional products (cross-selling)
+[33m35d085696[m [ADD] ecommerce: How to manage product variants
+[33m43eca4046[m [ADD] ecommerce: How to customize your catalog page
+[33m2f9ad31d6[m [ADD] ecommerce: How to show product availability
+[33mc073510f1[m [ADD] ecommerce: How to display several images per product
+[33mde61388f3[m [ADD] ecommerce: How to build a product page
+[33m3174b2806[m [REM] sales: 'How to comply with local taxes' and 'How to create different versions of a product (size, colour, etc.)'
+[33m2a2e95235[m [ADD] website: How to set my own domain name
+[33md7a71d5f0[m [ADD] sales: How to import my products
+[33ma3d50fabe[m [ADD] sales: How to adapt your prices to your customers and apply discounts
+[33mc77005051[m [MOV] sales: How to keep control of margins on retailer price?
+[33m7681bb873[m [REM] sales: How to apply discounts and limited offers?
+[33m20fb65a49[m [ADD] sales: How to sell in foreign currencies
+[33m684689fdb[m [MOV] Move 'How to translate my website'
+[33mae5a12187[m [ADD] website: AB Testing: Unpublished file to be tranformed in rst
+[33m83f1caf9a[m [MOV] website: Move 'How to do Search Engine Optimisation in Odoo'
+[33m58c53bee8[m [ADD] website: How to track your traffic through Google Analytics
+[33mec7d2e9e3[m [ADD] ecommerce: New app section
+[33m1d957ded9[m [ADD] accouting: How to set tax-included prices
+[33m401260bae[m [MOV] sales: Move B2B_B2C.rst to account/others/taxes/ directory
+[33m5a80f5edf[m [ADD] accounting: How to set default taxes
+[33m9a36c38a8[m [IMP] accounting: Improve 'How to create new taxes'
+[33mb63d37de6[m [IMP] accounting: Improve page 'How to adapt taxes to your customer status or localization'
+[33m0469024b3[m [MERGE] Forward port branch 9.0 up to 945d9c6fd495e626dacd25597b8b32a9d8064c9b
+[33mf90dc23b6[m [ADD] base_import FAQ
+[33m945d9c6fd[m [FIX] inventory: Fix some minor grammar mistakes
+[33me9a11596a[m [FIX] crm: Update menu selection to activate the lead stage
+[33mde4a299a8[m [I18N] fetch new terms from Transifex
+[33mee67ac968[m [I18N] fetch new terms from Transifex
+[33m243560be7[m [IMP] getting_started: grammar
+[33m00279044f[m [I18N] fetch new master terms from Transifex
+[33mfc6906073[m [FIX] point_of_sale: correct posboxless setup
+[33m91f534ab7[m [IMP] accounting: wording
+[33mf55e450e6[m [FIX] inventory: remove "Specific Identification" from title
+[33mf0338c9f8[m [FIX] point_of_sale: typo
+[33md887c0645[m [FIX] project: missing word
+[33mf9fa96f52[m [FIX] inventory: errors or unclear phrases
+[33m3aa8cef2b[m [I18N] fetch the new terms from Transifex
+[33m1ff3065b6[m [I18N] fetch new POS terms from Transifex
+[33mf9847d3b6[m [IMP] point_of_sale: do not link to unexistant page
+[33ma84afd280[m [I18N] fetch new terms from Transifex
+[33m1ae1031a1[m [I18N] export and fetch terms
+[33maea3e0f77[m [I18N] fetch new terms from Transifex
+[33mbb2a9468a[m [FIX] valuation_methods_anglo_saxon: Correct valuation-chart + use dollars
+[33ma0dd87533[m [IMP] doc: define a layout for 'category index' pages
+[33mcb26e149e[m [I18N] remove .mo file that should have never been there
+[33m443b9747f[m [I18N] fetch new terms from Transifex
+[33m6126be33a[m [ADD] legal: add link to Odoo Online Acceptable Use Policy
+[33m559fd7926[m [I18N] fetch translations terms and remove vandalism
+[33m527c2db08[m [I18N] add French language
+[33m09a9059e5[m [I18N] fetch new terms from Transifex
+[33m71ddb4e53[m [I18N] export source terms
+[33m091c53563[m [I18N] fetch new terms from Transifex
+[33ma58a704a0[m [IMP] accounting: fix misleading paypal troobleshooting section
+[33me2000adb1[m [I18N] fetch new terms from Transifex
+[33m19de4a48a[m [IMP] replace support email by support form link
+[33ma892ca46d[m [IMP] Taxcloud: Better English + typos
+[33mb1668c365[m [ADD] Manage Your Sales Tax with TaxCloud API
+[33mfa2c0bad2[m [IMP] legal: clarify "User" definition
+[33mcd9a5d135[m typo: purchase analytic.
+[33m133117c33[m [ADD] legal: french translation of enterprise agreement
+[33m8a577e9e8[m [I18N] fetch new terms from Transifex
+[33m9a3503962[m [I18N] export source terms of db_management doc
+[33ma289b2bde[m [IMP] pos: certification and on-premise
+[33m06866f7a1[m [I18N] fetch new terms from Transifex
+[33md77b92878[m [IMP] db_management: uuid
+[33m118f09ca6[m [ADD] db_management: how to manage you databases
+[33m9bad75d95[m [I18N] fetch new terms from Transifex
+[33mf1da4e97b[m [IMP] voip: change some command line
+[33m7c560d43c[m [I18N] fetch new terms from Transifex
+[33mce087cc2c[m [I18N] fetch new terms from Transifex
+[33mc42a9dafb[m [ADD] layout.html: legal page link in footer
+[33m3f0c0dac3[m [WIP] legal: show that partnership agreement is still under revision
+[33m5cadce299[m [IMP] latex: copy PDF files next to HTML output
+[33m2037afded[m [WIP] legal: drafting, final v5 of enterprise agreement
+[33m7c807852d[m [I18N] fetch new terms from Transifex
+[33mcb96fc03d[m [I18N] fetch new terms from Transifex
+[33md193f7c0a[m [FIX] .doc-aside headings' colour
+[33m532163f42[m [I18N] fetch new terms from Transifex
+[33m95264ac29[m [I18N] export source terms
+[33ma2dafdf79[m [IMP] documentation-user: update compiled CSS
+[33ma63a3c765[m [FIX] documentation-user: resize 'Project' cover
+[33m43164704c[m [IMP] documentation-user: restructuring submenu
+[33mcc7c25977[m [I18N] fetch new terms from Transifex
+[33m69838f094[m Revert "[ADD] base_import FAQ"
+[33mdc38002cf[m [FIX] put latex_show_urls with a string
+[33m8304269cd[m [IMP] Update translations
+[33m2f682ca66[m [FIX] set latex_show_urls to True
+[33m0ff269649[m [ADD] base_import FAQ
+[33m27388c89a[m [FIX] side-menu overflow.
+[33mdcd8f86ba[m [I18N] fetch new terms from Transifex
+[33m0669db650[m [FIX] layout: wrong URL to external pages
+[33m9a478fa07[m [FIX] documentation-user: mobile menu button
+[33mde70a6581[m [FIX] documentation-user: minor layout fixes
+[33m8c68490db[m [FIX] css: no lessc in build script?
+[33mc07231580[m [FIX] css: remove css file
+[33mdde58d87d[m [FIX] css: language menu style
+[33m28f197ca7[m [IMP] all: new design to match the one on odoo.com
+[33m91f2cd2bb[m [IMP] crm: Improve VOIP information
+[33m8347f7fdb[m [FIX] accounting: bad menu indiquation
+[33mb2f9292d6[m [I18N] fetch new terms from Transifex
+[33mf8aca467f[m [I18N] export source terms
+[33m88eabd2a2[m [IMP] getting_started: Website design
+[33ma63bdc4c7[m [IMP] sales,inventory: updated translations
+[33mc78c26bbf[m [IMP] sales: 'Optional Product' rewritten for better English
+[33m15e8b4ca6[m [IMP] inventory: UPS credentials better english wording
+[33m2c125caf4[m [ADD] sales: How to create and edit an online quotation?
+[33m3371b5036[m [FIX] project: Wrong image/text in How to manage & collaborate on tasks?
+[33m7f0036ca2[m [IMP] point_of_sale: reflect new certified POS approach
+[33m9e172b585[m [I18N] fetch new terms from Transifex
+[33m78270350e[m [IMP] sales: updated translations
+[33m6c25af327[m [ADD] sale: How to give portal access rights to my customers?
+[33m754699a30[m [ADD] sale: How to link terms and conditions to a quotation?
+[33m472fad30f[m [ADD] sale: How to display optional products on a quotation?
+[33m495a63354[m [IMP] legal: Update translations
+[33m8eddc08f6[m [ADD] crm: How to install and setup Odoo VOIP
+[33m46adaf532[m [I18N] fetch new terms from Transifex
+[33m1c7fc6394[m [FIX] project: wrong field label
+[33m6aaea9c08[m [FIX] getting_started: Remove misleading statement
+[33ma6db76c83[m [IMP] inventory: Improve inventory documentation
+[33m6520beb8d[m [I18N] export source terms
+[33mc42cee570[m [IMP] sale_ebay: add doc about product identifiers
+[33m4eca44db9[m [IMP] inventory: updated translation
+[33m156e2123e[m [IMP] Inventory valuation method (FGI review)
+[33m8babc0856[m [I18N] fetch new terms from Transifex
+[33m550faabdf[m [WIP] legal: drafting
+[33mda12bbf1a[m [I18N] export source terms
+[33m4d4fe7471[m [I18N] fetch new terms from Transifex
+[33mfb529980b[m [ADD] project: How to forecast tasks?
+[33mfb4b4a67f[m [FIX] sale_ebay: move doc to sale instead of crm
+[33m7a526f533[m [IMP] Update translations
+[33m4658270bc[m [ADD] inventory: How to get credentials for UPS shipping integration?
+[33mdea6b7862[m [ADD] sale: How to use different invoice and delivery addresses?
+[33m6c9e05622[m [ADD] project: How to manage & collaborate on tasks?
+[33mc5da8e9aa[m [ADD] website: How to translate the website?
+[33ma8274f23f[m [ADD] inventory: How to cancel a delivery order?
+[33m2fde7d20a[m [ADD] inventory: How to change the label type of your delivery order?
+[33m19c403672[m [ADD] inventory: How to limit a delivery method to a certain number of countries?
+[33m50af8adc8[m [ADD] Inventory: How to change the packaging type for your sale order?
+[33m3dd49ab2c[m [IMP] Discuss: Improve the documentation page
+[33ma90cd2154[m [IMP] Discuss: Set a new banner
+[33mfe3a2869c[m [I18N] fetch new terms from Transifex
+[33m297936be7[m [IMP] hide empty menus
+[33m244ad74bc[m [ADD] Discuss: update translations
+[33m6f1225bbe[m [ADD] Discuss: Getting Started with Odoo Discuss
+[33mea334f598[m [IMP] more languages to display in drop down
+[33m9a5bae06c[m [FIX] typo
+[33mbc17c13b2[m [IMP] better translation menu
+[33m33bfa17b1[m [I18N] fetch new terms from Transifex
+[33md7f854652[m [IMP] Sales: Updated translations
+[33mbeed87022[m [ADD] Sales: How to manage prices for B2B (tax excluded) and B2C (tax included)?
+[33mceb06c02f[m [FIX]:Lots and Serial Numbers to Valuation Methods
+[33m086c36a5c[m [I18N] fetch new terms from Transifex
+[33m418e57a1d[m [I18N] export source terms
+[33m46e60390a[m [ADD] website: add Google Analytics tutorial
+[33m1fe11ed59[m [FIX] website: forgotten file
+[33m0433c5cb5[m [I18N] fetch new terms from Transifex
+[33mc4468433d[m [IMP] Website: New image for seo page
+[33mcdafbd197[m [FIX] accounting: some spelling and grammar errors
+[33m93fc46a21[m [FIX] crm: documentation typo
+[33ma20b06f79[m [I18N] fetch new terms from Transifex
+[33m17d86e557[m [FIX] website: add unlinked TOC
+[33m5e3b02e31[m [I18N] fetch new terms from Transifex
+[33mfb71ebae7[m [I18N] translate website resources
+[33md48997c4c[m [I18N] export source terms of source terms
+[33m4ac12868b[m [ADD] Website: How is SEO handled in Odoo?
+[33m34f88b98f[m [I18N] fetch new terms from Transifex
+[33m6e11e123b[m Update create_bank_account.rst
+[33m8ba534472[m [I18N] fetch new terms from Transifex
+[33m880bf4d3f[m [I18N] export source terms of getting_started doc
+[33m3d6d5205a[m [I18N] export source terms of sale_ebay doc
+[33m36a2128a1[m [ADD] sale_ebay documentation
+[33mfad700cdd[m [I18N] fetch new terms from Transifex
+[33m84750be73[m [ADD] getting_started: loaded translations
+[33ma4ed26df2[m [ADD] Getting Started with Odoo Online
+[33m55aa21e6d[m [ADD] 'Odoo Online' section, with 'Getting Started' page
+[33m7a17f2ddd[m [I18N] fetch new terms from Transifex
+[33m0bd44ad80[m [I18N] export source terms of point of sale doc
+[33md9bbc58d9[m [FIX] crm: link to version 9 doc
+[33ma2ab2f907[m [FIX] project: How to plan and track employees assignments, wrong image order
+[33m19e1eceef[m [ADD] point_of_sale: belgian fiscal data module documentation
+[33mccf9e49ec[m [I18N] fetch new terms from Transifex
+[33mf57555c1a[m [I18N] export source terms cf previous commit
+[33mb997b54a5[m [FIX] project: typo temas to teams
+[33mb50e41925[m [I18N] fetch new terms from Transifex
+[33mba2308107[m [I18N] export source terms
+[33m5130b32ef[m [IMP] Remove empty pages from TOCs
+[33m0b308e3cf[m [IMP] accounting: Introduction video transcript
+[33mfa28043e3[m [ADD] accounting: Introduction to Odoo Accounting
+[33me5e00f640[m [ADD] project: Awesome Timesheet App Demonstration video
+[33m22733cc4e[m [FIX] sale: wrong intro video
+[33me5c7739f7[m [ADD] sale: From quotation to sales order
+[33m014ae3c40[m [I18N] fetch new terms from Transifex
+[33m602de12f0[m [I18N] export source terms
+[33m222dc5b20[m [IMP] Modify the inventory valuation memento, for the anglo-saxon accounting
+[33ma08d15143[m [IMP] Modify the inventory valuation memento, for the continental accounting
+[33m4993bf959[m [FIX] embedded video in https for vimeo
+[33mc717f6314[m [FIX] embedded video in https
+[33mc1ad8dac4[m [ADD] crm: How to review my personal sales activities(new sales dashboard)
+[33mff7820ada[m [ADD] purchase: How to trigger a warning when purchasing at a specific vendor?
+[33m19b442118[m [I18N] fetch new terms from Transifex
+[33m2cf5d9ed6[m [I18N] export source terms of purchase
+[33m777834f12[m [FIX] conf: edit on github link
+[33m736788fc6[m [ADD] purchase: How to setup a multi-company sale/purchase flow?
+[33m511f21a48[m [ADD] purchase: How to check that everything is working fine?
+[33m8c6945f0d[m [ADD] purchase: How to trigger the purchase of products based on sales?
+[33mc5db8193b[m [ADD] purchase: How to setup two levels of approval for purchase orders?
+[33me6fa637a2[m [ADD] purchase: How to set several suppliers on a product?
+[33m6e8e1df34[m [ADD] purchase: From purchase order to invoice and receptions
+[33mc6e442b40[m [I18N] fetch new terms from Transifex
+[33m670f9bb0b[m [I18N] export source terms
+[33mda909ab50[m [FIX] purchase: note with missing link
+[33md1349ebe3[m [FIX] crm: Missing configuration step on crm/leads/manage/automatic_assignation.rst
+[33mc02644356[m [ADD] point_of_sale: Getting daily sales statistics
+[33m9df6a810b[m [ADD] point_of_sale: How to register multiple orders simultaneously?
+[33mbf4af51b3[m [ADD] point_of_sale: How to transfer a customer from table?
+[33mc58569990[m [ADD] point_of_sale: How to handle tips?
+[33m7fc39ee2a[m [I18N] fetch new terms from Transifex
+[33mf4c9163d9[m [I18N] export source terms
+[33ma07108df3[m [FIX] accounting: online_sync
+[33md5beda55e[m [ADD] point_of_sale: How to handle kitchen & bar order printing?
+[33m6a76971a8[m [ADD] point_of_sale: How to handle split bills?
+[33m8c09f3be6[m [I18N] update .tx/config file
+[33m0cdacfbae[m [I18N] export source terms and add project resource
+[33m1f401f221[m [I18N] fetch new terms from Transifex
+[33m136e269fa[m [FIX] project-specific static files
+[33m944170cd4[m [ADD] Sales: Introduction to Odoo Sales
+[33mf71b6710a[m [FIX] Rewrite the intro according to the standard code width
+[33m8f4d26b2c[m [ADD] project: Introduction to Odoo project
+[33m12a78b1b0[m [FIX] inventory: Remove obsolete reference
+[33med95385e5[m [ADD] crm: How to motivate and reward my salespeople ?
+[33m48e19c85c[m [FIX] incorrect inline role
+[33me2204cdd7[m [FIX] 1.2 compatibility
+[33mfbea64a25[m [FIX] git and sphinx ignore, remove committed pyc files
+[33m997861fa5[m [ADD] crm: Introduction to Odoo CRM
+[33m85d086803[m [ADD] Library to embed youtube and vimeo videos in a clean way
+[33m8c119fac5[m [ADD] purchase: How to setup drop-shipping?
+[33m654f52354[m [ADD] project: How to set up & configure a project?
+[33md14fcbe28[m [ADD] project: How to visualize a project's tasks?
+[33m6802b1e60[m [ADD] project: How to gather feedback from customers?
+[33mda1137774[m [ADD] project: How to use projects to handle claims/issues?
+[33m12ff324b9[m [ADD] sales: How to create tasks from sales orders?
+[33mae42bf28f[m [ADD] project: How to plan and track employees' assignments?
+[33m9cd4068ee[m [ADD] project: How to record time spent?
+[33m7c7141cd6[m [ADD] project: created all the doc pages
+[33m40071825a[m [IMP] PoS_loyalty: - improving description type of rewards       invoicing :  - set a customer with barcode
+[33mafe6dbc31[m [ADD] sales: How to invoice a support contract (prepaid hours)?
+[33m2a68e9538[m Merge pull request #99 from esperandus/patch-1
+[33m4504666a0[m Update terminologies.rst
+[33m6459d00a9[m [ADD] How to re-invoice expenses to your customer.
+[33m3fb403a0a[m [ADD] sales: How to invoice milestones of a project?
+[33ma29f38b06[m [FIX] Some bad characters
+[33mc630d69bb[m [ADD] sales: How to create my first quotation?
+[33mabdaf7ed0[m [ADD] point_of_sale: How to configure your table map?
+[33md0640f890[m [ADD] point_of_sale: How to setup Point of Sale Restaurant
+[33m6838deddc[m [ADD] point_of_sale: How to accept credit card payments in Odoo POS using Mercury?
+[33mfce5fbce0[m [ADD] point_of_sale: How to reprint receipts?
+[33mfa5c5300b[m [ADD] point_of_sale: How to register customers?
+[33mba5ee5dc7[m [ADD] point_of_sale: How to create & run a loyalty reward system
+[33m20d2b5bad[m [ADD] point_of_sale: How to manage multiple cashiers?
+[33ma232fa202[m [ADD] point_of_sale: How to apply manual discounts?
+[33m897196d90[m [ADD] point_of_sale: How to use discount tags on products?
+[33m749a057dd[m [ADD] point_of_sale: How to set up cash control?
+[33m2d38ba97b[m [FIX] inventory: overview: setup fix
+[33m1957a733d[m [ADD] inventory: What is a removal strategy (FIFO, LIFO, FEFO, Specific Indentification)?
+[33m847edb2cf[m [I18N] export source terms
+[33m9c62e1765[m [IMP] accounting: put in a note
+[33m9bc93c625[m [FIX] accounting: paypal explanation
+[33m484ae1755[m Add coming soon mention on empty pages
+[33mf0310beb0[m [I18N] fetch the new terms with corrections in Dutch
+[33m9232c300e[m [ADD] point_of_sale: How to apply Time-limited or seasonal discounts?
+[33mf545872bb[m [ADD] point_of_sale: How to return and refund products?
+[33m041694f3d[m [ADD] point_of_sale: How to invoice from the POS interface?
+[33m68fbe6e97[m [ADD] point_of_sale: Getting started with Odoo Point of Sale
+[33m685e40198[m [ADD] point_of_sale: Add all the documentation pages
+[33m33b61ec55[m [ADD] inventory: How to use packages?
+[33m61c02b217[m [ADD] inventory: When should you use packages, packagings or units of measure ?
+[33m2a67b6653[m [ADD] inventory: From procurement to delivery
+[33md40d1fd61[m [I18N] fetch new terms from Transifex
+[33m80e69e58e[m [I18N] sale resource for Transifex
+[33m73cc17390[m [I18N] reexport inventory terms + sale terms
+[33m166db3747[m [FIX] accounting: shouting buttons
+[33m4a10c5b94[m Avoid building a /en URL in language switcher
+[33m02e494800[m [ADD] inventory: How to integrate landed costs in the cost of the product?
+[33mf1451325f[m [ADD] sales: Create all the doc pages
+[33mec97bc791[m Language switcher
+[33m5393e5fc9[m [I18N] fetch and correct terms
+[33m857b85321[m [FIX] accounting: bad buttons
+[33m6a04ec007[m [I18N] reexport terms
+[33m45b4c71f7[m [FIX] inventory: link to memento
+[33m4e2961b86[m [FIX] inventory: links
+[33madd72903f[m [FIX] accounting: some fix in in_odoo.rst
+[33m3929109f8[m Revert "[FIX] doc: odoo theme so it's compatible with Sphinx 1.2 / 1.3"
+[33md760455c9[m Synchronise nl translation
+[33m507411064[m [I18N] first synchronisation for Dutch
+[33m157f8e7ec[m [I18N] inventory: reexport the translation terms
+[33m81a1ba988[m [IMP] accounting: better TOC
+[33mababe61b0[m [ADD] inventory: What is a push rule?
+[33m97a97ac42[m [ADD] inventory: What is a procurement rule?
+[33mae67cbc3f[m [I18N] reexport the translation terms
+[33mb5ceada81[m [IMP] inventory: clean TOC and titles
+[33m2cf8dfe66[m [ADD] inventory: How to use routes ?
+[33m223037396[m [FIX] accounting: remove reference to asset
+[33m72051501b[m [IMP] accounting: cleaning
+[33m9ed7dd10a[m [ADD] inventory: How to organize a cross-dock in your warehouse?
+[33m76055f253[m [ADD] purchase: How are scheduled order dates computed?
+[33m52a1911e7[m [ADD] purchase: How to purchase partially at two vendors for the same purchase tenders?
+[33m3844a55a8[m [ADD] purchase: How to analyze the performance of my vendors?
+[33m4e9a17430[m [ADD] purchase: How to cancel a Purchase Order?
+[33m33efc3954[m [ADD] purchase: How to control received products?
+[33m5b59abfd5[m [ADD] purchase: How to Manage Vendor Bills
+[33m8b49e4eb0[m [ADD] purchase: How to import vendor pricelists
+[33m82bea8d85[m [ADD] purchase: How to purchase in different units of measures than sales?
+[33m0dc65b8b0[m [ADD] Purchase : Add all the pages
+[33m5c4a33cba[m [ADD] inventory: How to do inter-warehouses transfers?
+[33mb1923a287[m [ADD] accounting: How to synchronize your Paypal account with Odoo?
+[33m8151a78ae[m [FIX] doc: odoo theme so it's compatible with Sphinx 1.2 / 1.3
+[33m2175c37a5[m [ADD] git: .gitignore
+[33m245ffdcc9[m [ADD] inventory: What is a putaway strategy?
+[33mb45124ce4[m [ADD] How to manage lots of identical products?
+[33mba8bd16c3[m [IMP] inventory: make the structure consistent with the 'Odoo 9 Documentation' spreadsheet
+[33meb8ac9be5[m [ADD] How to work with serial numbers?
+[33m10a51ea72[m [FIX] typos
+[33mdd4e76ecb[m [ADD] inventory: How to handle lots and serial numbers with barcodes?
+[33m9bf436431[m [ADD] inventory: How to process incoming receipts?
+[33m800fe218a[m [ADD] inventory: How to do an internal transfer?
+[33m8f876c2ec[m [ADD] inventory: How to do an inventory adjustment with barcodes?
+[33mb2b26eeb5[m [ADD] inventory: Set up your software
+[33m523b0d82b[m [ADD] inventory: Set up your hardware
+[33ma99602d2f[m [ADD] inventory: Add barcode section
+[33mf557cfe85[m [ADD] inventory: How to use different units of measure?
+[33mee4e905f8[m [ADD] Transifex configuration file
+[33mcc2539342[m [ADD] .pot files
+[33mc0098583e[m [ADD] Modify build scripts to enable translations
+[33m4ab658a5b[m [ADD] How to cancel a shipping request to a shipper?
+[33m84c6891fb[m [ADD] inventory: How to print shipping labels?
+[33m4280e9725[m [ADD] inventory: How to manage multiple packs for the same delivery order?
+[33m243efbc21[m [ADD] inventory: How to invoice the shipping cost to the customer ?
+[33m7d12e9393[m [ADD] inventory: How to integrate a third party shipper ?
+[33me4baa9435[m [ADD] inventory: How to setup a delivery method?
+[33m92b3ab984[m [ADD] inventory: Create shipping section and new files
+[33mc0f179e26[m [ADD] inventory:  What's the difference between lots and serial numbers?
+[33mccfe722ab[m [ADD] inventory: How to configure and run schedulers?
+[33m86b96c8a0[m [ADD] inventory: How to manage stock that you don't own?
+[33m7e5ffaba8[m [ADD] inventory: How to scrap products?
+[33m8ba22f425[m [ADD] inventory: How to add a quality control step in goods receipt? (3 steps)
+[33md7932eb65[m [ADD] inventory: How to unload your shipment to an input location? (2 steps)
+[33maa2044499[m [ADD] inventory: How to choose the right flow to handle receipts?
+[33m8805505ef[m [ADD] inventory: How to send products to customers directly from suppliers (drop-shipping)?
+[33m4e721182b[m [ADD] inventory: How is the scheduled delivery date computed?
+[33m9cec57fdd[m [ADD] inventory: How to process delivery orders in three steps (pick + pack + ship)?
+[33m84f2d4e40[m [ADD] inventory: How to process delivery orders in two steps (pick + ship)?
+[33m474cc2d4c[m [ADD] inventory: How to Process a Delivery Order in One Step (Shipping)
+[33m0e69c63dc[m [ADD] inventory: How to choose the right inventory flow to handle delivery orders?
+[33mf6a4f51a6[m [ADD] Inventory: How to choose between minimum stock rule and make to order
+[33m27ecbf35b[m [FIX] accounting: link to doc
+[33m37afdb8e0[m [IMP] accounting: remove orphan pages
+[33me1e52e8ff[m [IMP] accounting: remove orphan pages
+[33m39fd30ba7[m [ADD] accounting: Perpetual and periodic inventory valuation use cases?
+[33m592f12850[m [ADD] accounting: How to create customized reports with your own formulas ?
+[33mc695dfdc7[m [ADD] Inventory:  How to create a new location?
+[33m88cb28c96[m [ADD] accounting: Analytic account usage
+[33m848d77cb7[m [ADD] inventory: How to create a new warehouse?
+[33m822c57d96[m [ADD] accounting: How to manage invoices & payment in multiple currencies
+[33ma4943025e[m [ADD] accounting: How is Odoo's multi-currency working?
+[33md492140ff[m [IMP] accounting: resolve some todo
+[33m2d3627829[m [ADD] accounting: How to define new taxes?
+[33m4b223fb91[m [IMP] accounting: remove TODO
+[33mad2423419[m [FIX] accounting: link and menu
+[33m2d1845439[m [FIX] accounting: missing links
+[33m877b37923[m [ADD] inventory: How to make the initial inventory?
+[33m651f47f64[m [ADD] inventory: Using product variants
+[33med6794a02[m [ADD] inventory: What is the difference between warehouses and locations?
+[33m79f90857d[m [FIX] wrong image
+[33m961959d21[m [ADD] crm: How to analyze the sales performance of your team and get customize reports
+[33mbb5f72dc8[m [ADD] inventory: How to setup Odoo inventory?
+[33m4360a2acd[m [ADD] inventory: Terminologies
+[33m8230afcf0[m [ADD] accounting: Record exchange rates at payments
+[33md684384d0[m [ADD] accounting: What is an account type and how do I configure it?
+[33m817440ecd[m [ADD] accounting: Configure model of entries
+[33md4a76ab2d[m [FIX] accounting: remaining rst markup
+[33md823b73cd[m [ADD] crm: Odoo CRM Terminologies
+[33mba5dacd87[m [ADD] accounting: Use cases in the bank reconciliation process?
+[33mca0f9396a[m Reexport style.css to include previous changes
+[33m70992230d[m [ADD] crm: How to do efficient Lead Scoring?
+[33m366fa33dc[m Remove authoring
+[33m0313d915c[m [FIX] css: rendering of inline images
+[33m3d60822a5[m [ADD] accounting: Register bank statements manually
+[33m3b063c65b[m [REM] accounting,crm,purchase : Remove credentials
+[33m8b4fa819d[m [ADD] accounting: How to close a fiscal year in Odoo.
+[33m54a74578b[m [FIX] apostrophe
+[33m63358f517[m [ADD] accounting: Impact on the average price valuation when returning goods
+[33m8a91bfc4e[m [ADD] accounting: What are the main reports available ?
+[33m105a4f539[m [ADD] accounting: How to manage financial budget?
+[33m1e03fa3c8[m [ADD] accounting: How to apply specific taxes by country, state or city?
+[33m1f2ab8d88[m [ADD] accounting: How to manage withholding/retention taxes?
+[33mc1adbedf1[m [ADD] accounting: How to track costs of human resources with timesheets?
+[33m41ea43e38[m [ADD] accounting: How to track costs of purchases, expenses, subcontracting?
+[33m1fe388028[m [FIX] accounting: batch in TOC and wrong images
+[33md22723c1b[m [ADD] accounting: inter bank transfers
+[33m4646f6a60[m [ADD] accounting: How to manage batch deposits of checks?
+[33m2d10f9594[m [ADD] accounting: import coda statement files
+[33ma4d42896d[m [ADD] Accouting: Add section Accounting->Others
+[33m269c27cc1[m [FIX] Accounting : Some pictures were in a wrong order
+[33mb091ebad8[m [ADD] accounting: How to synchronize Odoo with your bank?
+[33mdc448cabe[m [FIX] Accounting : invalid menuselection and ugly upperchase options
+[33m025dfd281[m [ADD] accounting: From Vendor Bills to Payments
+[33md8c619b8c[m [ADD] accounting: Import QIF statement files
+[33m1eff4fe31[m [ADD] Accounting: How to register customer payments by checks ?
+[33m4c07e4081[m [ADD] accounting: Import OFX statement files
+[33m847337f41[m [ADD] accounting: From Vendor Bills to Payments
+[33m96b34f994[m [ADD] accounting: How to keep track of employee expenses?
+[33m37d123aad[m [ADD] accounting: How to manage a bank in a foreign currency?
+[33mef8bfe37c[m [FIX] accounting: wrong menuselection
+[33mc8245702e[m [ADD] accounting: How to pay several bills at once?
+[33m5563869a8[m [IMP] point_of_sale: make POSBox spelling consistent
+[33mdd5a13863[m [ADD] accounting: How to forecast future bills to pay?
+[33m7f3b0414c[m [ADD] accounting: How to manage vendor Bills
+[33m200aa1389[m [ADD] point_of_sale: posbox documentation
+[33m2be848e8e[m [FIX] sepa: wrong markup
+[33m2af62cd03[m [ADD] accounting: Pay with SEPA
+[33m16ec76b0b[m [FIX] replace special quotation marks
+[33md80eb1f17[m [ADD] accounting: Pay by Checks
+[33m9dc87406c[m [ADD] accounting: When should I use supplier bills or purchase receipts?
+[33mf4c66d270[m [ADD] accounting: How to get paid and organize customer follow-ups?
+[33m0587f999c[m [ADD] account: How to accept paypal payments on invoices?
+[33m4d24d8281[m seealso as alert-go_tp
+[33m3036418c3[m [ADD] "Go To" alert (html example in commit description)
+[33m9e1ca08ef[m [ADD] Figure caption support
+[33m158f5adbc[m [IMP] links:hover, replace color
+[33mfc707ce80[m [FIX] toctree, fix headings margins and font-size
+[33m5b90b4968[m [FIX] Headings, restore bootstrap default + minor
+[33mf61ee38c4[m [IMP] General layout, minor
+[33m82f7ea9f6[m [ADD] accounting: How to handle credit card payments on invoices?
+[33mbfc55e622[m [FIX] accounting: link to page not present
+[33mc64110763[m [ADD] accounting: What are the different ways to record a payment?
+[33m5a4eed7a5[m [ADD] accounting: How to modify a validated invoice?
+[33m3b2f148a5[m [ADD] accounting: Deferred revenues: how to automate them?
+[33maaf4c7289[m [ADD] accounting: How to define an installment plan for an invoice
+[33m5b7ad24d7[m [ADD] account: How to setup Odoo Accounting?
+[33m1047c5f2f[m [ADD] account: How to setup cash discounts?
+[33m262684124[m [ADD] account: From Invoice to Payment Collection
+[33m4a51708b8[m [ADD] Print Stylesheet
+[33m51cba7119[m [CHG] hide sections sidebar for code_col pages (mementoes)
+[33me7b600941[m [IMP] hide broken demo/start under the rug so doc can be compiled
+[33mef4a9de0f[m [FIX] purchase: button has moved, update image
+[33ma69a063c1[m [ADD] crm: Automate lead assignation to specific sales teams or salespeople
+[33md6a039129[m Revert "[FIX] /start demo url is dead, just demo.odoo.com is enough"
+[33m779afb630[m [ADD] crm: How to generate leads from my website?
+[33meb62ba77c[m [ADD] crm: How to generate leads from incoming emails?
+[33m051d086ce[m [FIX] crm: related topics menu
+[33m70d205693[m [ADD] crm: How to import contacts to the CRM?
+[33m67a0c24f7[m [FIX] /start demo url is dead, just demo.odoo.com is enough
+[33m5cfd0d47a[m [ADD] crm: How to create a contact into Odoo CRM?
+[33me33cf18eb[m [ADD] crm: How to create a new salesperson?
+[33m9a9f296d0[m [FIX] crm: typo
+[33m7e490bd81[m [ADD] crm: How to create a new team?
+[33m59a679230[m [ADD] crm: Generating leads with Odoo CRM
+[33m582429fe6[m [IMP] warehouse -> inventory
+[33meab156b58[m [ADD] crm: How to setup your teams, sales process and objectives ?
+[33m69f5b20cc[m [ADD] purchase: How to setup a minimum stock rule?
+[33m85f2cdc12[m [IMP] all: better banners
+[33m3ec014a51[m [ADD] purchase: How to manage multiple offers
+[33m24b17bf50[m [IMP] use up-to-date and higher-resolution apps logos
+[33mcb2418ef6[m [ADD] purchase: create a Rfq
+[33m0f5fb247a[m [ADD] purchase: difference between purchase order, tender and rfq
+[33ma5eb3baeb[m [ADD] crm: organize pipeline page
+[33m14ade50b1[m [ADD] accounting: manage cash register
+[33m33fe80958[m [ADD] account: create a bank account
+[33mac26bb980[m [ADD] accounting: using payment terms
+[33mbe2b3318e[m [ADD] accounting: overview of the invoice process
+[33m2dc2bf1ac[m [FIX] account: assets fields and demo link
+[33mb5a95ac74[m [ADD] accounting: terminologies terms
+[33mfda6fa335[m [ADD] accounting: how to refund a payment
+[33mb43262245[m [FIX] actually add logo in title to all pages
+[33m762e7056e[m [ADD] ad-hoc spacers at the top of the accounting memento
+[33m50ccd4745[m [ADD] nav link to root document from any subdocument
+[33m06c984b95[m [CHG] mementoes -> user doc in main title
+[33m0e58ae3ee[m [IMP] make application TOC toplevel look like subtitles
+[33m4a8bc016d[m [IMP] "prev" links to the application's root if inside the application
+[33m93afab1e0[m [CHG] remove logo from sidebar and always have it in title
+[33m8ff66c5b4[m [IMP] integrate less compilation to base makefile
+[33me40074490[m [ADD] github links to edit documentation pages
+[33m3a4cba74c[m assets_management: typo
+[33ma7cf24ecb[m [IMP] README bits
+[33m70774f85e[m [IMP] inline paraiso dark to avoid pygments version headaches
+[33m3639bee59[m [ADD] example of authorship info at bottom of document
+[33me443ce59b[m [FIX] splitting of whitelist in demo:fields directive
+[33m469bfd3c8[m [FIX] remove unsupported sphinx role in readme
+[33m5b2942ad5[m [IMP] README, :fields: -> :only: in demo:fields::
+[33m1577f5324[m [IMP] tell Sphinx to ignore README.rst rather than mark it as orphan
+[33me272fe636[m [ADD] readme
+[33m9f89a9900[m [ADD] support for big action link button thing
+[33mf8d202061[m [ADD] support for fetching views's fields straight from demo
+[33m98e8930e0[m [ADD] assets management doc (wip)
+[33mc4e798e97[m [ADD] demo/POC functional documentation
+[33m705e0d56b[m [CHG] initial port to new theme
+[33m43c5bd3a0[m [FIX] rST warnings
+[33mb186513d5[m [ADD] configuration for inventory operation
+[33m93123c767[m [FIX] PIV: customer invoice COGS is a debit
+[33m7dc71b46e[m [FIX] Production Order: raw materials account is credited, not debited
+[33m05f2b2991[m [CHG] periodic valuation: display of initial inventory account
+[33m04aee42e4[m [REM] periodic inventory valuation: price difference in supplier invoice
+[33mcf1bcf979[m [IMP] add initial inventory line to costing methods
+[33meffd70f9d[m [FIX] standard pricing: wrong qty after reception
+[33m28641484f[m [FIX] incorrect products value in standard pricing listing
+[33mf10a03361[m [FIX] double underlining of some document titles
+[33m7bd32342c[m [IMP] add new analysis point for received goods value
+[33m0f7bdafe3[m [FIX] Manufacturing Order -> Production Order
+[33m4738c9019[m [FIX] double-entry: typo, scraped -> scrapped
+[33m08cd20a12[m Merge pull request #2 from odoo/inventory
+[33m051d680fd[m [ADD] inventory valuation
+[33ma7aba04e3[m [ADD] examples with jco
+[33m65ad67b85[m [IMP] wording, leftover bits of french
+[33m6c250deca[m [ADD] highlighted table to double entry document
+[33m15c51c984[m [ADD] support for generic alternative content in right-hand side
+[33meb20f603b[m [ADD] chart of inventory locations
+[33m2a714115b[m [ADD] double entry basic doc
+[33m4ae0fd613[m [FIX] remove unnecessary local, convert set to indexedseq
+[33m13761b455[m [CHG] move things around for wider functional concern
+[33m403018288[m [FIX] warning when compiling doc
+[33m6cdf5457b[m [IMP] note that the accounting memento is US GAAP
+[33ma27327008[m [CHG] Goods Received Not Purchased asset -> liability
+[33m85c5b64f9[m [FIX] navbarification process
+[33m6c4922026[m [IMP] functional -> business
+[33meb89b38de[m [ADD] Analytics support
+[33md1b532699[m [CHG] add functional doc TOC
+[33m9c12455c9[m [IMP] separate OPEX to its own P&L subsection
+[33mf9dc2d889[m [ADD] bank reconciliation, checks handling sections
+[33m736a32539[m [IMP] enter invoice-po price difference in its own account
+[33ma9974711e[m [ADD] company incorporation note
+[33mfeff6a66c[m [FIX] unbundle 1st year revenue recognition from service contract invoice
+[33m2503e2379[m [CHG] rename stock_in asset account
+[33mdf97c7b67[m [REM] treasury stock account from intro
+[33m65e6bb3d1[m [IMP] add highlight for retained earnings
+[33ma8a2c2ce8[m [ADD] supplier bill to journal entries
+[33m609ab8051[m [CHG] review stuff
+[33m0d6322797[m [IMP] match accounts listing to CoA
+[33m9d577a074[m [FIX] ordering of accounts in CoA
+[33m4968be3ad[m [ADD] hover color on CoA and journal controls to show they can be clicked
+[33m23bb0e783[m [FIX] reconciliation buttons cycle
+[33ma0601d909[m [IMP] display of spacing in listings
+[33m32493c9c0[m [FIX] hovering in intro
+[33m0e8449f62[m [CHG] fp changes
+[33m1ad6d35dd[m [FIX] variable taxes payment, maybe
+[33m47b92cc59[m [ADD] purchase of building
+[33m494834646[m [ADD] tax to supplier bill
+[33me52f5f5e8[m [ADD] tax to customer refund
+[33mdff31b5bd[m [ADD] COGS to customer invoice
+[33m0e8a689b7[m [REV] changes to account categories cheat sheet
+[33m72389fd70[m [IMP] reconciliation demo
+[33m9e1f87236[m [CHG] move accounting equation below accounts table
+[33mbfa4bdced[m [CHG] give same style for Balance equation as accounting equation
+[33md0a343d8d[m [REM] section on items triaging into journals
+[33m085206428[m [FIX] show CoA balance if account debited or credited
+[33m4a41d8f40[m [FIX] darken table separation lines to match right hand background
+[33m97da2694d[m [CHG] accounting equation to the right, text normal style to the left
+[33md41f1f4e2[m [IMP] hierarchical accounts list in main text
+[33md2cc62be7[m [IMP] update to react 0.13
+[33m3a50541a5[m [REM] fulfilled(?) todo
+[33m794f6b0b3[m [IMP] explanation, tentatively
+[33mb3753aeca[m [ADD] journal explanations (WIP), reconcile button & animation
+[33m5299abc24[m [CHG] FP changes, todos
+[33m845f1cd1d[m [CHG] reconciliation: remove journal items, clarification attempt
+[33m38e0afd4e[m [FIX] introduction table borders
+[33m06dcf7020[m [FIX] theme script in some iOS versions
+[33m900e16d3c[m [FIX] colors in single-column layout (small screen)
+[33m784cc2561[m [ADD] static reconciliation tables
+[33m358473e3c[m [IMP] condense bootstrap tables
+[33mb86f4c46a[m [IMP] better entries titles
+[33me2d43f938[m [CHG] move todos to rst document
+[33me79e32721[m [ADD] examples of journal entries
+[33m1570f5883[m [IMP] chart of accounts: only display non-zero amounts
+[33mcaf465740[m [CHG] rewrite journals & reconciliation
+[33m332c70bcc[m [ADD] odoo changes to theme
+[33m19296335e[m [IMP] don't always highlight last-enabled operation
+[33m60822587b[m [CHG] chart of accounts interaction impl
+[33m78765edae[m [REM] bolding in accounts listing
+[33mc736a0802[m [CHG] color scheme for accounts listing: go dark
+[33mf8c3d0a32[m [IMP] convert accounts listing to interactive
+[33m931c1c8ec[m [ADD] explanation + interaction of journals + chart of accounts
+[33m0ab12904e[m [ADD] initial closing
