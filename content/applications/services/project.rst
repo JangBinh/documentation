@@ -15,3 +15,4 @@ Project
    :titlesonly:
 
    project/tasks
+   project/project_management
