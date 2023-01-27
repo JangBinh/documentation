@@ -11,6 +11,6 @@ Shop Features
    shop/barcode
    shop/sales_order
    shop/multicashiers
-   shop/reprint
+   shop/posreceipts
    shop/cash_rounding
    shop/serial_numbers
