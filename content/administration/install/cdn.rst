@@ -4,77 +4,98 @@ Setting up a Content Delivery Network (CDN)
 
 .. _reference/cdn/keycdn:
 
-Deploying with KeyCDN_
-======================
+Deploying with KeyCDN
+=====================
 
-.. sectionauthor:: Fabien Meghazi
+.. sectionauthor:: Fabien Meghazi / Timothy Kukulka
 
-This document will guide you through the setup of a KeyCDN_ account with your
-Odoo powered website.
+A :abbr:`CDN (Content Delivery Network)` or Content Distribution Network, is a geographically
+distributed network of servers that provides high speed internet content. The
+:abbr:`CDN (Content Delivery Network)` provides quick, quality content for content heavy websites.
+
+This document will guide you through the setup of a KeyCDN_ account with an Odoo powered website.
 
 Step 1: Create a pull zone in the KeyCDN dashboard
 --------------------------------------------------
 
-.. image:: cdn/keycdn_create_a_pull_zone.png
-   :class: img-fluid
+On the KeyCDN dashboard, navigate to :guilabel:`Zones` menu item on the left. Name the
+:guilabel:`Zone Name`. This name will appear in the :abbr:`URL (Uniform Resource Locator)`. The
+:guilabel:`Zone Status` can be toggled back and forth from :guilabel:`Active` to
+:guilabel:`Inactive`. For this process the :guilabel:`Zone Type` should be :guilabel:`Pull`. Under
+:guilabel:`Pull Settings` enter the :guilabel:`Origin URL`. This should be the full database
+:abbr:`URL (Uniform Resource Locator)`.
 
-When creating the zone, enable the CORS option in the
-:guilabel:`advanced features` submenu. (more on that later)
+.. example::
+   Use ``https://yourdatabase.odoo.com``. Replace *yourdatabase* with the name of the database or the
+   custom URL.
 
-.. image:: cdn/keycdn_enable_CORS.png
-   :class: img-fluid
+.. image:: cdn/keycdn-zone.png
+   :align: center
+   :alt: KeyCDN's Zone configuration page.
 
-Once done, you'll have to wait a bit while KeyCDN_ is crawling your website.
+Under :guilabel:`General Settings` click the :guilabel:`Show all settings` button to expand the
+Zone options. This should be the last option on the page. After expanding the
+:guilabel:`General Settings` ensure that the :guilabel:`CORS` option is enabled. By default this
+option should be *enabled*.
 
-.. image:: cdn/keycdn_progressbar.png
-   :class: img-fluid
+Next, scroll to the bottom of the Zone configuration page and :guilabel:`Save` the changes. KeyCDN
+will indicate that the new Zone will be deployed, this can take about 10 minutes.
 
-.. note:: a new URL has been generated for your Zone, in this case it is
-          ``http://pulltest-b49.kxcdn.com``
+.. image:: cdn/zone-url.png
+   :align: center
+   :alt: KeyCDN deploying the new Zone.
 
-Step 2: Configure the odoo instance with your zone
---------------------------------------------------
+.. note::
+   A new :guilabel:`Zone URL` has been generated for your Zone, in this example it is
+   ``pulltest-xxxxx.kxcdn.com``. This will differ for each database.
 
-In the Odoo back end, go to the :guilabel:`Website Settings`: menu, then
-activate the CDN support and copy/paste your zone URL in the
-:guilabel:`CDN Base URL` field. This field is only visible and configurable if
-you have developer mode activated.
+Copy this :guilabel:`Zone URL` to a Notepad as it will be used in the next steps.
 
-.. image:: cdn/odoo_cdn_base_url.png
-   :class: img-fluid
+Step 2: Configure the Odoo instance with the new zone
+-----------------------------------------------------
 
-Now your website is using the CDN for the resources matching the
-:guilabel:`CDN filters` regular expressions.
+In the Odoo Website App, go to the :menuselection:`Settings` and then activate the
+:guilabel:`Content Delivery Network (CDN)` and copy/paste the :guilabel:`zone URL` in the
+:guilabel:`CDN Base URL` field. This field is only visible and configurable when
+:doc:`../../applications/general/developer_mode` is activated.
 
-You can have a look to the HTML of your website in order to check if the CDN
-integration is properly working.
+.. note::
+   Ensure that there are two "//"" *Forward Slashes* before the :guilabel:`CDN Base URL` and one "/"
+   *Forward Slash* after the :guilabel:`CDN Base URL`.
 
-.. image:: cdn/odoo_check_your_html.png
-   :class: img-fluid
+:guilabel:`Save` the Settings.
 
+.. image:: cdn/cdn-base-url.png
+   :align: center
+   :alt: Activate the CDN setting in Odoo.
 
-Why should I activate CORS?
----------------------------
+Now the website is using the CDN for the resources matching the :guilabel:`CDN filters` regular
+expressions.
 
-A security restriction in some browsers (Firefox and Chrome at time of writing)
-prevents a remotely linked CSS file to fetch relative resources on this same
-external server.
+In the HTML of the Odoo website the CDN integration is evidenced as working properly by checking the
+:abbr:`URL (Uniform Resource Locators)` of images. The CDN Base URL can be seen using the inspect
+function on the Odoo website.
 
-If you don't activate the CORS option in the CDN zone, the more obvious
-resulting problem on a default Odoo website will be the lack of font-awesome
-icons because the font file declared in the font-awesome CSS won't be loaded on
-the remote server.
+.. image:: cdn/test-pull.png
+   :align: center
+   :alt: The CDN Base URL can be seen using the inspect function on the Odoo website.
 
-Here's what you would see on your homepage in such a case:
+Why activate CORS?
+------------------
 
-.. image:: cdn/odoo_font_file_not_loaded.png
-   :class: img-fluid
+A security restriction in some browsers (Firefox and Chrome) prevents a remotely linked CSS file to
+fetch relative resources on this same external server.
 
-A security error message will also appear in the browser's console:
+If the CORS option isn't enabled in the :guilabel:`CDN zone`, the more obvious resulting problem on
+a default Odoo website will be the lack of font-awesome icons because the font file declared in the
+font-awesome CSS won't be loaded on the remote server.
 
-.. image:: cdn/odoo_security_message.png
-   :class: img-fluid
+A security error message will appear in the browser's console:
 
-Enabling the CORS option in the CDN fixes this issue.
+.. image:: cdn/odoo-security-message.png
+   :align: center
+   :alt: Error message populated in the browser console.
+
+Enabling the CORS option in the :abbr:`CDN (Content Delivery Network)` fixes this issue.
 
 .. _KeyCDN: https://www.keycdn.com
