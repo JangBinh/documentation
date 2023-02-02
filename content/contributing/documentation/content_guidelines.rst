@@ -1,6 +1,3 @@
-==================
-Content guidelines
-==================
 
 To give the community the best documentation possible, we listed here a few guidelines, tips and
 tricks that will make your content shine at its brightest! While we encourage you to adopt your own
@@ -19,13 +16,11 @@ writing style, some rules still apply to give the reader more clarity and compre
 
 Writing style
 =============
-
 **Writing for documentation** isn't the same as writing for a blog or another medium. Readers are
 more likely to skim read until they've found the information they are looking for. Keep in mind that
 the user documentation is a place to inform and describe, not to convince and promote.
 
 .. _contributing/consistency:
-
 Consistency
 -----------
 
@@ -37,7 +32,7 @@ match the existing tone and presentation, or rewrite it to match your own style.
 .. _contributing/grammatical-tenses:
 
 Grammatical tenses
-------------------
+----------------------
 
 In English, descriptions and instructions require the use of a **Present Tense**, while a *future
 tense* is appropriate only when a specific event is to happen ulteriorly. This logic might be
@@ -56,6 +51,10 @@ Paragraphing
 
 A paragraph comprises several sentences that are linked by a shared idea. They usually are two to
 six lines long.
+
+
+This is broll
+@@@@@@@@@@@@@
 
 In English, a new idea implies a new paragraph, rather than having a *line break* as it is common to
 do in some other languages. *Line breaks* are useful for layout purposes but shouldn't be used as a
